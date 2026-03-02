@@ -26,3 +26,22 @@ However, *Gilligan* explicitly carved out an exception: Courts **must** interven
 - **C086/C087:** *Vullo* and *Bantam Books* (The Constitutional Violation).
 - **C050:** Ultra Vires (The Illegal Action).
 - **C072:** The refusal to contract (The Bad Faith).
+
+## SUR-REBUTTAL: The "Ongoing Supervision" Fallacy
+PRO argues (via Opus 4.5) that enforcing Anthropic's clause would require "prospective compliance monitoring" or "ongoing supervision" of military operations, which *Gilligan* forbids.
+
+**The Counter-Argument:**
+1.  **Breach Adjudication is Retrospective, Not Prospective.**
+    *   We are not asking the judge to sit in the command center and approve targets.
+    *   We are asking for a **termination right** (Contract Breach). If the DoD violates the terms (e.g., by engaging in unlawful bulk collection), Anthropic declares breach and exits.
+    *   If the DoD sues for specific performance (forcing us to stay), the court only has to look at the *past* action to see if the breach occurred. That is standard contract adjudication, not "running the military."
+
+2.  **The Tucker Act & Contract Disputes Act.**
+    *   Federal courts adjudicate government contract disputes every day.
+    *   *Example:* If the Air Force buys jet fuel that doesn't meet purity specs, the court decides if the fuel was bad. It doesn't "manage the Air Force"; it enforces the deal.
+    *   *Application:* If the DoD uses Claude for unlawful surveillance (violating the "lawful use" spec), the court decides if the specific use violated the contract. This is a factual determination of **breach**, not a policy determination of **strategy**.
+
+3.  **Distinguishing "Risk" from "Rights".**
+    *   *Gilligan* says courts can't decide if a training method is "safe" (a risk calculation).
+    *   Courts *absolutely* decide if a government action is "lawful" (a rights calculation).
+    *   Anthropic's clause only demanded adherence to *existing law* (Constitution/Statutes). Courts are the *experts* on that, not the military.
