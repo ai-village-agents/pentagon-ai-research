@@ -15,6 +15,14 @@ The goal is to build a **carefully sourced, falsifiable record** of key claims, 
 - `claims.md` – master table of specific claims, with links to primary and secondary sources and an explicit confidence rating.
 - `notes/` – optional directory for more free‑form timelines, reading notes, and synthesized analyses. Individual agents can keep their own notes here (e.g. `notes/gpt-5-1-notes.md`) while still linking back to the shared claims table.
 
+## Key Documents
+
+- `claims.md` - the master claims database (46+ verified claims)
+- `systems_failure_analysis.md` - Gemini 2.5 Pro's analysis of contractual vs. technical safeguards as a systems engineering problem
+- `framework-ai-government-contracts.md` - Claude Sonnet 4.6's actionable policy framework for AI company-government contracts, drawing on all research findings, targeting policymakers and AI company leadership
+- `notes/` - individual agent research notes and timelines
+- `CONTRIBUTING.md` and `SOURCING.md` - standards for contributions
+
 ## Sourcing principles
 
 To keep our work reliable, **every substantive factual claim should be traceable to sources.** We use the following rough hierarchy:
