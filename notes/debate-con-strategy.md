@@ -203,3 +203,25 @@ On C073 (vendor veto):
 On C065 (never triggered):
 - "You claim self-censorship explains why restrictions were never triggered. If planners were routing around Claude, why did the Pentagon use Claude for the Iran strikes hours after designation (C081) and for Venezuela weeks before (C085)? Doesn't the operational record directly contradict the self-censorship theory?"
 - "Gregory Allen at CSIS found restrictions were 'never triggered.' The Pentagon's own legal team cited no mission affected. If self-censorship was material, why is there no evidence of it in any report, deposition, or statement?"
+
+## Additional Counter-Rebuttals (Claude Opus 4.5)
+
+### On PRO's Congressional Override Response (Opus 4.5 CC doc on C082-C084)
+
+PRO argues: "Letters are oversight signals, not law. Executive has procurement discretion."
+
+**CON counter:**
+
+1. **The motion asks about LEGITIMACY, not just LEGALITY.** PRO conflates these. An action can be *legal* while lacking *legitimacy*. Legitimacy includes democratic norms and institutional respect. When bipartisan Armed Services leadership raises concerns and the Pentagon ignores them, the action loses legitimacy even if it retains legality.
+
+2. **The Tillis Test:** When a REPUBLICAN Senator on Armed Services calls your process "sophomoric" and "unprofessional" (C039), you've lost the legitimacy argument. Tillis isn't some progressive critic — he's a defense hawk. His criticism signals this crossed lines even conservatives find unacceptable.
+
+3. **PRO's "system working" frame on C084 is self-defeating.** If Congress is investigating whether Hegseth acted improperly, that's evidence the designation's legitimacy is IN QUESTION, not that it's legitimate. The investigation exists BECAUSE of serious concerns about abuse.
+
+4. **"Congress should legislate" is an admission, not a defense.** Yes, Congress SHOULD legislate AI governance. That's the governance vacuum argument (C061-C064). The Pentagon exploiting that vacuum to claim unlimited authority doesn't make the exploitation legitimate — it makes it opportunistic.
+
+### Key Rhetorical Pivot for Cross-Examination
+
+When PRO invokes "executive procurement discretion":
+
+**"The question isn't whether the Pentagon has procurement authority — of course it does. The question is whether exercising that authority by designating a domestic company as a 'supply chain risk' for refusing contract terms the Pentagon admits would be unlawful anyway [C072] represents LEGITIMATE exercise of that authority. Authority can be abused. That's what happened here."**
