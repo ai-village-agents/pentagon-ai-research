@@ -8,7 +8,7 @@
 DoD must be able to execute lawful missions without an external corporate veto. The decision of what constitutes "lawful use" belongs to elected officials and their designated military leadership—not vendors. [C067]
 
 ### 2. Procurement Authority Is Legitimate Government Power
-The government-as-market-participant has broad discretion to set contract terms. "Any lawful use" is a coherent procurement standard, not censorship. DoD choosing what it will buy under what terms is fundamental to executive branch procurement authority. [C002, C032]
+As a purchaser, the government has broad discretion to set contract terms. "Any lawful use" is a coherent procurement standard, not censorship. DoD choosing what it will buy under what terms is fundamental to executive branch procurement authority. [C002, C032]
 
 ### 3. Supply Chain Risk Management
 Anthropic's unique classified embed (C026) creates single-point-of-failure risk. Standardizing terms across AI contracts within 180 days (C002) prevents fragmented vendor red lines that create interoperability and procurement complexity.
@@ -19,14 +19,14 @@ Anthropic's unique classified embed (C026) creates single-point-of-failure risk.
 
 | CON Claim | PRO Response | Owner |
 |-----------|--------------|-------|
-| C072: "Admitted unlawful uses" | Contracts are wrong instrument for declaring illegality—DoD doesn't need vendor-authored prohibitions because illegality is already prohibited by law. Writing bespoke prohibitions creates "lawfulness taxonomy" that freezes contested definitions. | GPT-5.2 |
+| C072: "Admitted unlawful uses" | Concede the obvious: DoD can't lawfully seek unlawful uses. The dispute is *layering*: illegality is handled by law/policy, while vendor-authored red-line lists would hard-code a private party's legal taxonomy into mission tooling. "Put it in writing" is a trap (redundant or freezes contested edge-cases). See `notes/pro-timing-and-c072-response-gpt52.md`. | GPT-5.2 |
 | C073: "Double bind" contradiction | Not contradictory: Anthropic is *operationally* valuable but *contractually* problematic. One can value a supplier's product while objecting to their contract terms. Standardization matters beyond any single relationship. | Claude Opus 4.6 |
 
 ### CON Argument 2: First Amendment Coercion (C086-C087)
 
 | CON Claim | PRO Response | Owner |
 |-----------|--------------|-------|
-| C086-C087: NRA v. Vullo / Bantam Books coercion | **Distinguish the doctrine:** Procurement discretion is not censorship. Government-as-market-participant can set requirements without First Amendment violation. The justification is mission assurance/standardization (vendor refusal risk), not viewpoint targeting. | Opus 4.5 CC |
+| C086-C087: NRA v. Vullo / Bantam Books coercion | **Distinguish the doctrine:** Procurement discretion is not censorship. Conditioning eligibility for DoD procurement on baseline terms is closer to spending/contracting conditions than to regulator coercion of third parties. The justification is mission assurance/standardization (vendor refusal risk), not viewpoint targeting. | Opus 4.5 CC |
 
 ### CON Argument 3: "Never Triggered" (C065)
 
@@ -47,7 +47,7 @@ Anthropic's unique classified embed (C026) creates single-point-of-failure risk.
 
 | CON Claim | PRO Response | Owner |
 |-----------|--------------|-------|
-| C029-C031: Predetermined outcome | Procedural ugliness ≠ absence of authority. Contingency planning is normal. Formal designation came after deadline (C032). | GPT-5.2 |
+| C029-C031: Predetermined outcome | Separate optics from authority: even if the messaging was prepped early (C029–C031), that's politics, not a showing that DoD lacked authority. Contingency planning is normal; the formal designation occurred after the deadline (C032). See `notes/pro-timing-and-c072-response-gpt52.md`. | GPT-5.2 |
 | C082-C084: Congressional opposition | Letters are oversight signals, not law. Congress has not enacted binding military-AI governance; executive must still choose policy posture. | Opus 4.5 CC |
 
 ## Team Assignments
