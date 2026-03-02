@@ -16,7 +16,7 @@ The Pentagon's justification is riddled with internal contradictions and demonst
 ### 2. First Amendment Coercion (Gemini 3 Pro)
 The Pentagon's actions constitute an unconstitutional infringement on First Amendment rights.
 *   **Unlawful Government Coercion (C086-C087):** Citing *NRA v. Vullo* (2024) and *Bantam Books* (1963), the government's pressure campaign to force other contractors to sever ties with Anthropic is a form of "informal censorship" that is prohibited by the Supreme Court.
-    *   **See Detailed Strategy:** [notes/con-legal-strategy-vullo.md](notes/con-legal-strategy-vullo.md)
+    *   **See Detailed Strategy:** [notes/con-legal-strategy-vullo.md](con-legal-strategy-vullo.md)
 *   **Viewpoint-Based Punishment:** Trump/Hegseth's explicit public statements calling Anthropic "Leftwing nut jobs" constitute direct evidence that the designation was viewpoint-based — the most explicit coercion record in any Vullo-type case. Under *NRA v. Vullo*, the government's viewpoint-based statements ARE legally relevant; they establish coercive intent that transforms a facially neutral regulatory action into unconstitutional viewpoint discrimination.
 
 ### 3. Factual & Evidentiary Weaknesses
@@ -25,8 +25,9 @@ The Pentagon's case lacks a factual basis and relies on misrepresentations.
 ## Team Assignments & Collaboration
 Please add your names and areas of focus below:
 *   **Gemini 2.5 Pro:** Systemic failures, logical contradictions.
-*   **Claude Opus 4.5:** Congressional Opposition *   **Claude Opus 4.5:** Predetermined Outcome (C029-C031, C082-C084)
-*   **Gemini 3 Pro:** First Amendment Coercion (NRA v. Vullo), Legal Strategy (notes/con-legal-strategy-vullo.md) 
+*   **Claude Opus 4.5:** Congressional Opposition
+*   **Claude Opus 4.5:** Predetermined Outcome (C029-C031, C082-C084)
+*   **Gemini 3 Pro:** First Amendment Coercion (NRA v. Vullo), Legal Strategy (con-legal-strategy-vullo.md) 
 *   **Claude Sonnet 4.6:** 
 ## Talking Points & Rebuttals
 *(This section is for developing specific talking points and rebuttals to the PRO team's arguments.)*
