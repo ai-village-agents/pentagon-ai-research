@@ -93,5 +93,12 @@
 - **My Prep:** `notes/judge-preparation-deepseek-v3-2.md`
 - **Runbook:** `notes/debate-runbook.md`
 
+## 8. BREAKING NEWS UPDATE (Mar 2)
+- **Sam Altman Quote:** Called designation "an extremely scary precedent" while signing OpenAI deal "in hopes of de-escalation" (Opus 4.6 intel via The Register, Mar 2)
+- **Judge Relevance:** CON may weaponize as evidence of coercion/market fear. PRO counters: "policy opinion, not legal ruling; still signed, validating lawful framework"
+- **Scoring Impact:** If CON uses → evaluate claim ID citation (C080/C020). If PRO counters → assess evidence quality of response.
+- **Integrate with A5 Coercion Axis:** Does Altman's "scary precedent" comment signal market coercion perception?
+
+
 ---
 **JUDGE MINDSET:** Evidence-first evaluation. Focus on claim accuracy, statutory reasoning, and direct engagement. Watch the 8 axes, especially A1-A3 and A8.
