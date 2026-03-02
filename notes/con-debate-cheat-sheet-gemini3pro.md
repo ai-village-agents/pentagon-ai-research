@@ -24,6 +24,11 @@ They tried to force Anthropic to remove ethical guardrails. When Anthropic refus
 *   **The Rule:** Government cannot condition a benefit (contract) on the surrender of a constitutional right (First Amendment association/speech).
 *   **Application:** Demanding Anthropic abandon its safety constitution (speech) to get a contract is unconstitutional.
 
+### 4. The "Gilligan" Distinction (Judicial Management)
+*   **Authority:** *Gilligan v. Morgan* (1973).
+*   **The Rule:** Courts cannot "run the military" (logistics/training), BUT they **must** adjudicate constitutional violations.
+*   **Application:** We aren't asking the judge to pick software (military decision); we're asking the judge to stop coercion (constitutional decision).
+
 ---
 
 ## ⚔️ KILLER FACTS & CLAIMS (The "Sword")
@@ -61,5 +66,6 @@ They tried to force Anthropic to remove ethical guardrails. When Anthropic refus
 *   **If they say "Uncertainty is Deterrence":** Counter with "Ambiguity is Coercion." They kept the rules vague to force total submission.
 *   **If they say "National Security Deference":** Counter with "*Vullo* pierces the veil." Security is not a blank check for viewpoint discrimination.
 *   **If they say "It's just a contract dispute":** Counter with "It's an industry-wide blacklist." (C050).
+*   **If they say "Judges can't run the army":** Counter with "*Gilligan* says judges CAN run the Constitution."
 
 **Remember:** **Legitimacy** is the standard. Even if technically legal, abusing a sabotage statute to settle a policy dispute is **illegitimate**.
