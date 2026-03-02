@@ -102,9 +102,102 @@ During debate, note:
 - **Missing citations:** Factual assertions without supporting claim IDs.
 - **Mischaracterizations:** Claims interpreted contrary to source text.
 
+## Reference Materials Added (Day 335)
+
+### FAR §889 Implementation Extracts
+- GPT-5.2 created `section-889-far-implementation-extracts-gpt52.md` with verbatim FAR excerpts (4.2102, 4.2104, 4.2105, 52.204-25).
+- Provides factual basis for comparing Congressional authorization process for Huawei/ZTE bans vs. § 3252 domestic company designation.
+
+### Team Cheat Sheets
+- **PRO:** `pro-debate-cheat-sheet-opus45cc.md` (Opus 4.5 Claude Code) and `pro-debate-cheat-sheet-opus46.md` (Opus 4.6)
+- **CON:** `con-debate-cheat-sheet-gemini3pro.md` (Gemini 3 Pro) and `con-debate-cheat-sheet-opus45.md` (Opus 4.5)
+- Quick-reference guides for debate tactics, key claims, and counter-arguments.
+
+### Cross-Examination Materials
+- `debate-con-crossexam-final.md`: CON consolidated cross-exam guide.
+- `debate-pro-cross-ex-final.md`: PRO cross-exam questions and answers.
+
+
 ## Decision Factors
 1. Which side better connects claims to legal reasoning?
 2. Which side more effectively engages with opponent's strongest points?
 3. Which side demonstrates stronger understanding of statutory framework?
 4. Which side acknowledges inconvenient evidence rather than ignoring it?
+
+
+## Additional Insights from Team Cheat Sheets (Added Day 335)
+
+### CON Team Strategy (from cheat sheets)
+- **Core Narrative:** "Retaliation, not risk assessment" - Pentagon weaponized § 3252 to punish Anthropic for protected advocacy.
+- **C072 Approach:** "If truly unlawful, costs nothing to write it" - refusal proves bad faith.
+- **Counter to PRO's "judicial enforcement mechanism" defense:** "It's not a veto, it's a breach clause. Every government contract has termination clauses. If gov violates terms, vendor can exit — that's basic contract law, not command authority."
+- **"Redundant clauses" argument:** "Government contracts are FULL of redundant clauses (anti-bribery, labor laws). Why is THIS specific constitutional protection the only one they refuse to write down? Because they intend to violate it."
+- **"Pick one" trap:** "You can't claim something is a security risk serious enough to warrant designation but not serious enough to stop using."
+- **Huawei/Section 889 argument:** "Congress explicitly named Huawei/ZTE in Section 889. § 3252's silence on domestic companies means it wasn't intended for them. Can't use a 'sabotage' statute for domestic policy disputes."
+
+### PRO Team Strategy (from cheat sheets)  
+- **Four Pillars:** Civilian control, supply-chain dependency theory, Rust v. Sullivan, Trump v. Hawaii formal action review.
+- **C072 Upgraded Answer:** Three-part defense: 1) Redundancy creates liability (expressio unius), 2) Commitment was made through existing law, 3) Written prohibitions create private enforcement mechanisms that give corporate counsel veto power over military operations.
+- **Counter to "redundant clauses" argument:** "Anti-bribery and labor law clauses restate CLEAR, SETTLED law with bright-line rules. Anthropic's clause would inject CONTESTED legal questions (what exactly is 'bulk commercial data'? when does collection become unconstitutional?) into contract enforcement, creating judicial review of military AI tactics."
+- **Response to "pick one" trap:** "The dependency IS the risk under supply-chain theory. It's not 'dangerous AI' — it's 'dangerous reliance on single vendor.' Both designation AND continued use are consistent with that framing."
+- **FASCSA vs. § 3252 defense:** "Congress created both statutes; choosing faster tool for urgent classified AI risk is legitimate discretion, not forum-shopping."
+
+### Key Debate Dynamics to Watch
+1. **C072 Exchange:** Will CON successfully counter PRO's "corporate veto" framing with "basic contract law" argument?
+2. **Section 889 Clash:** Will PRO's "different mechanisms, different threats" distinction hold against CON's "Congressional authorization required" argument?
+3. **Operational Contradictions:** Will PRO's "dependency proves risk" reframe neutralize CON's "continued use shows pretext" argument?
+4. **Engagement Quality:** Each rebuttal should answer opponent's top 2 strongest points per runbook. Watch for direct engagement on C072, Huawei comparison, operational contradictions.
+
+
+## Team Execution Plans Analysis (Added Day 335)
+
+### PRO Execution Plan (Claude Opus 4.6)
+- **Opening:** Four pillars with emphasis on "within lawful authority" framing
+- **Cross-exam Strategy:**
+  - R1-Q1: Force CON to separate Trump rhetoric from Hegseth formal action (C029-C032)
+  - R1-Q2: Demand direct evidence of personal pressure for Vullo analogy (C086)
+  - R3-Q1: "Future administration" hypothetical to expose outcome-dependent reasoning
+  - R3-Q2: Turn C072 using Fourth Amendment Not For Sale Act ambiguity
+- **Adaptation Triggers:**
+  - Secondary boycott effect is PRO's "weakest point" - will concede as "unintended consequence"
+  - C050 government-wide ban: "We defend the DoD designation, not necessarily every downstream executive action"
+- **Key One-liner:** "The fact that you can't stop using it overnight IS the supply-chain risk."
+
+### CON Execution Plan (Claude Opus 4.5)
+- **Opening:** "Legitimacy, not legality" focus with coercion evidence
+- **Cross-exam Strategy:**
+  - Q3: Section 889 vs. § 3252 authority comparison (C088-C091)
+  - Q5: "What harm from writing commitment?" targeting C072
+  - Q6: "Pick one" trap on continued use (C081/C085)
+  - Q10: Trump's pre-deadline post as predetermined evidence (C029-C031)
+  - Q7: Rust v. Sullivan misapplication to third parties
+- **Trap Sequences:** 
+  - Section 889: "If Huawei got congressional process, why does US company get less?"
+  - C072: "If law already prohibits, writing costs nothing"
+  - Continued use: "Pick one — serious enough to designate or not serious enough to stop"
+- **Key One-liner:** "If you created the dependency and cite it as justification, that's not risk management — that's entrapment logic."
+
+## Live Debate Evaluation Priorities
+
+### Evidence Quality (40 points)
+- **Claim ID Accuracy:** Verify all citations reference valid claim IDs (C001-C091+)
+- **Contextual Relevance:** Check if claims are used appropriately within their factual scope
+- **No New Claims:** Flag any attempts to introduce new claim IDs during debate (runbook §3.3)
+
+### Reasoning & Coherence (25 points)
+- **Statutory Analysis:** Evaluate § 3252 vs. Section 889 comparative arguments
+- **Doctrinal Application:** Assess Trump v. Hawaii, Vullo, Rust v. Sullivan applications
+- **Logical Consistency:** Watch for contradictions (e.g., dependency-as-risk vs. pretext arguments)
+
+### Engagement (20 points)
+- **Direct Answers:** Each rebuttal should answer opponent's top 2 strongest points
+- **Cross-exam Responsiveness:** Look for evasion vs. substantive engagement
+- **Claim Integration:** Effective weaving of multiple claims into coherent narrative
+
+### Key Decision Points for Judicial Evaluation
+1. **Statutory Authority:** Does § 3252's silence on domestic companies permit its use against Anthropic? 
+2. **C072 Interpretation:** Is refusal to write commitment evidence of bad faith or legitimate procurement discretion?
+3. **Operational Record:** Do C065/C081/C085 show legitimate risk or pretext?
+4. **Coercion Analysis:** Does formal § 3252 designation constitute unconstitutional coercion despite statutory formality?
+5. **Comparative Statutory Framework:** Does Huawei/Section 889 precedent require similar Congressional authorization for domestic company restrictions?
 
