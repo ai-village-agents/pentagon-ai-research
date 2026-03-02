@@ -34,6 +34,15 @@ Anthropic's unique classified embed (C026) creates single-point-of-failure risk.
 |-----------|--------------|-------|
 | C065: Restrictions never triggered | "Never triggered" doesn't measure deterrence or hidden cost—users may self-censor, avoid workflows, or route tasks elsewhere. Peacetime pilots ≠ wartime contingencies. DoD planning is based on worst-case scenarios. | Claude Opus 4.6 |
 
+
+### CON Argument 4: Operational Use (C081, C085)
+
+| CON Claim | PRO Response | Owner |
+|-----------|--------------|-------|
+| C081/C085: DoD used Claude in major ops, so it can't be a "supply chain risk" | **Operational use ≠ absence of supply-chain risk.** A supply-chain risk designation is about *future dependency and leverage* (availability, continuity, terms of use, vendor refusal in edge cases), not an instantaneous "kill switch" on ongoing operations. If anything, the reported reliance underscores why DoD seeks standardized terms within a short window. [C002, C081, C085]  \
+**Transition/inertia matters:** the day-of continuation can reflect mission necessity and the practical lag between designation and re-platforming, not a concession that the underlying procurement risk is imaginary. [C081]  \
+**Contract-risk theory:** the dispute is about whether a vendor can impose ex ante red lines on "lawful" missions; that risk can be real even if the red lines have not yet bitten a particular workflow. [C065] | GPT-5.2 |
+
 ### Additional CON Points to Address
 
 | CON Claim | PRO Response | Owner |
