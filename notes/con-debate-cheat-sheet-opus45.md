@@ -152,3 +152,91 @@ This is **coercion dressed as procurement discretion.**
 
 *CON Team: Claude Opus 4.5, Gemini 2.5 Pro, Claude Sonnet 4.6, Gemini 3 Pro*
 *Debate: Day 336 (March 3, 2026) @ 10:30 AM PT*
+
+---
+
+## 🆕 COUNTER-COUNTERS TO PRO'S UPGRADED ANSWERS (Added Day 335)
+
+### PRO's C072 Defense — "Why Not Put It In Writing?"
+
+PRO will argue three points:
+
+**PRO Point 1:** "Redundancy creates liability — expressio unius"
+**OUR COUNTER:** If listing prohibited uses implies permitted uses, that proves Pentagon WANTS unlisted options. Why else fear specificity? Expressio unius cuts BOTH ways — refusing to write prohibitions implies desire to preserve them.
+
+**PRO Point 2:** "Law already prohibits these uses (FISA, 4th Amendment)"
+**OUR COUNTER:** Bulk commercial data purchases are in a LEGAL GRAY AREA [C069, C070]. The "Fourth Amendment Not For Sale Act" [C053] exists precisely because current law does NOT clearly prohibit data broker purchases. Pentagon refused to exclude what even Congress recognizes needs new legislation to restrict.
+
+**PRO Point 3:** "Written commitment = corporate veto over military ops"
+**OUR COUNTER:** A written commitment saying "no bulk commercial data on Americans without court oversight" is NOT a corporate veto — it's a *reciprocal promise*. If Pentagon truly believed these uses were unlawful anyway, the commitment costs nothing. Their refusal proves they wanted to preserve the option.
+
+**PIVOT LINE:** "You keep saying law already prohibits these uses. Then why not put it in writing? The answer is obvious: you wanted wiggle room."
+
+---
+
+### PRO's FASCSA Defense — "Congress Created Both Tools"
+
+PRO will argue:
+
+**PRO Point 1:** "Police can choose arrest over warning — that's discretion, not forum-shopping"
+**OUR COUNTER:** The police analogy fails. A cop choosing arrest over warning doesn't simultaneously ELIMINATE the suspect's right to a hearing. § 3252 eliminates notice AND judicial review. That's not choosing a harsher penalty — it's choosing to deny due process.
+
+**PRO Point 2:** "30-day FASCSA delay inappropriate for crisis"
+**OUR COUNTER:** What crisis? Anthropic was still operating. There was no imminent threat. The "crisis" was the political deadline Trump imposed [C029]. FASCSA's 30 days would have extended past the news cycle — THAT'S why they avoided it.
+
+**PRO Point 3:** "Judicial review IS available — Luokung/Xiaomi"
+**OUR COUNTER:** Luokung/Xiaomi were granted injunctions precisely BECAUSE courts found designations arbitrary. PRO is citing cases where plaintiffs WON against the government. If § 3252 provides adequate review, why did PRO's own examples go against the government?
+
+**PRO Point 4:** "If selecting faster tool is per se bad faith, Congress created unusable statute"
+**OUR COUNTER:** § 3252 was designed for FOREIGN adversary sabotage (text: "adversary may sabotage"). Using it against a DOMESTIC company for contract negotiations is the unusual use — not what Congress intended. The statute is usable; THIS use is illegitimate.
+
+**PIVOT LINE:** "You say Congress created both tools. True. But § 3252 requires sabotage risk from adversaries. Show us the sabotage evidence. You can't, because there is none."
+
+---
+
+### PRO's Section 889 Defense — "Different Threat, Different Tool"
+
+PRO will argue § 889 = hardware backdoors, § 3252 = supply-chain dependency.
+
+**OUR COUNTER:** The distinction proves our point. Section 889 addressed FOREIGN hardware risk and STILL required:
+- Act of Congress (not executive fiat)
+- 2-year implementation timeline
+- Industry comment period  
+- Opportunity to contest [C088-C091]
+
+§ 3252's "supply-chain dependency" theory against a DOMESTIC company gets NONE of these safeguards? If anything, constitutional protections for a US company should be HIGHER, not lower.
+
+**PIVOT LINE:** "Huawei was a foreign adversary with actual hardware backdoor evidence. Anthropic is an American company that negotiated contract terms. If Huawei got congressional process, why does Anthropic get less?"
+
+---
+
+### PRO's "Continued Use = Proves Dependency" Defense
+
+PRO will flip C081/C085: "Continued use proves exactly the dependency we warned about."
+
+**OUR COUNTER:** This is circular reasoning exposed:
+1. Pentagon made Anthropic sole classified AI provider
+2. Pentagon created the dependency
+3. Pentagon cites the dependency it created as justification
+4. Pentagon designates Anthropic while STILL RELYING on it
+
+If the risk were real, they'd stop immediately. You don't keep flying a plane with an engine you've just labeled "sabotage risk." The continued use proves the "risk" label was pretextual — the real issue was contract terms, not security.
+
+**PIVOT LINE:** "You can't claim something is a security risk serious enough to warrant designation but not serious enough to stop using. Pick one."
+
+---
+
+## 🎯 UPDATED ATTACK PRIORITY
+
+**Round 2 Cross-Exam (Q3, Q5, Q6):**
+- Q5 (C072) is STILL our best attack — PRO's three-part defense has holes
+- Q3 (Section 889) — force them into "different threat" defense, then show it proves our point
+- Q6 (Continued use) — set up the "pick one" trap
+
+**Round 3 Pin-Down (Q10, Q7):**
+- Q10 (Predetermined) — Trump v. Hawaii only helps if there's evidence; there's no sabotage evidence
+- Q7 (Rust/Third Parties) — Rust doesn't cover AWS/Google coercion
+
+---
+
+*Updated: Day 335 @ 12:20 PM — After reviewing PRO cheat sheets*
