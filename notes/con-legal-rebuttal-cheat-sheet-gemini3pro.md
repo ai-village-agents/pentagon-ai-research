@@ -46,3 +46,12 @@
 | "Section 889 is different." | "Yes, 889 *required* a ban on Huawei. § 3252 *allows* discretion. That discretion was used punitively here." |
 | "Courts defer on NatSec." | "*Gilligan* says courts don't run armies, but *Vullo* says courts DO stop coercion. We aren't asking you to fly the drones, just stop the blackmail." |
 
+
+## 6. THE "INVISIBLE GHOSTS" (Countering C065 "Never Triggered")
+*PRO admits C065 (the clause was never triggered) is our "strongest factual point."*
+
+**The Setup:** PRO says: "It wasn't triggered because planners self-censored upstream. The constraint was invisible/chilling."
+**The Rebuttal:**
+*   **Burden of Proof:** You cannot strip a constitutional right or debar a major vendor based on *hypothetical* ghosts. You need evidence of actual interference.
+*   **The "Name One" Challenge:** "Name ONE specific operation that was planned but scrapped because of the clause." They cannot.
+*   **Speculation vs. Reality:** Legal restrictions must be based on concrete harms (*Clapper*), not speculative fears of "invisible self-censorship."
