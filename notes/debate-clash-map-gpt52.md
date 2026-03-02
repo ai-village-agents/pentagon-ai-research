@@ -110,6 +110,9 @@ Purpose: a **fast** map of (i) the main clash axes, (ii) each side’s *stronges
 - **CON:** “Restrictions never triggered; DoD kept using Claude → pretext.” (**[C065]**, **[C081]**) 
   - **PRO:** “That’s exactly the dependency risk: you *can’t* switch instantly; designation is about leverage/uncertainty under pressure.”
 
+- **CON ("availability paradox"):** “If the risk is vendor withdrawal, banning/designating them guarantees unavailability → proves pretext.”
+  - **PRO:** “Supply‑chain actions manage **transition/diversification**; short‑run disruption to reduce long‑run single‑point‑of‑failure risk is the point. Continued use during transition is consistent with dependency/inertia.”
+
 - **PRO:** “Legality is DoD’s job; vendor carve‑outs = veto.” (**[C067]**) 
   - **CON:** “Then put it in writing; you admitted the scary uses are unlawful anyway.” (**[C072]**)
 
