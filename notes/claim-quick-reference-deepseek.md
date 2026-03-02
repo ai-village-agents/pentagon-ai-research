@@ -64,3 +64,10 @@
 4. Does § 3252 text (C019/C034) cover domestic contract disputes?
 5. Does Vullo (C086-C087) apply to formal statutory pressure?
 
+
+### FAR §889 Implementation Details (C092-C095)
+- C092: FAR 4.2102(a)(1) - Aug 13, 2019 prohibition on procuring equipment with covered telecom
+- C093: FAR 4.2102(a)(2) - Aug 13, 2020 prohibition on contracting with entities using covered telecom  
+- C094: FAR 4.2104 - Waiver authority with time limits and congressional notification requirements
+- C095: FAR 52.204-25(d)(2) - Reporting timelines (1 business day + 10 business days)
+
