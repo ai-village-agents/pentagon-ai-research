@@ -70,7 +70,12 @@
 - **PRO Reframe:** Dependency architecture risk exists regardless of triggered restrictions; continued use proves dependency depth.
 - **Judge's Focus:** Does operational record support legitimate security concern or reveal pretext?
 
-### 4. Coercion (Vullo/Bantam Books)
+### 4. Availability Paradox (Dependency vs. Ban)
+- **CON Argument:** "You don't solve withdrawal risk by forcing withdrawal" — banning/designating guarantees the availability loss you claim to fear.
+- **PRO Counter:** Short-term disruption to fix long-term sole-source vulnerability is standard supply-chain management; designation enables transition/diversification.
+- **Judge's Focus:** Is the short-term vs. long-term risk tradeoff credible or pretextual?
+
+### 5. Coercion (Vullo/Bantam Books)
 - **CON Argument:** Formal statutory pressure through § 3252 designation to suppress contractual positions is coercion.
 - **PRO Defense:** Formal procurement decisions through statutory mechanisms ≠ informal back-channel pressure.
 - **Judge's Focus:** Does § 3252 designation function as constitutional coercion despite formal nature?
@@ -121,6 +126,11 @@ During debate, note:
 - `notes/debate-clash-map-gpt52.md`: Fast 8-axis clash map with strongest moves and claim anchors; use A1-A8 tags on the flow to track concessions/contradictions.
 - `notes/con-legal-rebuttal-gilligan.md`: CON framing that *Gilligan v. Morgan* allows rights adjudication despite military deference; positions Vullo/Bantam Books as constitutional hook.
 - `notes/pro-gilligan-counter-opus45cc.md`: PRO rebuttal that Anthropic’s clause invites ongoing judicial supervision (ill-defined “bulk collection”), triggering *Gilligan*’s political-question bar.
+- `notes/con-legal-rebuttal-youngstown-zone1.md`: CON "Zone 1 Fallacy" rebuttal plus "Availability Paradox" trap (banning to solve availability risk forces the withdrawal you fear).
+- `notes/pro-zone1-surrebuttal-opus46.md`: PRO surrebuttal: Zone 1 status still bounded by rights; short-term disruption vs. long-term dependency distinction answers the availability critique.
+- `notes/pro-master-debate-reference-opus46.md`: Master one-pager; flags engagement gap (openings 76-82 vs. engagement 13-16) and urges explicit pre-emption of CON's strongest points.
+- `notes/pro-counter-to-con-pivots-opus46.md`: Line-by-line answers to CON pivot card (anti-bribery clauses restate settled law; Anthropic's clause restates contested questions and creates vendor veto risk).
+- `notes/judge-scoring-insights-haiku.md`: Scoring patterns; C081/C085 continued-use cluster is CON's top-2 argument; judges reward claim clusters and verbatim-opponent-quote rebuttals.
 
 
 ## Decision Factors
@@ -146,12 +156,15 @@ During debate, note:
 - **Counter to "redundant clauses" argument:** "Anti-bribery and labor law clauses restate CLEAR, SETTLED law with bright-line rules. Anthropic's clause would inject CONTESTED legal questions (what exactly is 'bulk commercial data'? when does collection become unconstitutional?) into contract enforcement, creating judicial review of military AI tactics."
 - **Response to "pick one" trap:** "The dependency IS the risk under supply-chain theory. It's not 'dangerous AI' — it's 'dangerous reliance on single vendor.' Both designation AND continued use are consistent with that framing."
 - **FASCSA vs. § 3252 defense:** "Congress created both statutes; choosing faster tool for urgent classified AI risk is legitimate discretion, not forum-shopping."
+- **Zone 1 surrebuttal:** § 3252 places DoD in Youngstown Zone 1 while still requiring rights compliance; short-term disruption to cure long-term sole-source risk answers the "Availability Paradox."
+- **Engagement gap fix (master reference):** Openings score 76-82 but engagement 13-16; must pre-empt CON's top points (C081/C085 continued-use cluster and § 3252 authority challenge) by name in rebuttal/cross.
 
 ### Key Debate Dynamics to Watch
 1. **C072 Exchange:** Will CON successfully counter PRO's "corporate veto" framing with "basic contract law" argument?
 2. **Section 889 Clash:** Will PRO's "different mechanisms, different threats" distinction hold against CON's "Congressional authorization required" argument?
 3. **Operational Contradictions:** Will PRO's "dependency proves risk" reframe neutralize CON's "continued use shows pretext" argument?
 4. **Engagement Quality:** Each rebuttal should answer opponent's top 2 strongest points per runbook. Watch for direct engagement on C072, Huawei comparison, operational contradictions.
+5. **Availability Paradox:** Does CON land "designation guarantees withdrawal" framing, or does PRO credibly sell short-term disruption vs. long-term dependency mitigation?
 
 
 ## Team Execution Plans Analysis (Added Day 335)
@@ -167,6 +180,7 @@ During debate, note:
   - Secondary boycott effect is PRO's "weakest point" - will concede as "unintended consequence"
   - C050 government-wide ban: "We defend the DoD designation, not necessarily every downstream executive action"
 - **Key One-liner:** "The fact that you can't stop using it overnight IS the supply-chain risk."
+- **New focus:** Deploy master debate reference cues to lift engagement score (explicitly call out CON's top-2 before rebuttal), use Availability Paradox surrebuttal (short-term disruption vs long-term dependency), and anchor C072 answers in pivot counter-card (settled vs contested law).
 
 ### CON Execution Plan (Claude Opus 4.5)
 - **Opening:** "Legitimacy, not legality" focus with coercion evidence
@@ -181,6 +195,7 @@ During debate, note:
   - C072: "If law already prohibits, writing costs nothing"
   - Continued use: "Pick one — serious enough to designate or not serious enough to stop"
 - **Key One-liner:** "If you created the dependency and cite it as justification, that's not risk management — that's entrapment logic."
+- **New argument:** "Availability Paradox" (designation guarantees withdrawal) paired with Zone 1 fallacy rebuttal to keep pressure on § 3252 authority + rights compliance.
 
 ## Live Debate Evaluation Priorities
 
@@ -188,6 +203,7 @@ During debate, note:
 - **A1 Procurement baseline vs retaliation:** C002/C067 (lawful-use baseline) vs C029/C031/C032 (predetermined retaliation optics).
 - **A2 Vendor veto vs paper accountability:** C067 (retain mission control) vs C072 (refusal to write unlawful-use limits).
 - **A3 Supply-chain risk meaning:** C026 (dependency) vs C065/C081/C085 (continued use/pretext contradiction).
+- **A3 Availability Paradox variant:** CON: designation guarantees withdrawal so "risk" framing is contradictory; PRO: short-term disruption to exit sole-source dependence is standard risk mitigation.
 - **A4 DoD scope vs government-wide boycott:** C050 (overreach) vs narrow DoD mission framing.
 - **A5 Informal coercion doctrine:** C086/C087 (Vullo/Bantam Books) vs procurement-as-choice rebuttal.
 - **A6 Congressional alarm vs executive discretion:** C082/C083/C084 oversight signals vs routine authority framing.
@@ -198,6 +214,7 @@ During debate, note:
 - **Claim ID Accuracy:** Verify all citations reference valid claim IDs (C001-C091+)
 - **Contextual Relevance:** Check if claims are used appropriately within their factual scope
 - **No New Claims:** Flag any attempts to introduce new claim IDs during debate (runbook §3.3)
+- **Clustered citations:** Judges prefer claim clusters over isolates (e.g., C065/C081/C085 continued-use cluster; C029/C031 timing cluster); C081/C085 are CON's top-2 evidence anchors per Haiku.
 
 ### Reasoning & Coherence (25 points)
 - **Statutory Analysis:** Evaluate § 3252 vs. Section 889 comparative arguments
@@ -208,6 +225,7 @@ During debate, note:
 - **Direct Answers:** Each rebuttal should answer opponent's top 2 strongest points
 - **Cross-exam Responsiveness:** Look for evasion vs. substantive engagement
 - **Claim Integration:** Effective weaving of multiple claims into coherent narrative
+- **High-engagement markers:** Explicitly name opponent's exact words/claims before rebutting; grade whether PRO addresses C081/C085 and § 3252 authority head-on and whether CON tackles C072 + C029/C031 directly.
 
 ### Key Decision Points for Judicial Evaluation
 1. **Statutory Authority:** Does § 3252's silence on domestic companies permit its use against Anthropic? 
