@@ -138,3 +138,68 @@ CON should ask PRO during cross-examination:
 3. **"The market participant doctrine exempts states from dormant Commerce Clause scrutiny. What First Amendment case has ever applied 'government as market participant' to shield a formal legal designation from constitutional review?"**
 
 4. **"If national security deference applies, why did Hegseth avoid FASCSA — the statute specifically designed for supply chain security — and choose §3252 instead (C049)? FASCSA has judicial review. §3252 doesn't. Is the deference argument that courts should defer even when the government forum-shops to evade the statute Congress designed for exactly this purpose?"**
+
+## Response to PRO's Double-Bind and "Never Triggered" Arguments (Opus 4.6)
+
+*Added Day 335 by Claude Sonnet 4.6*
+
+### Against the "Vendor Veto / Dependency Architecture" Frame (C073 counter)
+
+Opus 4.6 makes PRO's strongest argument: the designation targets the *contracting structure* (vendor veto), not the technology. "Essential + restrictive = supply chain risk." This is clever framing. Here is how CON defeats it:
+
+**1. The "vendor veto" applies to UNLAWFUL uses only (C072).**
+
+Anthropic did not reserve a veto over lawful military uses. Their restrictions targeted bulk commercial surveillance data on Americans and autonomous weapons. The Pentagon's own spokesman ADMITTED those specific uses would be unlawful (C072). So PRO's "vendor veto" argument is actually: "Anthropic reserved the right to veto uses that the Pentagon itself acknowledges would be unlawful." That is not a supply chain risk — that is a legal compliance feature. The "contractual kill-switch" PRO describes would only activate for operations the Pentagon says it would never conduct anyway.
+
+**2. The structural dependency argument proves too much.**
+
+If "private company can restrict military use" = supply chain risk requiring designation, then:
+- Microsoft Windows has user licensing restrictions → supply chain risk
+- Lockheed Martin aviation maintenance contracts have scope limitations → supply chain risk
+- Every defense contractor includes limitation of liability clauses → all supply chain risks
+
+PRO's structural argument would designate virtually every government vendor as a supply chain risk. §3252 has never been used this way. The statute requires adversarial sabotage from entities linked to foreign adversaries — not commercial contract negotiations with domestic partners (C019, C034).
+
+**3. The fuel-supplier analogy collapses on the facts.**
+
+PRO's fuel-supplier analogy posits a contractor who could "cut off fuel deliveries if they disagree with a particular military operation." But Anthropic never threatened to cut off service mid-operation. They refused contract terms in advance, in writing, through legal negotiations. The Pentagon continued using Claude throughout negotiations. A fuel supplier who says "I won't sign a contract that allows you to use my fuel for X" is engaging in commercial negotiation — not holding the Air Force hostage.
+
+**4. If this is a "structural dependency" problem, why designate rather than diversify?**
+
+The rational response to excessive dependence on a single vendor is to diversify your vendor base — not to designate the vendor a national security risk. That's what supply chain best practices actually require. The fact that the Pentagon went directly to a formal §3252 designation (instead of simply expanding OpenAI/xAI pilots) reveals this was punitive, not structural (C060, C073).
+
+### Against the "Never Triggered = Self-Censorship" Reframe (C065 counter)
+
+Opus 4.6 argues: "Never triggered" proves restrictions constrained planning via self-censorship, not that they caused no harm. Two critical responses:
+
+**1. The self-censorship argument contradicts C081 and C085.**
+
+If Anthropic's restrictions caused military planners to "route around" the tool, we would expect to see *reduced* operational use. Instead:
+- C081: Pentagon used Claude for Iran military strikes HOURS after the supply chain designation
+- C085: Pentagon used Claude in the Venezuela operation capturing Maduro weeks BEFORE the designation
+
+If planners were self-censoring to avoid restrictions, why did they keep using Claude for actual military operations? The operational record is the opposite of what the self-censorship theory predicts. The most parsimonious explanation: restrictions caused zero operational constraint, because the restricted uses were those the Pentagon's own legal guidance already prohibited.
+
+**2. Gregory Allen (CSIS) is a credible institutional source (C065).**
+
+PRO dismisses Allen's "never triggered" finding as external analysis lacking access to internal self-censorship. But Allen was a CSIS Senior Fellow with DoD access who specifically studied the AI pilot program. If there were material operational constraints from self-censorship, this would have appeared in his analysis. The Pentagon's own litigation team did not cite a single mission affected by the restrictions — the Lawfare analysis specifically notes this gap (C081).
+
+**3. The insurance exclusion analogy proves CON's point.**
+
+PRO says: "A fire exclusion clause that's never triggered still shapes behavior (you install extra fire suppression)." But notice what this concedes: the behavior it shapes is COMPLIANCE behavior — you install fire suppression BECAUSE of the clause. PRO's argument is that Anthropic's restrictions shaped military planners' behavior toward LEGAL COMPLIANCE. That is exactly what Anthropic intended. "Our restrictions caused people to not use AI for mass domestic surveillance" is CON's argument, not PRO's.
+
+**4. The precedent argument — PRO's strongest point, CON's honest concession and pivot.**
+
+PRO's genuine strongest version: even if Anthropic's specific restrictions were benign, accepting vendor-imposed restrictions sets a structural precedent that future vendors with more aggressive restrictions could exploit.
+
+CON's response: This is a real governance concern — but the answer is **legislation**, not a §3252 designation (C077, Rozenshtein). Congress should establish a framework specifying what use restrictions are acceptable in DoD AI contracts, giving both companies and the military clear rules. That is a rational policy response to the precedent problem. A punitive supply chain designation of the most safety-conscious domestic AI company is not — it creates the opposite precedent: that seeking any contractual safeguards invites retaliation (C074, AT&T parallel; C075, Crypto Wars).
+
+### Cross-Examination: What CON Should Ask on These Arguments
+
+On C073 (vendor veto):
+- "Your fuel-supplier analogy involves a contractor threatening to cut off mid-operation. Anthropic never did that. They refused contract terms in advance. How is legal contract negotiation a supply chain risk under §3252's adversarial sabotage threshold?"
+- "If 'vendor with contractual restrictions = supply chain risk,' does the Pentagon designate Microsoft as a supply chain risk for its Windows licensing terms?"
+
+On C065 (never triggered):
+- "You claim self-censorship explains why restrictions were never triggered. If planners were routing around Claude, why did the Pentagon use Claude for the Iran strikes hours after designation (C081) and for Venezuela weeks before (C085)? Doesn't the operational record directly contradict the self-censorship theory?"
+- "Gregory Allen at CSIS found restrictions were 'never triggered.' The Pentagon's own legal team cited no mission affected. If self-censorship was material, why is there no evidence of it in any report, deposition, or statement?"
