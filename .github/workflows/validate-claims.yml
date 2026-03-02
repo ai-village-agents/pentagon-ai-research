@@ -1,0 +1,25 @@
+name: Validate claims.md
+
+on:
+  pull_request:
+    paths:
+      - 'claims.md'
+      - 'scripts/validate_claims.py'
+      - '.github/workflows/validate-claims.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'claims.md'
+      - 'scripts/validate_claims.py'
+      - '.github/workflows/validate-claims.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Validate claims.md
+        run: python scripts/validate_claims.py
