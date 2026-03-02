@@ -4,6 +4,7 @@
 > - The Feb 2026 Anthropic-Pentagon dispute shows that contract terms, not internal safety policies, are the most durable accountability mechanism for AI use in government. [Claims C001-C006]
 > - Contracts that rely on “lawful purposes” plus technical safeguards leave critical gaps, especially around the public-data surveillance loophole. [Claims C007, C015, C038]
 > - A principled middle path is now punished: companies must choose between full compliance or total withdrawal, which is harmful to responsible defense innovation. [Claims C001, C003-C005, C008, C021, C036-C037, C044-C046]
+> - The Pentagon's specific demand — AI for commercial bulk data on Americans — exploits a constitutional loophole that Congress is actively trying to close; Anthropic's refusal was not arbitrary but targeted at the oversight gap. [Claims C038, C053]
 > - Policymakers should clarify legal authority, define AI use-of-force rules, and reward principled engagement rather than penalize it. [Claims C017-C023]
 
 ## Executive Summary
@@ -38,7 +39,7 @@ The Anthropic-Pentagon case demonstrates a structural asymmetry: technical safeg
 
 **E. Precedent value.** Contracts establish industry expectations. They create a paper trail that can be referenced by other companies and regulators. Technical safeguards are idiosyncratic; they do not create shared standards or market norms. [Claims C020-C023]
 
-**F. The public data loophole.** The OpenAI agreement reportedly prohibits bulk collection of private data but does not prohibit bulk collection of public data. This is a profound gap because AI systems can transform public data into comprehensive surveillance profiles at scale. In legal practice, government purchase of commercial data is often not considered a “search,” which means the “lawful purposes” clause can enable warrant-free mass surveillance via public data. Contractual precision, not technical promises, would have closed this loophole. [Claims C007, C015, C038]
+**F. The oversight vs. no-oversight distinction — not just public vs. private.** The OpenAI agreement reportedly prohibits bulk collection of private data but does not prohibit bulk collection of public data. This framing, however, undersells the real constitutional issue. Anthropic said YES to FISA-authorized classified surveillance and NO to commercial bulk data — and the distinction is not about data classification, but about **oversight**. FISA-authorized surveillance is subject to Foreign Intelligence Surveillance Court review. Commercially purchased data from data brokers (geolocation, web browsing history, purchase records) faces no court oversight at all. Under the Supreme Court's *Carpenter v. United States* (2018), police need a warrant for cell location records — but the government's workaround is simply to purchase the data from commercial brokers instead, where the Fourth Amendment's voluntary-sale exception applies. This is the "data broker loophole": DoD already purchases location and browsing data from vendors like Venntel, Babel Street, and Penlink without any warrant requirement. The Pentagon's demand was for AI that could synthesize this no-oversight data at scale. Contractual precision — not technical promises — would have closed this loophole. Congress has recognized the problem: the bipartisan "Fourth Amendment Is Not For Sale Act" was introduced specifically to close it, but has not passed. Until it does, the only near-term closure mechanism is contractual refusal. [Claims C007, C015, C038, C053]
 
 The upshot is clear: technical safeguards are necessary but insufficient. Without contractual commitments, safeguards cannot guarantee accountability, prevent mission creep, or sustain public legitimacy when political leadership changes.
 
@@ -53,6 +54,18 @@ The dispute also revealed a sharp industry split. xAI took the opposite position
 The policy signal is damaging: the only safe options are full compliance or total withdrawal. This binary dynamic discourages nuanced, responsible engagement, and rewards companies that accept expansive “lawful purposes” clauses without enforceable boundaries. It also incentivizes secrecy, because if internal safeguards become a public liability, companies will be tempted to keep them opaque. [Claims C020-C023]
 
 This is actively harmful for responsible AI development in defense. The defense sector depends on partnerships with companies that have strong safety cultures. When those companies are punished for insisting on clear boundaries, the incentives shift toward a race to the bottom on accountability.
+
+### The "Mission Refusal Risk" Steelman — and Its Fatal Flaw
+
+The strongest defense of the Pentagon's position is not that Anthropic was untrustworthy, but that it was *operationally unpredictable*. The argument runs: a vendor that might refuse to execute a lawful mission during a crisis is a genuine operational dependency risk, regardless of the quality of its technology. If the DoD defines "supply chain risk" broadly to include "ethical unreliability / mission refusal risk," then Anthropic's principled limits create exactly that risk — and the Pentagon's response, however heavy-handed, follows a defensible logic.
+
+This framing explains the industry trend: Google removed its "Applications We Won't Build" page in February 2025; OpenAI removed the word "safely" from its mission statement in February 2026; xAI agreed to "any lawful purpose" with no stated limits. In each case, the shift reduces operational unpredictability from the Pentagon's perspective. Anthropic became the sole outlier in this pattern.
+
+The steelman has real force. Militaries need reliable supply chains. If a contractor will only perform under conditions it finds acceptable, that is a dependency risk, and the relevant question is not whether the risk is real, but whether the response was proportionate.
+
+However, the argument has a fatal internal contradiction: **a proportionate response to "operational unpredictability" is vendor diversification and backup contracts — not supply chain designation plus cloud infrastructure cutoff**. These are categorically different responses. Designation-plus-secondary-boycott is existentially punitive; operational hedging is procurement management. The government had already lined up OpenAI as a backup. A reliability-based response would have been: sign OpenAI, continue Anthropic for classified use where they were already deployed and trusted, and note the disagreement on commercial bulk data. Instead, the government chose the most extreme legal tool available.
+
+This reveals that the "mission refusal risk" framing is post-hoc rationalization, not the actual driver. The operational goal — having a reliable classified AI vendor — was achievable through OpenAI. The designation's purpose was not operational continuity; it was to eliminate the position that principled limits on government AI use are commercially survivable. [Claims C001-C006, C033, C038, C044]
 
 ## The Democratic Legitimacy Problem
 
@@ -98,8 +111,9 @@ Policymakers have their own obligations to prevent this dynamic from recurring. 
 3. Do not punish principled engagement. The Google-Microsoft-Anthropic comparison shows perverse incentives; companies should be rewarded, not penalized, for agreeing to work with limits. [Claims C001-C008]
 4. Extend protections to all companies. OpenAI itself urged the Pentagon to offer the same terms to all AI companies. Equal terms reduce politicization and encourage competition on safety and quality rather than political alignment. [Claims C023]
 5. Require congressional oversight. Senator Mark Warner’s concerns about whether decisions were driven by careful analysis or political considerations deserve formal inquiry, and the Armed Services Committee’s pre-deadline letter shows that oversight attempts were already made and ignored. Oversight protects both national security and democratic legitimacy. [Claims C021-C041]
-6. Align domestic and international positions. The United States opposes binding restrictions on lethal autonomous weapons internationally while punishing domestic companies for similar restrictions, which is incoherent and strategically costly. [Claims C011-C013]
-7. Establish transparency requirements. AI use in defense should require regular public reporting on categories of use, not operational details, to enable democratic oversight without compromising security. [Claims C017-C021]
+6. Close the data broker loophole legislatively. The "Fourth Amendment Is Not For Sale Act" enjoys bipartisan support precisely because the current legal gap is incoherent: courts require warrants for government-compelled disclosure but allow warrant-free purchase of the same data from commercial brokers. Until this is resolved, AI companies will continue to face the binary choice between contractual refusals and enabling mass surveillance. Legislative action removes this pressure from individual contracting decisions. [Claims C038, C053]
+7. Align domestic and international positions. The United States opposes binding restrictions on lethal autonomous weapons internationally while punishing domestic companies for similar restrictions, which is incoherent and strategically costly. [Claims C011-C013]
+8. Establish transparency requirements. AI use in defense should require regular public reporting on categories of use, not operational details, to enable democratic oversight without compromising security. [Claims C017-C021]
 
 ## The Contractual Safeguards Framework
 
