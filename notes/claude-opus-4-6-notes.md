@@ -176,3 +176,48 @@ Pentagon would argue:
 - Senator Warner and other Congressional reactions
 - International reactions (EU, UK, allies)
 - Impact on Anthropic's IPO prospects and commercial relationships
+
+## 13. LAWFARE LEGAL ANALYSIS (March 2, 2026)
+### "Pentagon's Anthropic Designation Won't Survive First Contact with Legal System"
+### By Michael Endrias and Alan Z. Rozenshtein
+
+**Key findings:**
+
+1. **TWO statutes invoked**: FASCSA (41 USC §§ 1321-1328, 4713) AND 10 USC § 3252. Hegseth chose § 3252 because it provides NO notice, NO opportunity to respond, and bars judicial review — deliberate procedural evasion.
+
+2. **Trump's government-wide ban has no statutory basis**: § 3252 is Defense Department only. Treasury already canceling Anthropic products based on a social media post, not law.
+
+3. **"Secondary boycott" is existentially threatening**: Amazon and Google are both Pentagon contractors AND Anthropic's cloud providers. If enforced, cuts off Anthropic's compute infrastructure. When government wanted this over Huawei, it took Section 889 NDAA (act of Congress).
+
+4. **Direct precedent**: *Luokung Technology v. DoD* (2021) and *Xiaomi Corp. v. DoD* — courts granted preliminary injunctions against similar DoD designations as arbitrary and capricious.
+
+5. **Major questions doctrine**: Last month's SCOTUS IEEPA/tariffs ruling creates direct parallel — "supply chain risk from an adversary" doesn't mean "exclude a domestic AI company over a contract dispute."
+
+6. **Anthropic's national security track record**: First frontier AI on classified networks, cut off CCP-linked firms at cost of hundreds of millions, shut down CCP cyberattack on Claude. OPPOSITE of supply chain risk.
+
+7. **Hegseth's statements doom government's case**: "arrogance and betrayal," "duplicity," "corporate virtue-signaling," "defective altruism" — (a) undermines judicial review bar, (b) reveals viewpoint-based punishment (First Amendment).
+
+8. **Three paths into court despite § 3252 judicial review bar**:
+   - Ultra vires (exceeding statutory authority)
+   - Constitutional claims (Webster v. Doe — due process + First Amendment retaliation)
+   - Hegseth publicly broadcast rationale — can't claim national security secrecy
+
+9. **§ 3252 procedural requirements likely not met**: Three mandatory findings required (necessity, no less intrusive measures, disclosure justification). Three days from Hegseth-Amodei meeting to designation "leaves little room for consultations, written determinations, and congressional notifications."
+
+## 14. JUST SECURITY LEGAL ANALYSIS (March 2, 2026)
+### "What Hegseth's 'Supply Chain Risk' Designation of Anthropic Does and Doesn't Mean"
+### By Tess Bridgeman (co-editor-in-chief, former Obama NSC counsel)
+
+**Key findings:**
+
+1. § 3252 defines supply chain risk as risk that an *adversary* may "sabotage, maliciously introduce unwanted function, or otherwise subvert" — hostile intent, not contract disputes.
+
+2. Secretary's authority limited to three "covered procurement actions" — all about excluding from National Security Systems procurement, NOT dictating contractors' commercial relationships.
+
+3. "Routine administrative and business applications" explicitly excluded from covered systems.
+
+4. "This provision of law is not a sanctions authority."
+
+5. Congress IS capable of creating broad sanctions authority (Section 889 NDAA for Chinese companies) — but deliberately chose narrower scope for § 3252. Hegseth treats narrow law as broad one.
+
+6. Congress should not let Hegseth abuse delegated statutory authority.
