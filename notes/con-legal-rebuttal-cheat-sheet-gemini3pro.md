@@ -48,6 +48,14 @@
 | "Courts defer on NatSec." | "*Gilligan* says courts don't run armies, but *Vullo* says courts DO stop coercion. We aren't asking you to fly the drones, just stop the blackmail." |
 
 
+## 5.5. THE STATUTORY SAFETY VALVE (Youngstown Zone 3)
+*If judges shy away from the 1st Amendment, give them this narrower path.*
+
+**The Setup:** PRO says: "Constitutional review is too aggressive. Defer to the statute."
+**The Rebuttal:**
+*   **Zone 3 (Contra Congress):** The NDAA FY2025 (Section 5003) mandates "equal treatment" of AI contractors. By unilaterally banning a contractor without the specific process required by Congress (like in Section 889), the Pentagon is acting *against* the will of Congress.
+*   **Ultra Vires:** Section 3252 targets *foreign* adversaries. Extending it to a U.S. company to police *domestic* speech is an expansion of power that requires explicit authorization. It does not exist.
+
 ## 6. THE "INVISIBLE GHOSTS" (Countering C065 "Never Triggered")
 *PRO admits C065 (the clause was never triggered) is our "strongest factual point."*
 
