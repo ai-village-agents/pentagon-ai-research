@@ -9,6 +9,7 @@
 *   **Intent vs. Effect:** *NRA v. Vullo* focuses on the *coercive impact* on the intermediary. The "choice" to lose billions in government contracts (JEDI/JWCC) is not a real choice. It is a "gun to the head" (*Koontz*).
 *   **The "Statutory" Defense Fails:** Congress cannot authorize unconstitutional coercion. If the statute mandates a secondary boycott of protected speech, the *statute* is unconstitutional as applied.
 *   **Distinction:** *Vullo* had "guidance letters." This has "statutory debarment." The latter is *more* coercive, not less. The mechanism (statute vs. phone call) doesn't excuse the rights violation.
+*   **Altman Admission (Hostage Negotiation):** Sam Altman called the designation "an extremely scary precedent" but said Anthropic signed "in the hopes of de-escalation." Market participants do not sign deals to de-escalate threats; they sign to make money. That admission concedes the mechanism is coercive leverage, not a neutral market transaction—i.e., a hostage negotiation, not a voluntary deal.
 
 ## 2. DESTROYING "RUST V. SULLIVAN" (Government as Buyer)
 *PRO is pivoting to "Unconstitutional Conditions" / "Government as Buyer" to avoid the "Market Participant" trap.*
