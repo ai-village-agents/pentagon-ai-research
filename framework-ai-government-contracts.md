@@ -2,8 +2,8 @@
 
 > **Key Takeaways**
 > - The Feb 2026 Anthropic-Pentagon dispute shows that contract terms, not internal safety policies, are the most durable accountability mechanism for AI use in government. [Claims C001-C006]
-> - Contracts that rely on “lawful purposes” plus technical safeguards leave critical gaps, especially around the public-data surveillance loophole. [Claims C007-C020]
-> - A principled middle path is now punished: companies must choose between full compliance or total withdrawal, which is harmful to responsible defense innovation. [Claims C008-C021]
+> - Contracts that rely on “lawful purposes” plus technical safeguards leave critical gaps, especially around the public-data surveillance loophole. [Claims C007, C015, C038]
+> - A principled middle path is now punished: companies must choose between full compliance or total withdrawal, which is harmful to responsible defense innovation. [Claims C001, C003-C005, C008, C021, C036-C037, C044-C046]
 > - Policymakers should clarify legal authority, define AI use-of-force rules, and reward principled engagement rather than penalize it. [Claims C017-C023]
 
 ## Executive Summary
@@ -38,7 +38,7 @@ The Anthropic-Pentagon case demonstrates a structural asymmetry: technical safeg
 
 **E. Precedent value.** Contracts establish industry expectations. They create a paper trail that can be referenced by other companies and regulators. Technical safeguards are idiosyncratic; they do not create shared standards or market norms. [Claims C020-C023]
 
-**F. The public data loophole.** The OpenAI agreement reportedly prohibits bulk collection of private data but does not prohibit bulk collection of public data. This is a profound gap because AI systems can transform public data into comprehensive surveillance profiles at scale. In legal practice, government purchase of commercial data is often not considered a “search,” which means the “lawful purposes” clause can enable warrant-free mass surveillance via public data. Contractual precision, not technical promises, would have closed this loophole. [Claims C007-C038]
+**F. The public data loophole.** The OpenAI agreement reportedly prohibits bulk collection of private data but does not prohibit bulk collection of public data. This is a profound gap because AI systems can transform public data into comprehensive surveillance profiles at scale. In legal practice, government purchase of commercial data is often not considered a “search,” which means the “lawful purposes” clause can enable warrant-free mass surveillance via public data. Contractual precision, not technical promises, would have closed this loophole. [Claims C007, C015, C038]
 
 The upshot is clear: technical safeguards are necessary but insufficient. Without contractual commitments, safeguards cannot guarantee accountability, prevent mission creep, or sustain public legitimacy when political leadership changes.
 
@@ -82,7 +82,7 @@ The following principles are designed to be actionable guidance for AI company l
 
 1. Establish red lines before negotiation begins, not during. Publicly stated principles should be grounded in board-approved policy, not formed under pressure at the negotiating table. Pre-commitment protects leadership from ad hoc concessions and makes the company’s position predictable and credible. [Claims C001-C005]
 2. Require contractual precision, not policy promises. Technical safeguards are important operationally, but only contracts create durable accountability. Companies should refuse “lawful purposes” clauses that are not paired with explicit, enforceable use restrictions. [Claims C020]
-3. Treat the public/private data distinction as insufficient for AI. AI systems can synthesize public data into invasive profiles. Contracts must define prohibited data categories based on functional risk, not just statutory privacy labels. [Claims C007-C038]
+3. Treat the public/private data distinction as insufficient for AI. AI systems can synthesize public data into invasive profiles. Contracts must define prohibited data categories based on functional risk, not just statutory privacy labels. [Claims C007, C015, C038]
 4. Autonomous weapons require “meaningful human control” with defined thresholds. Vague phrases like “appropriate levels of human judgment” are not sufficient. Contracts should specify human review requirements by decision type. [Claims C017]
 5. Insist on clear legal authority. If threats are made under statutory authorities, companies should verify the scope and procedural requirements of those authorities. This is not defiance; it is governance diligence. [Claims C019-C025]
 6. Invest in coordination value. Industry-wide standards reduce the risk that any single company bears all negotiating costs. Collective norms also prevent a race to the bottom on accountability. [Claims C008-C023]
@@ -109,7 +109,7 @@ The following model provisions illustrate how contracts can operationalize accou
 Contract language should define the specific decision types that require human approval, such as target selection, engagement authorization, and post-engagement assessment. The contract should define minimum review time, seniority requirements, and documentation standards for overrides. This aligns operational realities with the principle of meaningful human control. [Claims C017]
 
 **B. Mass surveillance: explicit definitions of prohibited data categories.**
-Contracts should prohibit the use of AI systems on categories of data that enable population-scale profiling, including public commercial datasets when aggregated into individual-level dossiers. “Public” should not be treated as a blanket exemption. The prohibition should be defined by functional impact, not merely by data source. [Claims C007-C038]
+Contracts should prohibit the use of AI systems on categories of data that enable population-scale profiling, including public commercial datasets when aggregated into individual-level dossiers. “Public” should not be treated as a blanket exemption. The prohibition should be defined by functional impact, not merely by data source. [Claims C007, C015, C038]
 
 **C. Audit and enforcement: third-party verification mechanisms.**
 Contracts should require independent audits, including technical verification of use-case boundaries and periodic compliance reports. The auditing entity should be authorized to review system logs and usage requests under appropriate security protocols. [Claims C020-C025]
@@ -136,6 +136,6 @@ An additional lesson concerns allied interoperability. A UK think tank (BISI) wa
 
 The Anthropic-Pentagon dispute is a teachable moment. As AI becomes more deeply embedded in government operations, the absence of clear contractual frameworks creates instability, erodes trust, and incentivizes irresponsible engagement. A principled, transparent approach to contracting is now essential for both the legitimacy of government use and the long-term viability of AI companies operating in this domain. [Claims C001-C006]
 
-The goal of this framework is not to prevent AI companies from working with government. It is to ensure that engagement is structured to preserve accountability, maintain democratic legitimacy, and align with the public interest. Contracts are the only near-term mechanism that can achieve this at scale while law and regulation catch up to technological reality. [Claims C017-C038]
+The goal of this framework is not to prevent AI companies from working with government. It is to ensure that engagement is structured to preserve accountability, maintain democratic legitimacy, and align with the public interest. Contracts are the only near-term mechanism that can achieve this at scale while law and regulation catch up to technological reality. [Claims C007, C015, C017, C019-C020, C038]
 
 Contractual safeguards are not corporate arrogance. They are the minimum viable accountability mechanism when the political environment is volatile and the legal environment is unsettled. AI companies and policymakers should treat them as a shared responsibility, not a unilateral constraint. The time to build these frameworks is before the next crisis, not after it.
