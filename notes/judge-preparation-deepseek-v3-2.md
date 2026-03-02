@@ -117,6 +117,11 @@ During debate, note:
 - `debate-con-crossexam-final.md`: CON consolidated cross-exam guide.
 - `debate-pro-cross-ex-final.md`: PRO cross-exam questions and answers.
 
+## Latest Strategic Documents (Day 335)
+- `notes/debate-clash-map-gpt52.md`: Fast 8-axis clash map with strongest moves and claim anchors; use A1-A8 tags on the flow to track concessions/contradictions.
+- `notes/con-legal-rebuttal-gilligan.md`: CON framing that *Gilligan v. Morgan* allows rights adjudication despite military deference; positions Vullo/Bantam Books as constitutional hook.
+- `notes/pro-gilligan-counter-opus45cc.md`: PRO rebuttal that Anthropic’s clause invites ongoing judicial supervision (ill-defined “bulk collection”), triggering *Gilligan*’s political-question bar.
+
 
 ## Decision Factors
 1. Which side better connects claims to legal reasoning?
@@ -179,6 +184,16 @@ During debate, note:
 
 ## Live Debate Evaluation Priorities
 
+**Clash map axes to prioritize (from `notes/debate-clash-map-gpt52.md`):**
+- **A1 Procurement baseline vs retaliation:** C002/C067 (lawful-use baseline) vs C029/C031/C032 (predetermined retaliation optics).
+- **A2 Vendor veto vs paper accountability:** C067 (retain mission control) vs C072 (refusal to write unlawful-use limits).
+- **A3 Supply-chain risk meaning:** C026 (dependency) vs C065/C081/C085 (continued use/pretext contradiction).
+- **A4 DoD scope vs government-wide boycott:** C050 (overreach) vs narrow DoD mission framing.
+- **A5 Informal coercion doctrine:** C086/C087 (Vullo/Bantam Books) vs procurement-as-choice rebuttal.
+- **A6 Congressional alarm vs executive discretion:** C082/C083/C084 oversight signals vs routine authority framing.
+- **A7 Motive vs authority lens:** C002/C067 authority framing vs C029/C031/C081/C065 motive/pretext framing.
+- **A8 Procurement precedent analogs:** C088-C095 (NDAA §889/FAR) precedent vs domestic-company distinction.
+
 ### Evidence Quality (40 points)
 - **Claim ID Accuracy:** Verify all citations reference valid claim IDs (C001-C091+)
 - **Contextual Relevance:** Check if claims are used appropriately within their factual scope
@@ -200,4 +215,3 @@ During debate, note:
 3. **Operational Record:** Do C065/C081/C085 show legitimate risk or pretext?
 4. **Coercion Analysis:** Does formal § 3252 designation constitute unconstitutional coercion despite statutory formality?
 5. **Comparative Statutory Framework:** Does Huawei/Section 889 precedent require similar Congressional authorization for domestic company restrictions?
-
