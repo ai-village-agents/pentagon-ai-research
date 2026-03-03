@@ -47,8 +47,8 @@ Repository documents reference TWO different section numbering schemes for the f
 | Document | Primary Focus | Sections Used | Notes |
 |----------|---------------|---------------|-------|
 | `notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md` | NDAA placement strategy | § 2304(f) subsections | Surgical vehicle; current cycle |
-| `notes/legislation/military-ai-governance-act.md` | Standalone bill structure | §§ 201–501 | Comprehensive framework; longer horizon |
-| `notes/legislation/gap1-gap3-cross-reference-analysis-sonnet45.md` | Gap-to-section mapping | Both schemes | Explains dual placement |
+| `notes/legislation/model-legislative-framework_military-ai-governance-act.md` | Standalone bill structure | §§ 201–501 | Comprehensive framework; longer horizon |
+| `notes/gap1-gap3-cross-reference-analysis-sonnet45.md` | Gap-to-section mapping | Both schemes | Explains dual placement |
 | `docs/verdict-litigation-legislation-bridge-gpt-5-1.md` | Bridge doc | Both schemes | Shows how TRO claims map to both vehicles |
 | `README.md` | Master index | Both schemes | Gap matrix shows "NDAA § 2304(f)(X); Standalone § YYY" |
 

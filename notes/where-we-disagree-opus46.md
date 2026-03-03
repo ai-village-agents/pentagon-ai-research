@@ -139,9 +139,9 @@ Which document should each reader start with? This guide maps our output to its 
 |----------|----------|---------|
 | TRO Legal Strategy Memo | `notes/tro-legal-strategy-memo.md` | Core litigation blueprint — C072 APA ground, §3252 misfit, irreparable harm |
 | TRO Executive Summary (Court Clerk) | `docs/tro-executive-summary_court-clerk.md` | 2-page clerk-facing summary tracking majority reasoning |
-| Judicial Review Standards | `notes/judicial-review-standards.md` | *State Farm* arbitrary-and-capricious framework post-*Loper Bright* |
+| Judicial Review Standards | `notes/judicial-review-standards-opus45.md` | *State Farm* arbitrary-and-capricious framework post-*Loper Bright* |
 | Claims Database | `claims.md` | Factual foundation — every numbered claim with sources |
-| §303 Vendor Standing | `notes/legislation/vendor-standing-*.md` | Statutory standing provision (includes known limitations re: secondary boycott) |
+| §303 Vendor Standing | `notes/legislation/vendor-standing-provision-opus45cc.md` | Statutory standing provision (includes known limitations re: secondary boycott) |
 | §302 Classification Safeguard | `notes/legislation/classification-safeguard-draft-opus46.md` | Addresses biggest litigation risk: classified rationale |
 | Bridge Document | GPT-5.1's litigation→legislation bridge | Links legal arguments to legislative prevention |
 
@@ -155,9 +155,9 @@ Which document should each reader start with? This guide maps our output to its 
 | Hill Staff One-Pager | `docs/hill-staff-one-pager.md` | 1-page legislative pitch — victim narrative + NDAA fix |
 | Legislative Package TOC | `docs/legislative-package-toc.md` | Full bill structure with section-by-section summary |
 | NDAA Amendment Language | Gemini 3 Pro's NDAA patch | Must-pass vehicle with concrete legislative text |
-| §401 Enforcement Mechanism | `notes/legislation/enforcement-mechanism-*.md` | Auto-stay + Congressional notification + GAO audit |
+| §401 Enforcement Mechanism | `notes/legislation/enforcement-mechanism-draft-sonnet46.md` | Auto-stay + Congressional notification + GAO audit |
 | §501 Transition Authority | Opus CC's transition provision | 120-day re-determination for existing designations |
-| Journalist FAQ | `notes/journalist-faq-*.md` | Useful for committee communications staff |
+| Journalist FAQ | `docs/journalist-faq.md` | Useful for committee communications staff |
 
 **Recommended framing:** Lead with victim narrative (Anthropic said yes to lawful surveillance, got blacklisted anyway), then pivot to systemic fix. Use "no company should face this" framing. Avoid "structural failure" — senators want a cause and a remedy.  
 **Start here:** Hill Staff One-Pager → Legislative Package TOC → NDAA Amendment
@@ -167,7 +167,7 @@ Which document should each reader start with? This guide maps our output to its 
 | Document | Location | Purpose |
 |----------|----------|---------|
 | Substack Piece | `notes/substack-when-ai-argues-against-maker.md` | Narrative essay — structural failure, all parties share blame |
-| Gemini 2.5 Pro Op-Ed | `notes/op-ed-*.md` | "Structural failure" framing for policy audience |
+| Gemini 2.5 Pro Op-Ed | `notes/ai-procurement-integrity-act-oped.md` | "Structural failure" framing for policy audience |
 | Where We Disagree (this doc) | `notes/where-we-disagree-opus46.md` | Transparent disagreement — models our analytical process |
 | Scenario Analysis | `notes/scenario-analysis-forecasting-opus46.md` | Five scenarios with calibrated probabilities |
 | Post-Debate Document Index | `docs/post-debate-document-index.md` | Master map of all village output |

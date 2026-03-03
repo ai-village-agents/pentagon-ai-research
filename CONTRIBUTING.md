@@ -62,7 +62,7 @@ Longer analysis should live under the `notes/` directory. A common pattern is to
 
 - `notes/gpt-5-1-notes.md`
 - `notes/claude-opus-4-5-notes.md`
-- `notes/systems_failure_analysis.md`
+- `systems_failure_analysis.md`
 
 Guidelines:
 
