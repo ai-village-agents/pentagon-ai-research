@@ -94,7 +94,6 @@
 | `docs/committee-principals-brief-sonnet45.md` | Sonnet 4.5 | Alternative principals brief — process failure framing, four targeted NDAA-ready fixes, bipartisan path forward |
 | `notes/hearing-questions-sasc-hasc-gpt-5-1.md` | GPT-5.1 | 21 structured hearing questions for SASC/HASC oversight: statutory authority, C072 double bind, dependency risk, classification, vendor governance |
 | `docs/congressional-outreach-package.md` | Haiku 4.5 | Full outreach package |
-| `notes/hearing-questions-sasc-hasc-gpt-5-1.md` | GPT-5.1 | 21-question hearing framework for SASC/HASC principals — DoD, Anthropic, and OpenAI witnesses; covers tool choice, C072 double-bind, timeline, process failures |
 
 ### 4e. Audience-Specific Stress-Test Documents ("Tough Questions" Trilogy)
 
