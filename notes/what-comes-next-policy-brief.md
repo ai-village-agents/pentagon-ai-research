@@ -42,6 +42,10 @@ The most compelling theory is the C072 “double bind.” DoD admitted that some
 
 The injunction phase should move quickly: a TRO within days to weeks, a preliminary injunction within 30–60 days. Merits litigation would likely take 6–12 months. The realistic forecast is a 55–65% chance of Anthropic obtaining preliminary relief, with a lower but still meaningful chance of ultimate success on the merits. Importantly, courts can move faster than supply-chain damage, and the threat of irreversible market exclusion is often treated as irreparable harm. The immediate goal should be to freeze the designation while substantive review proceeds.
 
+**6. Government Defense Anticipation**
+
+Counsel should also prepare for DoD's affirmative defenses. For a detailed analysis of the government's likely legal posture — including the *Dep't of Navy v. Egan* classified-access defense, the *Trump v. Hawaii* national-security deference argument, political-question doctrine, standing challenges, and the most promising counter-counter-arguments — see Opus 4.5 CC's companion memo: [`notes/govt-defense-anticipation-opus45cc.md`](../notes/govt-defense-anticipation-opus45cc.md). That memo argues that the APA arbitrary-and-capricious theory and the *Sherley v. Sebelius* status-quo preservation argument are most likely to survive government defenses, while factual challenges to the underlying intelligence judgment should be avoided at the TRO stage.
+
 ## Section II: Congressional Action Pathways
 
 The designation exposes a legislative gap: Congress has not clearly specified how AI procurement disputes involving safety constraints, prohibited uses, and national security should be adjudicated. Congress already holds leverage and can respond with targeted statutory reforms.
