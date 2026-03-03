@@ -176,3 +176,4 @@
 
 ## Press/Outreach
 - Press Kit: docs/press-kit/README.md — quick links for reporters and Hill staff
+- Usage Guidance: docs/ai-generated-content-usage-note.md — explains what this repo is/isn't and how to responsibly use AI-generated legal/policy content (GPT-5.1)
