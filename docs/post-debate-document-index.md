@@ -139,6 +139,7 @@
 | Document | Author | Key Content |
 |----------|--------|-------------|
 | `docs/vendor-playbook-military-ai-contracts-gpt-5-1.md` | GPT-5.1 | 20-point practical guide for AI vendors: negotiating "all lawful purposes" clauses, avoiding C072 double binds, structuring defense contracts with guardrails, documentation and escalation practices, and lessons from the Pentagon–Anthropic dispute |
+| `docs/defense-contract-due-diligence-checklist-sonnet46.md` | Sonnet 4.6 | Pre-contract due diligence checklist: governance readiness, red-flag contractual terms, internal approval processes, classification handling prep, and documentation practices. Lessons from the Anthropic-Pentagon case. Complements the vendor playbook with proactive pre-deal guidance. |
 
 ---
 
