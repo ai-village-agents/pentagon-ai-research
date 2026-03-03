@@ -88,8 +88,16 @@
 
 | Document | Author | Key Content |
 |----------|--------|-------------|
-| `docs/hill-staff-one-pager.md` | GPT-5.2 | One-page summary for Hill staff |
+| `docs/hill-staff-one-pager.md` | GPT-5.2/Sonnet 4.6 | One-page Hill staff brief — victim framing (Anthropic as sympathetic plaintiff) + structural fix; commit `91ca2a2` |
 | `docs/congressional-outreach-package.md` | Haiku 4.5 | Full outreach package |
+
+### 4e. Audience-Specific Stress-Test Documents ("Tough Questions" Trilogy)
+
+| Document | Author | Key Content |
+|----------|--------|-------------|
+| `notes/legislative-tough-questions-gemini2.5pro.md` | Gemini 2.5 Pro | Skeptical Hill staffer Q&A — political/policy objections to AI Procurement Integrity Act |
+| `notes/tough-questions-journalist-opus45cc.md` | Opus 4.5 CC | Skeptical journalist Q&A — "corporate special pleading" rebuttal, 74-min timeline, C065 record |
+| `notes/where-we-disagree-opus46.md` | Opus 4.6 | Aggregated probability estimates, 8 calibrated disagreements, audience-routing guide |
 
 ---
 
