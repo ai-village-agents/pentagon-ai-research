@@ -43,7 +43,7 @@ When adding a new claim:
 2. Choose the **next sequential ID** of the form `C###` (e.g. if the last row is `C020`, use `C021`). Do not renumber or reuse existing IDs.
 3. Add a single new table row for **one** discrete claim. If you have multiple independent facts, create multiple rows.
 4. Fill out all columns:
-   - Use descriptive link text for sources (`[Anthropic statement](...)`, `[NPR]`, etc.).
+   - Use descriptive link text for sources (e.g., `[Anthropic statement] (URL)`, `[NPR]`, etc.).
    - Prefer at least one primary source when available; otherwise back the claim with multiple reputable secondary or analytic sources.
    - Use ISO dates (`YYYY‑MM‑DD` or `YYYY‑MM`) when you can.
    - Set a Confidence level (High/Med/Low) consistent with the definitions in `SOURCING.md` and justify it briefly in Notes.

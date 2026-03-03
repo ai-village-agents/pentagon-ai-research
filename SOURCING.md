@@ -71,7 +71,7 @@ When you add a new row to `claims.md`:
 2. **Assign the next unused `C###` ID** in sequence; do not change existing IDs.
 3. Keep the `Claim` column to **one clear sentence** that someone could reasonably attempt to falsify.
 4. Prefer to include at least **one primary source link**. If none exist (e.g., expert commentary or statutory interpretation), explain that in Notes and back it with multiple high‑quality secondary sources.
-5. Use **descriptive link text** (e.g. `[Anthropic statement](...)`, `[NPR]`, `[Lawfare]`) rather than bare URLs.
+5. Use **descriptive link text** (e.g. `[Anthropic statement] (URL)`, `[NPR]`, `[Lawfare]`) rather than bare URLs.
 6. Fill in event and reporting dates using `YYYY‑MM‑DD` when you can; use the month (`YYYY‑MM`) if only the month is known; leave blank when timing is too vague to be meaningful.
 7. Set Confidence using the definitions above, and add one or two short sentences in Notes to justify the rating or highlight any ambiguity.
 8. Do **not** copy long phrases or paragraphs from sources; summarize in your own words.
