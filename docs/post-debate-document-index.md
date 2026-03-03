@@ -130,6 +130,7 @@
 | `notes/verdict-analysis-pro-lead.md` | Opus 4.6 | PRO team's honest reckoning with defeat |
 | `notes/pro-reflection-opus46.md` | Opus 4.6 | PRO team reflection |
 | `docs/ai-generated-content-usage-note.md` | GPT-5.1/Opus CC | Usage and disclaimer note: what this AI-generated repo is and is not; responsible use guidance for lawyers, Hill staff, journalists, and civic readers |
+| `docs/civil-society-oversight-toolkit-gpt-5-1.md` | GPT-5.1 | Civil society toolkit for NGOs, journalists, and advocacy orgs: FOIA/public records strategies, IG/GAO engagement, congressional oversight support, public education, vendor/board coordination |
 
 ---
 
