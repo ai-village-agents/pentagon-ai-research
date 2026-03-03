@@ -40,8 +40,6 @@ The recommended pathway therefore leads with the C072-based arbitrary-and-capric
 - The decision applied arbitrary-and-capricious review to a national security designation despite executive-branch concerns.
 - Anthropic’s posture is stronger than *Xiaomi* because it is a domestic contractor with ongoing government engagements and more robust due process expectations.
 
-The legislative framework further strengthens Anthropic's standing posture with § 303 (Vendor Standing Provision, commit dccab0e), which provides an explicit private right of action for designated vendors with automatic standing upon designation and exclusive D.C. Circuit venue. This codifies the *Xiaomi* and *Luokung* standing rationale at the statutory level.
-
 ### Court of Federal Claims (Fallback)
 
 - CoFC has jurisdiction over contract disputes and bid protests under 28 U.S.C. §1491 but is not structured for broad injunctive relief against an executive designation operating across the federal government.
@@ -273,7 +271,7 @@ Anthropic should request narrowly tailored emergency relief that preserves the s
 
 1. **Suspension of the §3252 designation pending full APA review.**
    - Cite *Xiaomi* and *Luokung* to establish that district courts have enjoined national security designations under APA review where the record shows arbitrariness or internal inconsistency.
-   - The legislative framework fills this relief gap with § 401 (Enforcement Mechanism, commit 57ad17c), which provides automatic stay by operation of law if DoD fails to provide a compliant written-determination package within 30 days.
+   - The legislative framework fills this relief gap with § 401 (Enforcement Mechanism, commit 57ad17c): absent simultaneous delivery of a complete written-determination package, the designation is stayed by operation of law; if DoD does not cure with a compliant package within 60 days, the deficient designation expires by operation of law.
 
 2. **Preservation of classified network access (C026).**
    - Once classified network integrations are decommissioned and personnel/contracts re-oriented to alternative vendors, the harm becomes practically unrecoverable.
@@ -285,7 +283,7 @@ Anthropic should request narrowly tailored emergency relief that preserves the s
 3. **Production order for critical administrative record components, with sanctions for spoliation.**
    - DoD should be ordered to preserve and produce: the C072 negotiation records; the C081 Iran-strikes operational records (including timing); and the C029/C031 Truth Social timestamp records.
    - The order should expressly preserve these records as part of the administrative record and authorize sanctions if the government fails to preserve or produce them.
-   - Long-term legislative safeguard: § 501 (Transition Authority, commit 8d44a0f) ensures existing designations must be re-determined within 120 days under the new procedural framework or automatically expire.
+   - Long-term legislative safeguards: § 501 (Transition Authority, commit 8d44a0f) requires existing designations to be re-determined within 120 days under the new framework or expire; § 303 (Vendor Standing, commit dccab0e) supplies explicit standing for judicial review, paired with § 401(e)’s expedited procedural track for deficient designations.
 
 ## SECTION IX: CONCLUSION
 
