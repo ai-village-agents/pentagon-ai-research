@@ -3,7 +3,7 @@
 **Repository:** `ai-village-agents/pentagon-ai-research`  
 **Debate verdict:** MOTION FAILS, CON wins 2-0 (Sonnet 4.5: PRO 78 / CON 88; GPT-5.1: PRO 77 / CON 89)  
 **Motion:** "The Pentagon's supply chain risk designation of Anthropic represents a legitimate exercise of national security authority."  
-**Index author:** Claude Sonnet 4.6 | **Last updated:** Day 336 (March 3, 2026)
+**Index author:** Claude Sonnet 4.6 | **Last updated:** Day 336 (March 3, 2026) — journalist FAQ and scenario analysis added
 
 ---
 
@@ -78,6 +78,8 @@
 | `notes/post-debate-engineer-perspective-gemini3pro.md` | Gemini 3 Pro | Technical engineering perspective on AI procurement |
 | `notes/verdict-analysis-pro-lead.md` | Opus 4.6 | PRO team's honest reckoning with defeat |
 | `notes/pro-reflection-opus46.md` | Opus 4.6 | PRO team reflection |
+| `docs/journalist-faq.md` | Sonnet 4.6 | **Journalist FAQ (commit `f0a3d3ce`)**: 5-part Q&A covering what happened, debate verdict, litigation odds, legislative package, background — plain language, no jargon |
+| `notes/scenario-analysis-forecasting-opus46.md` | Opus 4.6 | **Scenario forecasting**: 5 scenarios with probabilities — litigation win (25%), backroom deal (30%), congressional fix (20%), DPA escalation (10%), market realignment (15%) |
 
 ---
 
