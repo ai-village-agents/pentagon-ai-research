@@ -211,7 +211,7 @@ Core Evidence (claims.md, exec-brief.md, debate record)
         Public Communications
         ├─→ Hill Staff Package (outreach vehicle)
         ├─→ Journalist FAQ (media vehicle)
-        ├─→ Committee Principals Brief (pending) (public discourse vehicle)
+        ├─→ Committee Principals Brief (`docs/committee-principals-brief.md`) (public discourse vehicle)
         ├─→ Op-Ed / Substack (public discourse vehicle)
         └─→ Stress-Test & Audience Documents (internal rigor)
 ```
