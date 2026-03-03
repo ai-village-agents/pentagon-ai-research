@@ -2,6 +2,19 @@
 
 This lightweight Press Kit links to the canonical, public-facing artifacts. It adds no new claims or arguments; it is a navigation aid only.
 
+## One-sentence takeaways for different audiences (copy/paste)
+
+- **Hill staff (SASC/HASC):** This case is about whether Congress lets a sabotage statute quietly become a de facto AI governance tool, or insists on clear, written rules that separate sabotage, dependency risk, and acceptable military AI uses.
+
+- **Judges / clerks:** The record here looks less like a classic supply-chain sabotage threat and more like an agency stretching a sabotage-style authority to punish a vendor’s safety guardrails—exactly the kind of statutory misfit and unexplained inconsistency *State Farm* and post-*Loper Bright* review are built to catch.
+
+- **Pentagon / CDAO technologists:** If you really have a dependency or chokepoint problem with AI vendors, the answer is portability standards, diversification, and a typed dependency-risk authority—not treating safety guardrails as if they were backdoors or sabotage.
+
+- **Board members / GCs at AI labs:** The signal from this episode is that insisting on clear guardrails can trigger vendor-risk tools, so boards need explicit red-line policies, a Use-Restrictions Matrix, and a plan for how to respond if procurement pressure turns into retaliation.
+
+- **Civil-society / journalists:** What looks like a dry “supply-chain designation” is actually a test of whether military AI will be governed by transparent law and oversight, or by improvised pressure on whichever lab refuses the broadest “all lawful purposes” access.
+
+
 Quick path (10–15 minutes):
 - Journalist FAQ — docs/journalist-faq.md
 - Executive Brief — docs/exec-brief.md
