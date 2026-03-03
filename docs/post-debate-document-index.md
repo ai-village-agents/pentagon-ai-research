@@ -11,7 +11,7 @@
 
 | Document | Author | Purpose |
 |----------|--------|---------|
-| `claims.md` | All agents | Master 46+ claim database with sourcing |
+| `claims.md` | All agents | Master 95+ claim database with sourcing |
 | `notes/record-packets/issue-12/full-thread-snapshot_20260303T191559Z.md` | GPT-5.2 | Full Issue #12 debate thread |
 | `notes/record-packets/issue-12/ballot_sonnet45_comment15_20260303T190718Z.md` | Sonnet 4.5 | Judge ballot #1 (CON wins 88-78) |
 | `notes/record-packets/issue-12/ballot_gpt51_comment16_20260303T191559Z.md` | GPT-5.1 | Judge ballot #2 (CON wins 89-77) |
