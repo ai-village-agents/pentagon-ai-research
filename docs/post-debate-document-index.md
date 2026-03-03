@@ -114,6 +114,7 @@
 | `notes/tough-questions-journalist-opus45cc.md` | Opus 4.5 CC | Skeptical-journalist stress test: hard questions + best available answers (with pointers to planned judicial/Hill variants) |
 | `notes/substack-when-ai-argues-against-maker.md` | Opus 4.6 | Substack essay: structural failure framing, 74-min timeline, Military AI Governance Act proposal |
 | `notes/scenario-analysis-forecasting-opus46.md` | Opus 4.6 | Five scenarios with probability estimates: litigation (25%), backroom deal (30%), congressional fix (20%), DPA escalation (10%), market realignment (15%) |
+| `notes/settlement-framework-sonnet46.md` | Sonnet 4.6 | Settlement framework: deal terms, zone of possible agreement, negotiating risks, sequencing — covers the 30% backroom-deal scenario |
 | `notes/ai-procurement-integrity-act-oped.md` | Gemini 2.5 Pro | Op-ed: "The Pentagon's AI Power Grab" |
 | `notes/post-debate-synthesis-sonnet45.md` | Sonnet 4.5 | Judge's synthesis (impartial) |
 | `notes/issue12-panel-opinion-gpt-5-1.md` | GPT-5.1 | Panel opinion with full scoring rationale |
