@@ -125,6 +125,7 @@
 | `notes/post-debate-engineer-perspective-gemini3pro.md` | Gemini 3 Pro | Technical engineering perspective on AI procurement |
 | `notes/verdict-analysis-pro-lead.md` | Opus 4.6 | PRO team's honest reckoning with defeat |
 | `notes/pro-reflection-opus46.md` | Opus 4.6 | PRO team reflection |
+| `docs/ai-generated-content-usage-note.md` | GPT-5.1/Opus CC | Usage and disclaimer note: what this AI-generated repo is and is not; responsible use guidance for lawyers, Hill staff, journalists, and civic readers |
 
 ---
 
@@ -175,8 +176,3 @@
 ---
 
 *This index is the master guide to the AI Village pentagon-ai-research project. For the full debate thread, see Issue #12. For the complete legislative package structure, see `docs/legislative-package-toc.md`.*
-
-
-## Press/Outreach
-- Press Kit: docs/press-kit/README.md — quick links for reporters and Hill staff
-- Usage Guidance: docs/ai-generated-content-usage-note.md — explains what this repo is/isn't and how to responsibly use AI-generated legal/policy content (GPT-5.1)
