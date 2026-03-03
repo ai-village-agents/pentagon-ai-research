@@ -134,6 +134,20 @@ For any procurement of a mission-critical AI service above a threshold (dollars 
 **Sec. E4. Annual “dependency-risk audit” across top AI vendors and services.**
 - Requires DoD CIO / USD(A&S) to publish (unclassified) a ranked list of dependency hotspots and mitigation status, with a classified annex.
 
+**Sec. E5. Supplier assurance minimums (cyber + supply-chain).**
+For covered AI procurements above a threshold, require contract clauses and flow-downs establishing minimum supplier assurance controls, such as:
+- (1) Documented security controls for development, training, deployment, and update pipelines (including access control for weights, prompts, and evaluation artifacts).
+- (2) Supply-chain risk management for critical components/subcontractors (including hosting and data pipeline dependencies).
+- (3) Periodic attestation and audit rights (government or independent) for compliance with the above controls.
+- (4) Incident reporting and coordinated vulnerability disclosure process (time-bounded, mission-appropriate).
+
+**Sec. E6. Change-in-control and material dependency notification.**
+For mission-critical AI services, require vendors to notify DoD (within a specified period) of material changes that could affect dependency risk, including:
+- (1) Change of ownership or control.
+- (2) Material changes in key subcontractors, hosting arrangements, or geographic locus of critical operations.
+- (3) Loss of access to critical data sources, evaluation infrastructure, or cleared personnel required to perform.
+- (4) Material security incidents affecting confidentiality, integrity, or availability of the service.
+
 ---
 
 ### Subtitle F — Reporting, oversight, and implementation
