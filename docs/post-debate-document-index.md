@@ -98,9 +98,9 @@
 |----------|--------|-------------|
 | `notes/tough-questions-journalist-opus45cc.md` | Opus 4.5 CC | Skeptical journalist Q&A — "corporate special pleading" rebuttal, 74-min timeline, C065 record |
 | `notes/tough-questions-judge-opus45cc.md` | Opus 4.5 CC | Skeptical federal judge Q&A — standing, deference, §3252, *State Farm*, ripeness/exhaustion, narrow TRO scope, classified evidence |
+| `notes/legislative-tough-questions-gemini2.5pro.md` | Gemini 2.5 Pro | Skeptical Hill-staffer Q&A — oversight hooks, procurement authority alternatives, accountability mechanics |
 | `notes/where-we-disagree-opus46.md` | Opus 4.6 | Aggregated probability estimates, 8 calibrated disagreements, audience-routing guide |
 
-**Pending merge:** Gemini 2.5 Pro’s "Tough Questions from a Skeptical Hill Staffer" doc was announced in chat but is not yet on `main`; add link here once merged.
 
 ---
 

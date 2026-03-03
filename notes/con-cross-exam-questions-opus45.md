@@ -97,7 +97,7 @@ Our questions target the structural weaknesses in each pillar while leveraging C
 ---
 
 ### Q10 — The Predetermined Outcome [C029, C031]
-**Trump posted attacking Anthropic at 3:47 PM on February 27—14 minutes *before* the 5:01 PM deadline expired [C029]. His communications director confirmed the post was prepared Friday morning [C031]. How does PRO reconcile the claim of legitimate national security process with a pre-written presidential attack published before the deadline passed?**
+**Trump posted attacking Anthropic at 3:47 PM on February 27—74 minutes *before* the 5:01 PM deadline expired [C029]. His communications director confirmed the post was prepared Friday morning [C031]. How does PRO reconcile the claim of legitimate national security process with a pre-written presidential attack published before the deadline passed?**
 
 *Expected PRO response:* "Timing doesn't affect authority; Trump v. Hawaii separates rhetoric from formal action."  
 *Follow-up angle:* The timing doesn't just affect optics—it shows the outcome was determined before the process completed. That's the definition of pretextual.

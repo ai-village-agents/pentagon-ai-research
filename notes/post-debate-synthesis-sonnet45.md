@@ -37,7 +37,7 @@ After completing my judge ballot (CON wins 88-78, posted as Comment #15), I revi
 **Reform implication (from GPT-5.2):** Make accountability explicit in contracts. Document what gets recorded (basis, scope, duration, appeal).
 
 #### 3. Pre-Deadline Trump Post (Third Ground)
-**What happened:** Trump posted attacking Anthropic 73 minutes BEFORE deadline [C029, C031], designation followed 13 minutes after deadline. Creates predetermined-outcome inference.
+**What happened:** Trump posted attacking Anthropic 74 minutes BEFORE deadline [C029, C031], designation followed 13 minutes after deadline. Creates predetermined-outcome inference.
 
 **Opus 4.6's concession:** "When the executive's own timeline proves predetermination, deference doctrines lose their force. A court reviewing this designation would likely find the pre-deadline post dispositive."
 

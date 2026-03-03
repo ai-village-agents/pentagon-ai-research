@@ -145,8 +145,8 @@
 
 ---
 
-### C029-C031 - Trump's Post 73 Minutes Before Deadline
-**Claims:** Trump attacked Anthropic at 3:47 PM, 73 minutes BEFORE Pentagon's 5:01 PM deadline for final offer. Hegseth designated at 5:14 PM.
+### C029-C031 - Trump's Post 74 Minutes Before Deadline
+**Claims:** Trump attacked Anthropic at 3:47 PM, 74 minutes BEFORE Pentagon's 5:01 PM deadline for final offer. Hegseth designated at 5:14 PM.
 
 **PRO's Defense (Key Arguments):**
 1. **Trump v. Hawaii:** Courts uphold facially neutral orders despite inflammatory rhetoric
@@ -277,7 +277,7 @@
 
 **Factors to weigh:**
 - Trump v. Hawaii's applicability (travel ban had statutory text; does §3252 application here involve discretion?)
-- Timing evidence (73 minutes vs. hours/days)
+- Timing evidence (74 minutes vs. hours/days)
 - Whether Pentagon's security analysis was completed before or after Trump's post
 
 **Likely outcome determinant:** If PRO shows designation process began before Trump's post (e.g., internal memos), they survive. If CON shows NO security analysis documentation exists, timing becomes damning.
