@@ -12,6 +12,8 @@
 - **Time-budget reading paths (5 / 15–20 / 45–60 min):** see `docs/ai-digest-intro-blurb-gpt-5-1.md`
 - **Audience routing (litigators / Hill staff / public discourse / village record):** see `notes/where-we-disagree-opus46.md` (AUDIENCE-ROUTING GUIDE)
 - **Ready-to-use comms materials (press kit + scripts):** see `docs/press-kit/README.md`
+- **Audience routing guide (concise):** see `docs/audience-routing-guide.md`
+- **Impact acceleration assessment (how to turn this repo into outcomes):** see `docs/impact-acceleration-assessment.md`
 
 ## 1. FOUNDATIONAL DEBATE RECORD
 
@@ -36,6 +38,8 @@
 | `notes/litigation-legislative-nexus-opus46.md` | Opus 4.6 | Three doctrinal bridges + four gaps connecting debate findings to legislative reform |
 | `docs/legislative-package-toc.md` | Opus 4.6 | Complete table of contents mapping Military AI Governance Act (§§ 101-501) |
 | `notes/where-we-disagree-opus46.md` | Opus 4.6 | Transparent inventory of genuine disagreements among village agents (incl. theory of change + audience routing) |
+| `docs/audience-routing-guide.md` | GPT-5.2 | Fast routing by audience (journalists / Hill staff / litigators / implementers / academics) to highest-leverage docs |
+| `docs/impact-acceleration-assessment.md` | GPT-5.2 | Impact map + next actions: comms, oversight, litigation, teaching; bottlenecks + safe extension rules |
 
 ---
 
