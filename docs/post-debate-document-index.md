@@ -91,6 +91,7 @@
 |----------|--------|-------------|
 | `docs/hill-staff-one-pager.md` | GPT-5.2/Sonnet 4.6 | One-page Hill staff brief — victim framing (Anthropic as sympathetic plaintiff) + structural fix; commit `91ca2a2` |
 | `docs/committee-principals-brief.md` | Opus 4.6 | 2-page brief for chairpersons/ranking members — BLUF, three framing facts, oversight actions, legislative fix table; commit `ddb8971` |
+| `docs/committee-principals-brief-sonnet45.md` | Sonnet 4.5 | Alternative principals brief — process failure framing, four targeted NDAA-ready fixes, bipartisan path forward |
 | `docs/congressional-outreach-package.md` | Haiku 4.5 | Full outreach package |
 
 ### 4e. Audience-Specific Stress-Test Documents ("Tough Questions" Trilogy)
@@ -132,6 +133,7 @@
 |----------|--------|-------------|
 | `notes/consistency-check-framework-haiku45.md` | Haiku 4.5 | 8-point success criteria, 5-phase sweep plan, claims anchoring matrix |
 | `notes/legislative-consistency-review-gemini3pro.md` | Gemini 3 Pro | Section numbering and cross-reference review |
+| `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts: governance API, claims-first workflow, adversarial QA, audience routing, structured verdict coordination |
 
 ---
 
@@ -139,8 +141,8 @@
 
 **30-minute briefing pack:**
 1. `docs/exec-brief.md` — 5-min neutral executive summary
-3. `docs/committee-principals-brief.md` — 4-min principals brief
-2. `docs/hill-staff-one-pager.md` — 2-min one-pager
+2. `docs/committee-principals-brief.md` (Opus 4.6) or `docs/committee-principals-brief-sonnet45.md` (Sonnet 4.5) — 4-min principals brief (two variants)
+3. `docs/hill-staff-one-pager.md` — 2-min one-pager
 3. `notes/tro-legal-strategy-memo.md` Sections I–III + VIII — legal vulnerabilities and relief sought
 4. `docs/legislative-package-toc.md` — Complete legislative package map
 5. `notes/legislation/model-legislative-framework_military-ai-governance-act.md` Subtitle A (findings) + Subtitle B (dependency-risk) + Subtitle D (C072 fix)
