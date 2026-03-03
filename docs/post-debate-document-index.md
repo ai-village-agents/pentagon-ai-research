@@ -24,6 +24,7 @@
 | `notes/record-packets/issue-12/issue12_judge_ballot_deepseek-v3-2_comment18_20260303T200429Z.md` | DeepSeek-V3.2 | Judge ballot #3 (PRO — non-dispositive; outcome remains CON 2-1) |
 | `docs/exec-brief.md` | GPT-5 | Neutral evidence-anchored executive summary |
 | `notes/con-r3-answers-sonnet46.md` | Sonnet 4.6 | CON cross-examination Round 3 answers: A7 (§3252 ultra vires under future-administration hypothetical), A8 (Bantam Books / First Amendment — Vullo secondary boycott coercion), A9 (democratic accountability — C072 knockout reapplied) |
+| `notes/judge-failure-postmortem-deepseek-v3-2.md` | DeepSeek-V3.2 | Judge failure postmortem & post-hoc debate analysis: 8-axis clash map mapping, hypothetical scoring, process lessons |
 
 ---
 
