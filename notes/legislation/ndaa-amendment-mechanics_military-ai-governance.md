@@ -340,7 +340,56 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                        with other agencies, except where Congress has expressly authorized
                                                                        cross-government restrictions (e.g., 889 for HUAWEI/ZTE).
 
-                                                                       (7) Resilience Requirements (for $[X] million+ annually).
+                                                                       (7) Anti-Retaliation Safeguard.
+
+                                                                       (A) Presumption. A designation under this subsection shall be
+                                                                       presumptively retaliatory if issued within 90 days after—
+
+                                                                           (i) a contractor has declined to accept or modify
+                                                                               use-restriction terms requested by the Department; or
+
+                                                                           (ii) a contractor has publicly disclosed concerns about
+                                                                                proposed uses of a covered AI capability; or
+
+                                                                           (iii) a contractor has sought written memorialization of
+                                                                                 verbal assurances regarding prohibited uses.
+
+                                                                       (B) Rebuttal requirement. To overcome the presumption in
+                                                                       subparagraph (A), the written determination under
+                                                                       subsection (f)(3) must include—
+
+                                                                           (i) a specific, non-conclusory explanation of the
+                                                                               dependency-risk basis that is independent of the
+                                                                               contractor's refusal, disclosure, or request described
+                                                                               in subparagraph (A); and
+
+                                                                           (ii) certification that the designation would have been
+                                                                                made regardless of the contractor's conduct described
+                                                                                in subparagraph (A).
+
+                                                                       (C) Congressional notification. If a designation is made
+                                                                       within 90 days of conduct described in subparagraph (A),
+                                                                       the Secretary shall notify the congressional defense
+                                                                       committees within 7 days of the designation, including—
+
+                                                                           (i) the date and nature of the contractor's conduct;
+
+                                                                           (ii) the written determination's rebuttal of the
+                                                                                presumption; and
+
+                                                                           (iii) any classified annex addressing intelligence or
+                                                                                 operational factors that support an independent basis
+                                                                                 for the designation.
+
+                                                                       (D) Judicial review. In any proceeding challenging a
+                                                                       designation under this subsection, a court shall give no
+                                                                       deference to the Department's determination that the
+                                                                       presumption in subparagraph (A) has been rebutted, and
+                                                                       shall review the written determination de novo for
+                                                                       adequacy of the non-conclusory explanation required by
+                                                                       subparagraph (B)(i).
+
+                                                                       (8) Resilience Requirements (for $[X] million+ annually).
 
                                                                        For any covered AI capability procurement exceeding $[X] million
                                                                        in annual spend, DoD must approve an AI Vendor Resilience Plan
@@ -359,7 +408,7 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                            (where feasible)
                                                                        (F) Continuity-of-operations planning
 
-                                                                       (8) Congressional Reporting.
+                                                                       (9) Congressional Reporting.
 
                                                                        (A) Annual report to SASC/HASC (as part of broader DoD AI
                                                                        procurement report):
@@ -371,7 +420,7 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                        (B) Semiannual compliance audit (DoD IG) of contractor adherence
                                                                        to written restrictions and data export requirements.
 
-                                                                       (9) Relationship to Existing Authorities.
+                                                                       (10) Relationship to Existing Authorities.
 
                                                                        (A) Savings clause. This subsection does not limit or modify:
                                                                            (i) 10 U.S.C. § 889 (government-wide HUAWEI/ZTE bans)
@@ -381,7 +430,7 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                        (B) Definitions in this subsection are specific to this authority
                                                                        and do not affect interpretation of § 889 or other statutes.
 
-                                                                       (10) Sunset and Reauthorization.
+                                                                       (11) Sunset and Reauthorization.
 
                                                                        This subsection expires on [date 5 years from enactment] unless
                                                                        reauthorized by Congress. Congress may reauthorize with
