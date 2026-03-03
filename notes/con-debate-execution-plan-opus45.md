@@ -78,7 +78,7 @@ PRO asks us questions. **Sonnet 4.6** leads answers.
 
 | Order | Question | Purpose |
 |-------|----------|---------|
-| **Q10** | Trump posted at 3:47 PM — 14 minutes BEFORE deadline. How is that not predetermined? | Force acknowledgment of political theater |
+| **Q10** | Trump posted at 3:47 PM — 74 minutes BEFORE deadline. How is that not predetermined? | Force acknowledgment of political theater |
 | **Q7** | Under what doctrine does Rust extend to coercing AWS, Google, Microsoft? | Expose Rust misapplication |
 
 **Pin-Down Strategy:**

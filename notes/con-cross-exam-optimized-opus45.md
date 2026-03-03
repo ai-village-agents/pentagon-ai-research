@@ -85,13 +85,13 @@
 ### Q10 — Predetermined Outcome [C029, C031] **MOTIVE vs. AUTHORITY**
 **TARGET:** PRO's reliance on Trump v. Hawaii
 
-> Trump posted at 3:47 PM attacking Anthropic. The deadline was 5:01 PM—*73 minutes later*. His communications director confirmed the post was prepared Friday morning [C029, C031]. **YES or NO:** Was any national security analysis document produced *after* Trump's morning preparation that could have changed the outcome?
+> Trump posted at 3:47 PM attacking Anthropic. The deadline was 5:01 PM—*74 minutes later*. His communications director confirmed the post was prepared Friday morning [C029, C031]. **YES or NO:** Was any national security analysis document produced *after* Trump's morning preparation that could have changed the outcome?
 
 **Why This Works:**
 - Per Sonnet 4.5's Decision Point: "If CON shows NO security analysis documentation exists, timing becomes damning"
 - Forces PRO to either cite specific documentation OR admit predetermined
 - Per DeepSeek: C029/C031 = TIER 3 PRETEXT
-- 73-minute gap is concrete, undisputed evidence
+- 74-minute gap is concrete, undisputed evidence
 
 **Expected PRO Response:** "Trump v. Hawaii: courts evaluate formal actions, not rhetoric. Ugly process, valid authority."
 **Follow-up Angle:** "The formal designation must articulate § 3252 grounds—what NEW sabotage evidence emerged between the 2025 pilot approval and the 2026 designation?"

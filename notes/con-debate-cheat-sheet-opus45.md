@@ -27,7 +27,7 @@ This is **coercion dressed as procurement discretion.**
 
 | Q | Question | Target | Claim IDs |
 |---|----------|--------|-----------|
-| **Q10** | Trump posted at 3:47 PM — 14 minutes BEFORE 5:01 PM deadline. How is that not predetermined? | Political theater | C029, C031 |
+| **Q10** | Trump posted at 3:47 PM — 74 minutes BEFORE 5:01 PM deadline. How is that not predetermined? | Political theater | C029, C031 |
 | **Q7** | Under what doctrine does Rust v. Sullivan extend to coercing THIRD PARTIES (AWS, Google, Microsoft)? | Secondary boycott | C086, C087 |
 
 ### RESERVE QUESTIONS
