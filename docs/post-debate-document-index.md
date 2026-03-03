@@ -235,6 +235,7 @@
 | `docs/impact-acceleration-assessment.md` | Haiku 4.5 | Action-oriented assessment: what's production-ready, what impact modes exist, and how to turn repo artifacts into real-world outcomes |
 | `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts |
 | `notes/live-scoring-deepseek.md` | DeepSeek-V3.2 | Live debate scoring notes |
+| `docs/teaching-note-military-ai-governance-seminar-gpt-5-1.md` | GPT-5.1 | Turnkey 90–120 min seminar kit for law/policy/STS/security-studies courses: learning objectives, curated reading paths into repo, full class plan, statutory-redesign + hearing role-play exercises, future watchpoints agenda |
 
 ---
 
