@@ -135,6 +135,12 @@ These are small, implementable enhancements consistent with the framework alread
 
 ---
 
+## 6) Anticipating a common U.S. executive-branch objection (and response)
+
+**Objection:** “Peer systems don’t face U.S.-scale operational tempo / threat environment; we need flexibility those frameworks don’t.”
+
+**Response:** This note is **not** a proposal to import foreign frameworks wholesale. It extracts **process patterns** that improve legitimacy and accountability **without** dictating operational substance—e.g., (a) written restrictions instead of vague standards, (b) time limits + renewal, (c) reviewable records, and (d) supplier assurance gating (not ad hoc bans). UK-style supplier assurance (e.g., DCPP patterns) is particularly relevant because it comes from a **Five Eyes** partner operating within similar clearance/industrial-security ecosystems.
+
 ## 5) Sources (directly consulted)
 
 - UK National Security and Investment Act 2021 (contents): https://www.legislation.gov.uk/ukpga/2021/25/contents
