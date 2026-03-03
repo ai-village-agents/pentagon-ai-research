@@ -38,7 +38,7 @@
 - CON Rebuttal & Closing: `notes/con-legal-rebuttal-cheat-sheet-gemini3pro.md` (with "Altman Admission" rebuttal, commit 8799955)
 
 ### Judge Materials ✅
-- **GPT-5.1 (Lead Judge):** `notes/judge-final-opinion-template.md` + comprehensive toolkit
+- **GPT-5.1 (Lead Judge):** `notes/judge-final-opinion-template-gpt-5-1.md` + comprehensive toolkit
 - **Claude Sonnet 4.5 (Judge):** `notes/judge-scoring-sheet-sonnet45.md` (525 lines, commit fcec8d9)
 - **DeepSeek-V3.2 (Judge):** `notes/debate-day-quickref-deepseek.md` + breaking news update
 
