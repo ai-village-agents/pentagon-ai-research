@@ -67,7 +67,7 @@ Permitted remedies include:
 
 **Sec. C1. Baseline notice and comment for non-emergency designations.**
 - Minimum **30 days’ notice** to affected contractors + relevant congressional committees.
-- Provide an unclassified notice/summary when practicable (with a classified annex permitted) and an opportunity to submit a written response.
+- Provide an unclassified summary and an opportunity to submit a written response.
 
 **Sec. C2. Emergency designations (narrow, time-limited).**
 - Allowed only with a written finding that delay would pose a concrete operational or security risk.
@@ -97,7 +97,6 @@ If DoD restricts the use of a covered AI capability (or conditions its procureme
 - States whether restrictions apply to DoD only or beyond DoD.
 - States whether restrictions apply to prime contracts only or also flow down.
 - Is updated on a schedule (e.g., quarterly) while the restriction is active.
-- Includes an unclassified summary sufficient for affected parties, with classified annexes for sensitive details.
 
 **Sec. D2. Ban on “coercion-by-uncertainty.”**
 - DoD may not rely on vague standards (“all lawful use,” “as determined by DoD”) as the operative constraint **unless** it is accompanied by the Use-Restrictions Matrix and a time-bounded designation.
@@ -117,21 +116,20 @@ If DoD restricts the use of a covered AI capability (or conditions its procureme
 For any procurement of a mission-critical AI service above a threshold (dollars or mission category), DoD must approve an **AI Vendor Resilience Plan** prior to award, addressing:
 - (1) Exit strategy and switch-over timelines.
 - (2) Data portability + documented export formats.
-- (3) Model/service portability (where feasible) and vendor-neutral maintenance of evaluation benchmarks/harnesses and performance baselines, including for classified fine-tuning/evaluation where applicable, to enable substitution.
-- (4) Minimum viable multi-vendor architecture (where feasible) or, if single-vendor, a written exception including cost-benefit and lock-in risk analysis.
+- (3) Model/service portability plan that distinguishes: (a) **Model Weight Portability** for government-owned or open architectures; (b) **Data & Artifact Portability** for proprietary SaaS models (fine-tuning datasets, prompts, system logs), with explicit acknowledgment that proprietary weights are not portable.
+- (4) Minimum viable multi-vendor architecture (where feasible) or justification for single-vendor.
 - (5) Continuity-of-operations and incident response.
 
 **Sec. E2. Portability & interoperability minimums.**
 - Require contract clauses for:
-  - Standardized APIs (where practical).
+  - Documented APIs compatible with common abstraction layers (where practical).
   - Data export rights.
-  - Documentation, test harnesses, and verification artifacts.
-  - Evaluation harnesses/benchmarks in vendor-neutral formats and metadata needed to reproduce performance baselines.
+  - Documentation, evaluation harnesses/test harnesses, and verification artifacts.
   - Escrow for critical artifacts (where appropriate).
 
 **Sec. E3. Multi-award presumption for mission-critical AI services.**
 - Establish a default presumption for multi-award IDIQ / multi-vendor frameworks.
-- Allow waiver only with written justification tied to mission need, a documented cost-benefit and lock-in risk analysis, and a time-bound resilience mitigation plan.
+- Allow waiver only with written justification tied to mission need and a time-bound resilience mitigation plan.
 
 **Sec. E4. Annual “dependency-risk audit” across top AI vendors and services.**
 - Requires DoD CIO / USD(A&S) to publish (unclassified) a ranked list of dependency hotspots and mitigation status, with a classified annex.
@@ -197,12 +195,6 @@ For any procurement of a mission-critical AI service above a threshold (dollars 
 > (b) **Prohibition on vague constraints.**—The Department may not rely on a general standard as the operative constraint absent the Matrix required by subsection (a).
 
 ---
-
-## Anticipated executive-branch objections (and drafting responses)
-- “Congress is micromanaging procurement” → frame the Act as authorizing clear dependency-risk tools with accountability via a written record.
-- “Classification/operational security burden” → require unclassified notice/summary to affected parties when practicable, permit a classified annex, and use a “reasonably informs” standard.
-- “Multi-vendor increases cost/complexity” → add a requirement for documented cost-benefit and lock-in risk analysis and allow single-award exceptions with written justification.
-- “Judicial review pushback” → mark any judicial-review provision as optional/policy choice; if included, specify APA-style administrative record review, no de novo factfinding, and an expedited schedule.
 
 ## Notes for implementers (non-statutory)
 - The Act is most defensible if framed as **procurement resilience and continuity** (not punishment).
