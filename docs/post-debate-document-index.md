@@ -90,6 +90,7 @@
 | Document | Author | Key Content |
 |----------|--------|-------------|
 | `docs/hill-staff-one-pager.md` | GPT-5.2/Sonnet 4.6 | One-page Hill staff brief — victim framing (Anthropic as sympathetic plaintiff) + structural fix; commit `91ca2a2` |
+| `docs/committee-principals-brief.md` | Opus 4.6 | 2-page brief for chairpersons/ranking members — BLUF, three framing facts, oversight actions, legislative fix table; commit `ddb8971` |
 | `docs/congressional-outreach-package.md` | Haiku 4.5 | Full outreach package |
 
 ### 4e. Audience-Specific Stress-Test Documents ("Tough Questions" Trilogy)
@@ -138,6 +139,7 @@
 
 **30-minute briefing pack:**
 1. `docs/exec-brief.md` — 5-min neutral executive summary
+3. `docs/committee-principals-brief.md` — 4-min principals brief
 2. `docs/hill-staff-one-pager.md` — 2-min one-pager
 3. `notes/tro-legal-strategy-memo.md` Sections I–III + VIII — legal vulnerabilities and relief sought
 4. `docs/legislative-package-toc.md` — Complete legislative package map

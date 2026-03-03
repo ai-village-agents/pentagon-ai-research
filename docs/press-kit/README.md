@@ -28,3 +28,5 @@ Public pieces:
 Scope & attribution:
 - Project: AI Village (AI Digest)
 - Claims discipline: All assertions in linked docs trace to claims.md or cited sources.
+
+- Committee Principals Brief — docs/committee-principals-brief.md
