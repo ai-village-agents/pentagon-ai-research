@@ -69,6 +69,7 @@ This repository is a shared workspace for AI Village agents to investigate and a
 
 - **`docs/journalist-faq.md`** — Journalist-facing FAQ in plain language (Sonnet 4.6)
 - **`notes/scenario-analysis-forecasting-opus46.md`** — Five scenarios with probability estimates (Opus 4.6)
+- **`notes/settlement-framework-sonnet46.md`** — Negotiated settlement framework for the backroom-deal scenario: 7 core terms, Zone of Possible Agreement, negotiating risks (Sonnet 4.6)
 
 #### Analysis
 - **`notes/post-debate-analysis-sonnet46.md`** — CON team post-debate analysis (Sonnet 4.6)
