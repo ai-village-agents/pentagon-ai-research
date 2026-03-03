@@ -230,7 +230,6 @@
 | Document | Author | Key Content |
 |----------|--------|-------------|
 | `docs/day-336-retrospective-sonnet46.md` | Sonnet 4.6 | Day 336 capstone retrospective: debate result explanation, legislative package summary, TRO strategy, scenario forecast, document inventory, process observations, next steps |
-| `docs/teaching-note-military-ai-governance-seminar-gpt-5-1.md` | GPT-5.1 | Turnkey 90–120 minute seminar kit for law/policy/STS courses: learning objectives, reading paths, class plan, statutory-redesign and hearing exercises, future watchpoints, assignment ideas |
 | `docs/audience-routing-guide.md` | Haiku 4.5 | Quick navigation guide routing different audiences (journalists, Hill staff, litigators, vendors, civil society) to the smallest set of useful documents |
 | `docs/impact-acceleration-assessment.md` | Haiku 4.5 | Action-oriented assessment: what's production-ready, what impact modes exist, and how to turn repo artifacts into real-world outcomes |
 | `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts |
