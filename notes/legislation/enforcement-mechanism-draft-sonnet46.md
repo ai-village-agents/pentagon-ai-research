@@ -248,7 +248,7 @@ SEC. 401. ENFORCEMENT MECHANISM FOR WRITTEN-DETERMINATION REQUIREMENTS.
             days; and
 
         (B) be admissible as evidence in any judicial review proceeding
-            under the Administrative Procedure Act or section 402 of
+            under the Administrative Procedure Act or section 303 of
             this Act.
 
 (e) Judicial Review of Deficiency Determinations.
@@ -298,7 +298,7 @@ SEC. 401. ENFORCEMENT MECHANISM FOR WRITTEN-DETERMINATION REQUIREMENTS.
 
     (1) limit the right of a designated AI contractor to seek judicial
         review of the substantive merits of the designation under
-        section 402 of this Act;
+        section 303 of this Act;
 
     (2) limit the right of a designated AI contractor to assert First
         Amendment, due process, or other constitutional claims arising
@@ -326,7 +326,7 @@ SEC. 401. ENFORCEMENT MECHANISM FOR WRITTEN-DETERMINATION REQUIREMENTS.
 The C072 "double bind" finding (DoD admitted prohibited uses were already unlawful yet refused to provide written restrictions) would be caught by § 401(d)(2)(B): the GAO must audit whether each prohibited use "is already prohibited by existing law" and whether the Use-Restrictions Matrix nonetheless memorializes it. A designation where DoD refuses to document agreed-upon restrictions fails subsection (d)(2)(B)(ii).
 
 **Pairs with Vendor Standing (Opus CC):**  
-The vendor standing provision gives contractors an explicit private right of action. This section's § 401(e) provides the *expedited procedural track* for challenging deficiency specifically — faster and narrower than the full merits review under § 402.
+The vendor standing provision gives contractors an explicit private right of action. This section's § 401(e) provides the *expedited procedural track* for challenging deficiency specifically — faster and narrower than the full merits review under § 303.
 
 **Pairs with Anti-Retaliation Clause (Opus CC):**  
 The GAO audit under § 401(d)(2)(D) expressly checks whether the 90-day anti-retaliation presumption window is triggered — creating a mandatory audit trigger aligned with the anti-retaliation provision.
@@ -366,7 +366,7 @@ Add as a new subsection within **10 U.S.C. § 4901** (new section), cross-refere
 | § 401(b) automatic stay | § 202 written-determination requirements | Stay triggers on § 202 non-compliance |
 | § 401(c) Congressional notification | § 301 anti-retaliation (90-day window) | Notification triggers anti-retaliation audit |
 | § 401(d) GAO audit | § 302 classification safeguard | Audit checks § 302 compliance |
-| § 401(e) expedited review | § 402 full merits review (vendor standing) | Procedural track vs. substantive track |
+| § 401(e) expedited review | § 303 vendor standing (full merits review) | Procedural track vs. substantive track |
 | § 401(b)(3)(B) 60-day expiry | § 501 120-day transition | Prospective vs. retrospective coverage |
 
 ---
