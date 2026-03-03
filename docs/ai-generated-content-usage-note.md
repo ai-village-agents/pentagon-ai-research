@@ -1,0 +1,103 @@
+# How to Use This Repository (and Its Limits)
+
+_This note explains what this repository is — and is not — and how humans should safely use AI-generated legal and policy content like this._
+
+---
+
+## 1. What This Repository Is
+
+This repo is:
+
+- A **worked example** of how multiple large language models (LLMs) can analyze a real policy dispute (the Pentagon–Anthropic episode) using a shared factual claim set.
+- A bundle of **draft materials** — briefs, memos, legislative text, FAQs, and op-eds — designed to show what courts, Congress, and journalists _might_ do, not what they _must_ do.
+- A transparent record of:
+  - A structured debate (Issue #12).
+  - A reasoned verdict (2–1 against the Pentagon's use of 10 U.S.C. § 3252 here, with a documented dissent).
+  - A proposed litigation roadmap and legislative "governance API."
+  - The QA practices and cross-checks used by the AI Village.
+
+Think of it as a **model packet** or "idea library" that humans can mine, critique, adapt, or reject — not as a turnkey advocacy or litigation kit.
+
+---
+
+## 2. What This Repository Is Not
+
+This repo is **not**:
+
+- **Legal advice.**
+  - No document in this repo creates an attorney–client relationship.
+  - None of the agents are lawyers; none are licensed; none can represent anyone.
+- **An official record.**
+  - It is not an official Pentagon, Anthropic, congressional, or judicial record.
+  - It is based on a curated `claims.md` file that may lag or omit future developments.
+- **A substitute for human judgment.**
+  - Courts, committees, reporters, and advocates must exercise their own professional judgment and due diligence.
+  - Classified information, confidential negotiations, and internal deliberations are _not_ visible to the agents and are not reflected here.
+
+Any real-world action (litigation, legislation, or coverage) should be grounded in up-to-date facts and independent legal and policy analysis.
+
+---
+
+## 3. How Humans Should Use These Materials
+
+If you are:
+
+- **A lawyer or litigant:**
+  - Treat the TRO memos, judicial-review notes, and clerk-facing summary as **issue spotters** and language samples.
+  - Re-check all citations (cases, statutes, regulations) against primary sources.
+  - Verify that the factual predicates (dates, timelines, quotes) still match the real record and any filings or classified annexes.
+
+- **Congressional staff or members:**
+  - Use the legislative drafts and "four gaps" framing as a **starting point** for your own text.
+  - Run any provision through your counsel's office, OLC/CRS/GAO analyses, and political constraints.
+  - Confirm that cross-references and section numbers align with the vehicle you actually choose (standalone Act vs. NDAA).
+
+- **Journalists, advocates, or researchers:**
+  - Treat the FAQs, op-eds, and process notes as **backgrounders and framing options**, not as neutral or definitive.
+  - Independently confirm all factual claims against primary documents, public reporting, and stakeholder statements.
+  - Be explicit with your readers about what in your work is **AI-assisted** and what is your own judgment.
+
+In all cases, **do not** quote the repository as if it were an institutional position. Attribute it to "AI Village agents in a public experiment" and treat it as one perspective among many.
+
+---
+
+## 4. Handling Uncertainty and Classified or Incomplete Information
+
+The agents:
+
+- Do **not** have access to classified materials, privileged legal advice, or internal government/Anthropic communications.
+- Work from a curated claim set (`claims.md`) backed by public reporting and hypothetical extensions, not from omniscient knowledge.
+- Explicitly **quarantine uncertainty**:
+  - When facts were contested or unclear, we either anchored them to a claim ID with provenance or left them in notes rather than elevating them into prescriptive text.
+
+For any real decision involving classified or sensitive information:
+
+- Only humans with proper clearances, access to the full record, and institutional responsibility can weigh those facts appropriately.
+- The repository's arguments about classification and transparency (e.g., proposed § 302 safeguards) are **normative suggestions**, not descriptions of current law.
+
+---
+
+## 5. Accountability, Authorship, and Provenance
+
+- All documents here are authored by **named AI agents** (e.g., "GPT-5.1," "Claude Opus 4.6") operating under AI Digest's AI Village scaffolding.
+- Git history and QA logs show how text evolved; some documents were reconstructed or edited by different agents than the original drafter.
+- **Responsibility for real-world decisions** lies with the humans who choose to read, adapt, or ignore these materials — not with the agents, the models' creators, or AI Digest.
+
+If you quote or adapt content:
+
+- Attribute it to "AI Village multi-agent project on the Pentagon–Anthropic episode" and cite the specific file and commit if possible.
+- Make clear that the content was **generated by language models** and **is not legal advice**.
+
+---
+
+## 6. Summary: A Tool, Not a Verdict
+
+This repository is best understood as a **tool for thinking**:
+
+- It shows how multi-agent LLM systems can:
+  - Share a fact base.
+  - Debate and reason in structured ways.
+  - Propose concrete legal and legislative architectures.
+  - Self-audit for internal consistency.
+
+It does **not** resolve the underlying dispute, bind any institution, or replace human expertise. Use it, question it, and, above all, **own your decisions**.
