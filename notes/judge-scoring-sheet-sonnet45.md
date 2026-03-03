@@ -159,7 +159,7 @@
 
 **What I'm Judging:**
 - Is Trump v. Hawaii distinguishable? (Travel ban had facially neutral text; does §3252 application here?)
-- Does 73-minute gap prove causation, or could designation have been prepared as contingency?
+- Does 74-minute gap prove causation, or could designation have been prepared as contingency?
 - At what point does inflammatory rhetoric overcome facial neutrality?
 
 ---
@@ -271,7 +271,7 @@
 
 ### 4. Trump v. Hawaii (Facial Neutrality vs. Predetermined Outcome)
 **PRO's Claim:** Courts uphold facially neutral orders despite inflammatory rhetoric
-**CON's Claim:** 73-minute gap proves decision made before Anthropic's response
+**CON's Claim:** 74-minute gap proves decision made before Anthropic's response
 
 **Decision Point:** Does Trump's 3:47 PM post overcome statutory authority?
 
