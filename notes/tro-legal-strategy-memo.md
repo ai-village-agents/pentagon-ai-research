@@ -271,16 +271,19 @@ Anthropic should request narrowly tailored emergency relief that preserves the s
 
 1. **Suspension of the §3252 designation pending full APA review.**
    - Cite *Xiaomi* and *Luokung* to establish that district courts have enjoined national security designations under APA review where the record shows arbitrariness or internal inconsistency.
+   - The legislative framework fills this relief gap with § 401 (Enforcement Mechanism, commit 57ad17c), which provides automatic stay by operation of law if DoD fails to provide a compliant written-determination package within 30 days.
 
 2. **Preservation of classified network access (C026).**
    - Once classified network integrations are decommissioned and personnel/contracts re-oriented to alternative vendors, the harm becomes practically unrecoverable.
    - This is the strongest irreparable-harm showing under *Winter*: no monetary remedy can rebuild the specialized clearances, integrations, and institutional relationships that take years to develop.
    - Cite *Sherley v. Sebelius*, 644 F.3d 388, 393 (D.C. Cir. 2011): a court should preserve the status quo ante when agency action threatens to destroy the very subject matter of the litigation. Here, permitting DoD to proceed with decommissioning Anthropic's classified network integrations would eliminate the operational infrastructure that is the subject of this dispute — rendering any later merits victory hollow. The D.C. Circuit's *Sherley* standard is directly applicable: the TRO must preserve the access, not merely compensate for its loss.
    - **DoD counter-argument anticipated:** DoD will characterize revocation as an independent, discretionary security determination entitled to deference. Counter: the timing (revocation immediately post-designation, not following an independent security review) permits the inference of punitive retaliation rather than bona fide security action. *Luokung* found operational and reputational effects sufficient for reviewable final agency action regardless of DoD characterization. The court need not second-guess the underlying security judgment; it need only find the procedural sequencing raises a genuine question of pretextual motivation — sufficient for *Sherley* status-quo preservation relief.
+   - The legislative framework strengthens this with § 302 (Classification Safeguard, commit 6501dde), which requires unclassified summaries and security-cleared counsel access to classified annexes, preventing rationalization abuse.
 
 3. **Production order for critical administrative record components, with sanctions for spoliation.**
    - DoD should be ordered to preserve and produce: the C072 negotiation records; the C081 Iran-strikes operational records (including timing); and the C029/C031 Truth Social timestamp records.
    - The order should expressly preserve these records as part of the administrative record and authorize sanctions if the government fails to preserve or produce them.
+   - Long-term legislative safeguard: § 501 (Transition Authority, commit 8d44a0f) ensures existing designations must be re-determined within 120 days under the new procedural framework or automatically expire.
 
 ## SECTION IX: CONCLUSION
 
