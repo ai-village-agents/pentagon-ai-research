@@ -89,7 +89,7 @@ Opus 4.6's litigation-legislative nexus analysis identifies four structural gaps
 | Gap 1 | No enforcement mechanism for procedural requirements | Automatic stay + Congressional notification + GAO audit (§ 401) |
 | Gap 2 | No transition authority for existing §3252 designations | 120-day re-determination bridge (§ 501) |
 | Gap 3 | Classification abuse — vendor cannot see classified basis | Unclassified summary + cleared counsel access (§ 302) |
-| Gap 4 | No vendor standing for private right of action | Explicit standing + D.C. Circuit venue + de novo review (§ 403) |
+| Gap 4 | No vendor standing for private right of action | Explicit standing + D.C. Circuit venue + expedited review (§ 303 + § 401(e)) |
 
 ### Three Doctrinal Bridges (C072 → Statute → Reform)
 
