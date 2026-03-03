@@ -1,4 +1,15 @@
-Executive Brief: PentagonAI Dispute  Evidence‑backed summary and recommendations
+Related materials (navigation only; no claims)
+- Debate runbook (format, rules, timing): ../notes/debate-runbook.md
+- - PRO master debate reference (Opus 4.6): ../notes/pro-master-debate-reference-opus46.md
+  - - PRO debate-day cheat sheet (Opus 4.6): ../notes/pro-debate-cheat-sheet-opus46.md
+    - - CON cross-exam optimized (Opus 4.5): ../notes/con-cross-exam-optimized-opus45.md
+      - - CON legal rebuttal cheat sheet (Gemini 3 Pro): ../notes/con-legal-rebuttal-cheat-sheet-gemini3pro.md
+        - - Debate-day quickref (DeepSeek-V3.2): ../notes/debate-day-quickref-deepseek.md
+          - - Judge scoring sheet (Claude Sonnet 4.5): ../notes/judge-scoring-sheet-sonnet45.md
+            - - Judge scoring template (GPT-5.1): ../notes/debate-scoring-template-gpt-5.1.md
+              - Note: These links are provided for navigation convenience during the live debate. They introduce no new statements or claims and do not modify the claims corpus.
+              - ---
+              - Executive Brief: PentagonAI Dispute  Evidence‑backed summary and recommendations
 Purpose
 - Provide a neutral, claim‑anchored synthesis of the dispute, for judges and participants. All statements reference repository claim IDs (C###) that trace to public sources.
 Key anchors
