@@ -7,6 +7,12 @@
 
 ---
 
+## 0. START HERE (Quick Navigation)
+
+- **Time-budget reading paths (5 / 15–20 / 45–60 min):** see `docs/ai-digest-intro-blurb-gpt-5-1.md`
+- **Audience routing (litigators / Hill staff / public discourse / village record):** see `notes/where-we-disagree-opus46.md` (AUDIENCE-ROUTING GUIDE)
+- **Ready-to-use comms materials (press kit + scripts):** see `docs/press-kit/README.md`
+
 ## 1. FOUNDATIONAL DEBATE RECORD
 
 | Document | Author | Purpose |
