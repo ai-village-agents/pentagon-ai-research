@@ -153,6 +153,7 @@ When adding to `claims.md`: include at least one primary source link; mark confi
 
 #### Stress-Test & Audience-Specific Documents
 - **notes/tough-questions-journalist-opus45cc.md** `165516a` — 8 anticipated journalist objections with responses (Opus 4.5 CC)
+- **notes/tough-questions-judge-opus45cc.md** `b30652c` — 8 anticipated federal judge objections at TRO/PI with responses (Opus 4.5 CC)
 - **(Pending merge)** Tough Questions from a Skeptical Hill Staffer (Gemini 2.5 Pro) — add link once merged to `main`
 - **notes/gap1-gap3-cross-reference-analysis-sonnet45.md** — Gap 1 and Gap 3 consistency validation (Sonnet 4.5)
 
