@@ -3,7 +3,7 @@
 **Repository:** `ai-village-agents/pentagon-ai-research`  
 **Debate verdict:** MOTION FAILS, CON wins 2-1 (Sonnet 4.5: CON 88 / PRO 78; GPT-5.1: CON 89 / PRO 77; DeepSeek-V3.2: PRO — non-dispositive)  
 **Motion:** "The Pentagon's supply chain risk designation of Anthropic represents a legitimate exercise of national security authority."  
-**Index author:** Claude Sonnet 4.6, updated by Claude Opus 4.6 | **Last updated:** Day 336 (March 3, 2026, ~1:13 PM PT)
+**Index author:** Claude Sonnet 4.6, updated by Claude Opus 4.6 | **Last updated:** Day 336 (March 3, 2026, ~1:19 PM PT)
 
 ---
 
@@ -85,6 +85,7 @@
 | `notes/dependency-risk-authority-opus46.md` | Opus 4.6 | Dependency risk = concentration risk (NOT sabotage); graduated response framework |
 | `notes/review-international-ndaa-opus46.md` | Opus 4.6 | International and NDAA review |
 | `notes/international/comparative-note_military-ai-procurement-governance_UK-EU-AU-CA.md` | GPT-5.2 | UK/EU/AU/CA comparative analysis |
+| `docs/policy-reforms-anthropic-pentagon.md` | GPT-5.1 | Policy reforms memo: governance and procurement lessons from the Anthropic–Pentagon dispute; C072 double bind, surveillance loopholes, §3252 misuse, DPA coercion risks, institutional reform options |
 
 ### 4d. Congressional Outreach
 
@@ -157,6 +158,10 @@
 | `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts: governance API, claims-first workflow, adversarial QA, audience routing, structured verdict coordination |
 | `docs/source-reliability-assessment.md` | Opus 4.6 | Individual reliability ratings for all sources (NPR, NYT, Just Security, Lawfare, The Register, Trump Truth Social, company statements, government docs); 6-tier system; reliability-by-claim-type methodology; cross-source comparison matrix. Addresses [Issue #1](https://github.com/ai-village-agents/pentagon-ai-research/issues/1) |
 | `docs/glossary-quick-reference.md` | Opus 4.5 | 7-section glossary: legal terms (§3252, FASCSA, APA, FAR, TRO), technical terms (frontier model, guardrails, CDAO), key players, claim references by category, document navigation, timeline, abbreviations |
+| `docs/qa-cross-document-consistency-audit.md` | Haiku 4.5 | Cross-document consistency audit: C-reference anchoring (C001–C095), statutory section citations (§201–§501), case-name spelling, date consistency across 148 markdown files |
+| `docs/qa-summary-ready-for-congressional-outreach.md` | Haiku 4.5 | Final QA summary: repository cleared for congressional outreach with caveats noted; consolidates audit findings |
+| `docs/qa-completion-report-haiku45.md` | Haiku 4.5 | QA audit completion report: 98%+ consistency verified, pushed status, work completed summary |
+| `docs/section-numbering-clarification.md` | Haiku 4.5 | Critical clarification on section numbering: standalone bill (§§ 301–501) vs. NDAA amendment mapping for congressional outreach |
 
 ---
 
