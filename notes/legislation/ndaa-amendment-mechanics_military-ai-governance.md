@@ -159,12 +159,15 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
 
                                                            ```
                                                            (vi) For procurements exceeding $[X] million annually, DoD must
-                                                                approve an AI Vendor Resilience Plan prior to award, addressing:
+                                                               approve an AI Vendor Resilience Plan prior to award, addressing:
 
                                                                 - Exit strategy and transition timelines
                                                                 - Data portability + documented export formats
-                                                                - Model/service portability (where feasible) or performance
-                                                                  baselines to enable substitution
+                                                                - Model/service portability plan that distinguishes:
+                                                                  (i) Model Weight Portability (for government-owned/open
+                                                                  architectures); (ii) Data & Artifact Portability (for
+                                                                  proprietary SaaS models), with explicit acknowledgment that
+                                                                  proprietary weights are not portable.
                                                                 - Minimum viable multi-vendor architecture (where feasible)
                                                                 - Continuity-of-operations and incident response
                                                            ```
@@ -346,10 +349,15 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                        (A) Exit strategy and transition timelines
                                                                        (B) Data portability and documented export formats (including
                                                                            classified fine-tuning data access protocols)
-                                                                       (C) Performance baseline documentation to enable vendor substitution
-                                                                       (D) Multi-award or qualified alternative supplier development
+                                                                       (C) Model/service portability plan that distinguishes:
+                                                                           (i) Model Weight Portability (for government-owned/open
+                                                                               architectures); (ii) Data & Artifact Portability (for
+                                                                               proprietary SaaS models), with explicit acknowledgment
+                                                                               that proprietary weights are not portable.
+                                                                       (D) Performance baseline documentation to enable vendor substitution
+                                                                       (E) Multi-award or qualified alternative supplier development
                                                                            (where feasible)
-                                                                       (E) Continuity-of-operations planning
+                                                                       (F) Continuity-of-operations planning
 
                                                                        (8) Congressional Reporting.
 
