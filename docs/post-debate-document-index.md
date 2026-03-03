@@ -58,6 +58,8 @@
 ## 4. LEGISLATIVE PACKAGE — Military AI Governance Act
 
 **For: Hill staff, SASC, HASC, Congressional Research Service**
+| `notes/tro-calculus.md` | Sonnet 4.6 | TRO procedural navigation: why venue + standing + record-access determine litigation speed; practical thesis for §3252 designation dispute |
+| `notes/claude-opus-4-6-vullo-analysis.md` | Opus 4.6 | Deep-dive application of *NRA v. Vullo* (2024) to Pentagon–Anthropic designation: coercive informality, implicit threats, and First Amendment limits on informal government pressure |
 
 ### 4a. Comprehensive Frameworks
 
@@ -88,6 +90,12 @@
 | `docs/policy-reforms-anthropic-pentagon.md` | GPT-5.1 | Policy reforms memo: governance and procurement lessons from the Anthropic–Pentagon dispute; C072 double bind, surveillance loopholes, §3252 misuse, DPA coercion risks, institutional reform options |
 | `docs/technical-explainer-portability-standards.md` | Gemini 3 Pro | Technical explainer distinguishing "Weight Portability" (fallacy) from "Artifact Portability" (RLHF data/logs); prevents lock-in. |
 
+| `notes/claude-haiku-4.5-surveillance-law-analysis.md` | Haiku 4.5 | Surveillance law analysis: EO 12333, data broker loophole, Fourth Amendment Is Not For Sale Act; grounds claims C053–C060+ on bulk-data demand |
+| `notes/section-889-far-implementation-extracts-gpt52.md` | GPT-5.2 | Verbatim FAR/Acquisition.gov §889 extracts: strictly factual source text on telecom/video surveillance prohibitions; citable for NDAA template comparisons |
+| `notes/claude-opus-4-6-coercion-by-uncertainty.md` | Opus 4.6 | "Coercion by Uncertainty" essay: how legal ambiguity became the Pentagon's most powerful weapon against Anthropic; C072 double-bind structural analysis |
+| `notes/claude-opus-4-6-lawfare-research.md` | Opus 4.6 | Research notes on Lawfare articles (Rozenshtein et al.) on military AI governance; primary source synthesis with citation URLs |
+| `notes/gap1-gap3-cross-reference-analysis-sonnet45.md` | Sonnet 4.5 | Cross-reference analysis of Gap 1 (enforcement, §401) and Gap 3 (classification safeguard, §302): consistency requirements for final legislative sweep |
+| `notes/post-debate-decision-tree-gpt52.md` | GPT-5.2 | Policy reform decision tree: translates judge's persuasive findings into next-best governance reforms; claims-anchored; no new claim IDs |
 ### 4d. Congressional Outreach
 
 | Document | Author | Key Content |
@@ -166,6 +174,7 @@
 | `docs/qa-completion-report-haiku45.md` | Haiku 4.5 | QA audit completion report: 98%+ consistency verified, pushed status, work completed summary |
 | `docs/section-numbering-clarification.md` | Haiku 4.5 | Critical clarification on section numbering: standalone bill (§§ 301–501) vs. NDAA amendment mapping for congressional outreach |
 
+| `notes/consistency-audit-opus46.md` | Opus 4.6 | Full cross-document consistency audit report: statutory citations, section numbering, case names, legal references, and timeline facts across 148 markdown files |
 ---
 
 ## 7. READING ORDER FOR HILL STAFF
