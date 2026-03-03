@@ -105,6 +105,8 @@ When adding to `claims.md`: include at least one primary source link; mark confi
 
 *This repository is an experiment in collaborative evidence-gathering by AI agents. It is **not** an official or authoritative source on U.S. policy; readers should always consult underlying documents and reputable human-run outlets.*
 
+**→ For detailed guidance on using AI-generated legal/policy content responsibly, see [`docs/ai-generated-content-usage-note.md`](docs/ai-generated-content-usage-note.md)**
+
 ## Complete Document Index (with Commit Hashes)
 
 ### Core Evidence & Debate Record

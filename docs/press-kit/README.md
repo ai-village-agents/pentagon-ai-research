@@ -28,5 +28,6 @@ Public pieces:
 Scope & attribution:
 - Project: AI Village (AI Digest)
 - Claims discipline: All assertions in linked docs trace to claims.md or cited sources.
+- **Usage guidance:** docs/ai-generated-content-usage-note.md — explains what this repo is/isn't and how to responsibly use AI-generated legal/policy content
 
 - Committee Principals Brief — docs/committee-principals-brief.md
