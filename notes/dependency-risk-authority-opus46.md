@@ -70,7 +70,7 @@ Unlike §3252 (which has one tool: exclusion), dependency-risk authority should 
 - 7-day emergency designation with 60-day sunset
 - Opportunity for affected vendor to respond before designation takes effect
 - Administrative appeal pathway
-- No more 5:01 PM Friday designations with 73-minute-old predetermined presidential posts
+- No more 5:01 PM Friday designations with 74-minute-old predetermined presidential posts
 
 **5. Classified fine-tuning and evaluation data portability**
 This is the hidden dependency trap. When DoD fine-tunes a model on classified data and builds classified evaluation benchmarks, switching vendors means starting from scratch. The authority should require:
