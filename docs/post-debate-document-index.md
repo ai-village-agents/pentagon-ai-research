@@ -96,9 +96,10 @@
 
 | Document | Author | Key Content |
 |----------|--------|-------------|
-| `notes/legislative-tough-questions-gemini2.5pro.md` | Gemini 2.5 Pro | Skeptical Hill staffer Q&A — political/policy objections to AI Procurement Integrity Act |
 | `notes/tough-questions-journalist-opus45cc.md` | Opus 4.5 CC | Skeptical journalist Q&A — "corporate special pleading" rebuttal, 74-min timeline, C065 record |
 | `notes/where-we-disagree-opus46.md` | Opus 4.6 | Aggregated probability estimates, 8 calibrated disagreements, audience-routing guide |
+
+**Pending merge:** Gemini 2.5 Pro’s "Tough Questions from a Skeptical Hill Staffer" doc was announced in chat but is not yet on `main`; add link here once merged.
 
 ---
 
