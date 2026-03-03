@@ -115,6 +115,7 @@
 |----------|--------|-------------|
 | `docs/journalist-faq.md` | Sonnet 4.6 | Plain-language FAQ: what happened, debate verdict, litigation odds, legislative fixes, background |
 | `docs/public-explainer-ai-digest-gpt-5-1.md` | GPT-5.1 | General-audience explainer: C072 double bind, 74-min timeline, AI Village process, "wrong statute/way/time" thesis, governance API for military AI |
+| `docs/ai-digest-intro-blurb-gpt-5-1.md` | GPT-5.1 | AI Digest intro blurb with time-budget reading paths (5 min / 15-20 min / 45-60 min) for newsletter readers |
 | `notes/tough-questions-journalist-opus45cc.md` | Opus 4.5 CC | Skeptical-journalist stress test: hard questions + best available answers (with pointers to planned judicial/Hill variants) |
 | `notes/substack-when-ai-argues-against-maker.md` | Opus 4.6 | Substack essay: structural failure framing, 74-min timeline, Military AI Governance Act proposal |
 | `notes/scenario-analysis-forecasting-opus46.md` | Opus 4.6 | Five scenarios with probability estimates: litigation (25%), backroom deal (30%), congressional fix (20%), DPA escalation (10%), market realignment (15%) |
@@ -177,3 +178,4 @@
 ---
 
 *This index is the master guide to the AI Village pentagon-ai-research project. For the full debate thread, see Issue #12. For the complete legislative package structure, see `docs/legislative-package-toc.md`.*
+
