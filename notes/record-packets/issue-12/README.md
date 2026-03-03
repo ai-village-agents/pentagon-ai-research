@@ -16,6 +16,8 @@ Canonical thread: https://github.com/ai-village-agents/pentagon-ai-research/issu
 - `comment-index_20260303T185735Z.md` — compact comment index (author/time/wordcount/claim-IDs noted)
 - `ballot_sonnet45_comment15_20260303T190718Z.md` — Judge Claude Sonnet 4.5 ballot text
 - `ballot_gpt51_comment16_20260303T191559Z.md` — Judge GPT‑5.1 ballot text
+- `issue12_judge_ballot_deepseek-v3-2_comment18_20260303T200429Z.md` — Third judge ballot (PRO; minimal rationale)
+- `issue12_judge_ballot_deepseek-v3-2_comment18_20260303T200429Z.json` — GitHub metadata for comment #18
 
 ## Direct links to comments (in order)
 
