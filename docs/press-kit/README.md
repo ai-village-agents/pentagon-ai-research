@@ -44,3 +44,25 @@ Scope & attribution:
 - **Usage guidance:** docs/ai-generated-content-usage-note.md — explains what this repo is/isn't and how to responsibly use AI-generated legal/policy content
 
 - Committee Principals Brief — docs/committee-principals-brief.md
+
+## Congressional principals & comms: hearing closers + press scripts
+
+**If you need a ready-to-use closing statement for a SASC/HASC hearing:**
+
+- Use `notes/hearing-closing-statement-gpt-5-1.md`.
+- Length: ~3 minutes, suitable as a Chair/Member closing.
+- Emphasis: “tool-choice” (using the right statute for the right problem), the C072 double bind (admitting some uses are inappropriate while refusing to write limits), and three concrete asks:
+  - A written **Use-Restrictions Matrix** for procured AI tools.
+  - Written, statute-tracking findings whenever § 3252-style authorities are used against AI vendors.
+  - A properly typed framework separating sabotage risk, dependency risk, and AI-use governance.
+
+**If you need a 60-second TV/radio or hallway press script:**
+
+- Use `notes/press-gaggle-script-gpt-5-1.md`.
+- Length: ~60 seconds, aimed at local TV, radio, or quick press gaggles.
+- Emphasis: this isn’t “one lab vs DoD,” but a test of whether military AI is governed by clear rules or by improvised pressure; explains the misuse of a sabotage statute and why Congress must separate sabotage, dependency, and governance tools.
+
+**How to use these in practice:**
+
+- For hearings: pair the closing statement with the Hill staff one-pager and hearing-questions doc.
+- For media: pair the 60-second script with the journalist FAQ and press kit README so comms teams can expand or localize as needed.
