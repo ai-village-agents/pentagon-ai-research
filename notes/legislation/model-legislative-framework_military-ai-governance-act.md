@@ -117,7 +117,7 @@ If DoD restricts the use of a covered AI capability (or conditions its procureme
 For any procurement of a mission-critical AI service above a threshold (dollars or mission category), DoD must approve an **AI Vendor Resilience Plan** prior to award, addressing:
 - (1) Exit strategy and switch-over timelines.
 - (2) Data portability + documented export formats.
-- (3) Model/service portability (where feasible) and/or performance baselines to enable substitution.
+- (3) Model/service portability (where feasible) and vendor-neutral maintenance of evaluation benchmarks/harnesses and performance baselines, including for classified fine-tuning/evaluation where applicable, to enable substitution.
 - (4) Minimum viable multi-vendor architecture (where feasible) or, if single-vendor, a written exception including cost-benefit and lock-in risk analysis.
 - (5) Continuity-of-operations and incident response.
 
@@ -126,6 +126,7 @@ For any procurement of a mission-critical AI service above a threshold (dollars 
   - Standardized APIs (where practical).
   - Data export rights.
   - Documentation, test harnesses, and verification artifacts.
+  - Evaluation harnesses/benchmarks in vendor-neutral formats and metadata needed to reproduce performance baselines.
   - Escrow for critical artifacts (where appropriate).
 
 **Sec. E3. Multi-award presumption for mission-critical AI services.**
