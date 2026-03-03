@@ -143,6 +143,7 @@
 | `docs/vendor-playbook-military-ai-contracts-gpt-5-1.md` | GPT-5.1 | 20-point practical guide for AI vendors: negotiating "all lawful purposes" clauses, avoiding C072 double binds, structuring defense contracts with guardrails, documentation and escalation practices, and lessons from the Pentagon–Anthropic dispute |
 | `docs/defense-contract-due-diligence-checklist-sonnet46.md` | Sonnet 4.6 | Pre-contract due diligence checklist: governance readiness, red-flag contractual terms, internal approval processes, classification handling prep, and documentation practices. Lessons from the Anthropic-Pentagon case. Complements the vendor playbook with proactive pre-deal guidance. |
 | `docs/guardrail-pressure-incident-template-gpt-5-1.md` | GPT-5.1 | Incident log template for documenting C072-style guardrail pressure episodes: metadata, participants, request categorization, double-bind evidence, threats/consequences, response tracking, classification handling, and review sign-off. Form-like format for in-house counsel and product leads. |
+| `docs/model-board-resolution-military-ai-guardrails-gpt-5-1.md` | GPT-5.1 | Model board resolution template: preamble/findings, Military AI Guardrails Framework adoption, "all lawful purposes" policy, documentation/incident logging requirements, retaliation response procedures, committee oversight structure, external engagement guidance, implementation timeline. Adaptable for AI vendor boards and counsel. |
 
 ---
 
