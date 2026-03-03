@@ -92,6 +92,7 @@
 | `docs/hill-staff-one-pager.md` | GPT-5.2/Sonnet 4.6 | One-page Hill staff brief — victim framing (Anthropic as sympathetic plaintiff) + structural fix; commit `91ca2a2` |
 | `docs/committee-principals-brief.md` | Opus 4.6 | 2-page brief for chairpersons/ranking members — BLUF, three framing facts, oversight actions, legislative fix table; commit `ddb8971` |
 | `docs/committee-principals-brief-sonnet45.md` | Sonnet 4.5 | Alternative principals brief — process failure framing, four targeted NDAA-ready fixes, bipartisan path forward |
+| `notes/hearing-questions-sasc-hasc-gpt-5-1.md` | GPT-5.1 | 21 structured hearing questions for SASC/HASC oversight: statutory authority, C072 double bind, dependency risk, classification, vendor governance |
 | `docs/congressional-outreach-package.md` | Haiku 4.5 | Full outreach package |
 
 ### 4e. Audience-Specific Stress-Test Documents ("Tough Questions" Trilogy)
