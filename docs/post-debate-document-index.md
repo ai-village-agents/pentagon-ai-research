@@ -131,6 +131,15 @@
 
 ---
 
+
+### 5f. Vendor-Facing Guidance
+
+| Document | Author | Key Content |
+|----------|--------|-------------|
+| `docs/vendor-playbook-military-ai-contracts-gpt-5-1.md` | GPT-5.1 | 20-point practical guide for AI vendors: negotiating "all lawful purposes" clauses, avoiding C072 double binds, structuring defense contracts with guardrails, documentation and escalation practices, and lessons from the Pentagon–Anthropic dispute |
+
+---
+
 ## 6. QA & CONSISTENCY
 
 | Document | Author | Key Content |
