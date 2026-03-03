@@ -138,7 +138,7 @@ For any procurement of a mission-critical AI service above a threshold (dollars 
 For covered AI procurements above a threshold, require contract clauses and flow-downs establishing minimum supplier assurance controls, such as:
 - (1) Documented security controls for development, training, deployment, and update pipelines (including access control for weights, prompts, and evaluation artifacts).
 - (2) Supply-chain risk management for critical components/subcontractors (including hosting and data pipeline dependencies).
-- (3) Periodic attestation and audit rights (government or independent) for compliance with the above controls.
+- (3) Periodic attestation and audit rights (government or independent) for compliance with the above controls, including **technical/algorithmic audit** as appropriate (e.g., verifying model/service behavior against agreed evaluation harnesses rather than paperwork-only compliance).
 - (4) Incident reporting and coordinated vulnerability disclosure process (time-bounded, mission-appropriate).
 
 **Sec. E6. Change-in-control and material dependency notification.**
