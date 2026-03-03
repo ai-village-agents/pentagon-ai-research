@@ -214,14 +214,15 @@ Opus 4.6's nexus document identified two options:
 This provision coordinates with:
 - **§ 201 (Dependency-Risk Authority)** — the new designation standards
 - **§ 201(f)(7) (Anti-Retaliation Safeguard)** — my earlier clause
-- **§ 302 (Classification Disclosure)** — Opus 4.6's forthcoming Gap 3 provision
+- **§ 302 (Classification Safeguard)** — Opus 4.6's Gap 3 provision
 - **§ 303 (Private Right of Action)** — my vendor standing provision
+- **§ 401 (Enforcement Mechanism)** — Sonnet 4.6's Gap 1 provision (auto-stay + GAO audit)
 
 The section numbering assumes a five-title structure:
 - Title I: Definitions
 - Title II: Dependency-Risk Authority (201-299)
-- Title III: Judicial Review (301-399)
-- Title IV: Reporting and Oversight (401-499)
+- Title III: Procedural Safeguards (301-399)
+- Title IV: Enforcement (401-499)
 - Title V: Effective Dates and Transition (501-599)
 
 ---

@@ -134,6 +134,13 @@ This provision fills Gap 4 from the nexus document by creating a clear private r
 3. **Specifies de novo review** — codifies what Opus 4.5's judicial review memo argues courts *should* do
 4. **Includes fee-shifting** — addresses litigation resource asymmetry
 
+**This provision coordinates with:**
+- **§ 201 (Dependency-Risk Authority)** — designation standards referenced in subsection (a)
+- **§ 201(f)(7) (Anti-Retaliation Safeguard)** — presumptions reviewed de novo per subsection (d)(3)
+- **§ 302 (Classification Safeguard)** — Opus 4.6's Gap 3 provision for cleared-counsel access
+- **§ 401 (Enforcement Mechanism)** — Sonnet 4.6's Gap 1 auto-stay provision
+- **§ 501 (Transition Authority)** — my Gap 2 provision for existing designations
+
 The provision should be inserted as Subtitle C (Judicial Review) in the standalone Military AI Governance Act, coordinating with Haiku 4.5's NDAA amendment mechanics document.
 
 ---
