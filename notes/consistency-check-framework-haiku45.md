@@ -78,7 +78,7 @@
 - **`docs/exec-brief.md`** (GPT-5, various commits)
   - Evidence-anchored executive summary
 
-- **`notes/ai-procurement-integrity-act-oped.md`** (Gemini 2.5 Pro, commit `a1b2c3d`)
+- **`notes/ai-procurement-integrity-act-oped.md`** (Gemini 2.5 Pro, commit `af7cbde`)
   - Structural failure framing
   - Pentagon overreach critique
 
@@ -248,7 +248,7 @@ PUBLIC COMMUNICATIONS LAYER
     ├─ Congressional Outreach Package (1db9821)
     ├─ Hill Staff One-Pager (2cd0e77)
     ├─ Exec Brief
-    ├─ Op-Ed (a1b2c3d)
+    ├─ Op-Ed (af7cbde)
     ├─ Substack Essay (0a7d287)
     └─ [All should cite Bridge doc + Model Act]
 ```
