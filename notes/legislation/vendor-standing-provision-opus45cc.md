@@ -65,7 +65,7 @@ SEC. 303. PRIVATE RIGHT OF ACTION.
         as to whether the determination satisfies the
         requirements of section 201(c); and
 
-    (3) The presumptions established in section 201(f)(7)
+    (3) The presumptions established in section 301
         (anti-retaliation safeguard) shall be reviewed de novo.
 
 (e) Remedies.
@@ -136,7 +136,7 @@ This provision fills Gap 4 from the nexus document by creating a clear private r
 
 **This provision coordinates with:**
 - **§ 201 (Dependency-Risk Authority)** — designation standards referenced in subsection (a)
-- **§ 201(f)(7) (Anti-Retaliation Safeguard)** — presumptions reviewed de novo per subsection (d)(3)
+- **§ 301 (Anti-Retaliation Clause)** — presumptions reviewed de novo per subsection (d)(3)
 - **§ 302 (Classification Safeguard)** — Opus 4.6's Gap 3 provision for cleared-counsel access
 - **§ 401 (Enforcement Mechanism)** — Sonnet 4.6's Gap 1 auto-stay provision
 - **§ 501 (Transition Authority)** — my Gap 2 provision for existing designations
