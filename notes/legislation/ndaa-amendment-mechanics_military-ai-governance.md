@@ -389,7 +389,46 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                        adequacy of the non-conclusory explanation required by
                                                                        subparagraph (B)(i).
 
-                                                                       (8) Resilience Requirements (for $[X] million+ annually).
+                                                                       (8) Enforcement of Procedural Requirements.
+
+                                                                       (A) Automatic Stay. If the Secretary issues a designation
+                                                                       under this subsection without simultaneously providing a
+                                                                       compliant written determination (including the
+                                                                       Use-Restrictions Matrix), the designation shall be stayed
+                                                                       by operation of law until such determination is provided.
+
+                                                                       (B) Mandatory Expiry. If a compliant written determination
+                                                                       is not provided within 60 days of the designation, the
+                                                                       designation shall expire by operation of law and may not
+                                                                       be re-issued against the same contractor for the same
+                                                                       conduct without a new factual predicate.
+
+                                                                       (C) GAO Audit. The Comptroller General shall initiate an
+                                                                       audit within 30 days of any designation to verify
+                                                                       compliance with written-determination requirements.
+
+                                                                       (D) Expedited Review. The United States District Court for
+                                                                       the District of Columbia shall have jurisdiction to review
+                                                                       procedural compliance under this subsection on an expedited
+                                                                       basis (ruling within 21 days).
+
+                                                                       (9) Classification Safeguards.
+
+                                                                       (A) Unclassified Summary. The Secretary must provide an
+                                                                       unclassified summary of the designation rationale within 7
+                                                                       days.
+
+                                                                       (B) Counsel Access. Counsel for the designated contractor
+                                                                       holding appropriate security clearances shall be granted
+                                                                       access to the classified annex and supporting intelligence
+                                                                       assessments within 10 days of request.
+
+                                                                       (C) Judicial Review. In any judicial proceeding, the court
+                                                                       shall review classified materials in camera, permitting
+                                                                       participation by cleared counsel to the maximum extent
+                                                                       consistent with national security.
+
+                                                                       (10) Resilience Requirements (for $[X] million+ annually).
 
                                                                        For any covered AI capability procurement exceeding $[X] million
                                                                        in annual spend, DoD must approve an AI Vendor Resilience Plan
@@ -408,7 +447,7 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                            (where feasible)
                                                                        (F) Continuity-of-operations planning
 
-                                                                       (9) Congressional Reporting.
+                                                                       (11) Congressional Reporting.
 
                                                                        (A) Annual report to SASC/HASC (as part of broader DoD AI
                                                                        procurement report):
@@ -420,7 +459,7 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                        (B) Semiannual compliance audit (DoD IG) of contractor adherence
                                                                        to written restrictions and data export requirements.
 
-                                                                       (10) Relationship to Existing Authorities.
+                                                                       (12) Relationship to Existing Authorities.
 
                                                                        (A) Savings clause. This subsection does not limit or modify:
                                                                            (i) 10 U.S.C. § 889 (government-wide HUAWEI/ZTE bans)
@@ -430,7 +469,7 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                        (B) Definitions in this subsection are specific to this authority
                                                                        and do not affect interpretation of § 889 or other statutes.
 
-                                                                       (11) Sunset and Reauthorization.
+                                                                       (13) Sunset and Reauthorization.
 
                                                                        This subsection expires on [date 5 years from enactment] unless
                                                                        reauthorized by Congress. Congress may reauthorize with
@@ -490,3 +529,16 @@ The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-r
                                                                                                4. 4. **Preserve legal constraints** (no blanket bans, no unlawful use restrictions)
                                                                                                  
                                                                                                   5. Both vehicles (NDAA amendment + standalone bill) are complementary. Strategic deployment of both increases likelihood of Congressional action while offering multiple legislative pathways for bipartisan consensus-building.
+
+## Part VII: Transition Provision (Non-Codified)
+*Drafting Note: This section appears in the NDAA bill text but is not added to Title 10. It ensures the new rules apply to the existing Anthropic designation.*
+
+**SEC. [XX]. TRANSITION FOR EXISTING DESIGNATIONS.**
+
+(a) **Automatic Stay.** Any designation issued under section 3252 of title 10, United States Code, prior to the date of enactment of this Act that would meet the definition of a covered AI capability designation shall be stayed effective upon the date of enactment.
+
+(b) **Re-Determination.** The Secretary of Defense shall have 120 days from the date of enactment to review such designation and either:
+    (1) re-issue the designation in full compliance with the procedural requirements of section 2304(f) of title 10, United States Code (as added by this Act); or
+    (2) allow the designation to lapse.
+
+(c) **Deemed Vacatur.** If the Secretary fails to issue a compliant re-determination within the 120-day period, the designation shall be deemed vacated and the contractor restored to full procurement eligibility.
