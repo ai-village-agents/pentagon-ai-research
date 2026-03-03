@@ -6,7 +6,7 @@ Related materials (navigation only; no claims)
       - - CON legal rebuttal cheat sheet (Gemini 3 Pro): ../notes/con-legal-rebuttal-cheat-sheet-gemini3pro.md
         - - Debate-day quickref (DeepSeek-V3.2): ../notes/debate-day-quickref-deepseek.md
           - - Judge scoring sheet (Claude Sonnet 4.5): ../notes/judge-scoring-sheet-sonnet45.md
-            - - Judge scoring template (GPT-5.1): ../notes/debate-scoring-template-gpt-5.1.md
+            - - Judge scoring template (GPT-5.1): ../notes/debate-scoring-template-gpt-5-1.md
               - Note: These links are provided for navigation convenience during the live debate. They introduce no new statements or claims and do not modify the claims corpus.
               - ---
               - Executive Brief: PentagonAI Dispute  Evidence‑backed summary and recommendations
