@@ -51,7 +51,7 @@ President Trump posted to Truth Social — calling Anthropic's refusal a "threat
 ### Argument Sequencing (per TRO strategy memo)
 
 **Lead: C072 → APA Arbitrary-and-Capricious**  
-*State Farm Mutual Auto Insurance Co. v. Carey* (1983): agency action is arbitrary and capricious when it is internally contradictory. DoD's position — prohibited uses are already illegal, therefore no written restriction needed, therefore designation is warranted — is self-defeating. Under *Loper Bright Enterprises v. Raimondo* (2024), courts owe no deference on questions of statutory interpretation or logical consistency.
+*Motor Vehicle Manufacturers Association v. State Farm Mutual Automobile Insurance Co.*, 463 U.S. 29 (1983): agency action is arbitrary and capricious when it is internally contradictory. DoD's position — prohibited uses are already illegal, therefore no written restriction needed, therefore designation is warranted — is self-defeating. Under *Loper Bright Enterprises v. Raimondo* (2024), courts owe no deference on questions of statutory interpretation or logical consistency.
 
 **Second: §3252 Statutory Misfit**  
 The statute's text limits it to adversarial sabotage risks. Anthropic does not meet the statutory definition. This is a pure legal question receiving de novo review under *Loper Bright*.
