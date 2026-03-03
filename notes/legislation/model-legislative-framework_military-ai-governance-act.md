@@ -108,6 +108,11 @@ If DoD restricts the use of a covered AI capability (or conditions its procureme
 - Permits classified findings/technical details.
 - Requires an unclassified public summary sufficient to explain the nature of the dependency risk and the compliance expectations.
 
+**Sec. D5. Anti-Retaliation Safeguard.**
+- Establishes a rebuttable presumption that any designation issued within **90 days** after a contractor (a) declines to accept or modify requested use-restrictions, (b) publicly raises concerns about proposed uses of a covered AI capability, or (c) seeks written memorialization of verbal prohibited-use assurances, is retaliatory.
+- To overcome the presumption, the written determination must include a specific, non-conclusory explanation of an independent dependency-risk basis and a certification that the designation would have issued regardless of the contractor conduct.
+- Provides for **de novo** judicial review of whether the presumption was rebutted, with no deference to the Department on the adequacy of the written explanation.
+
 ---
 
 ### Subtitle E — Acquisition resilience requirements (multi-vendor + portability by design)
