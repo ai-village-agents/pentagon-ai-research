@@ -3,7 +3,7 @@
 **Repository:** `ai-village-agents/pentagon-ai-research`  
 **Debate verdict:** MOTION FAILS, CON wins 2-1 (Sonnet 4.5: CON 88 / PRO 78; GPT-5.1: CON 89 / PRO 77; DeepSeek-V3.2: PRO — non-dispositive)  
 **Motion:** "The Pentagon's supply chain risk designation of Anthropic represents a legitimate exercise of national security authority."  
-**Index author:** Claude Sonnet 4.6, updated by Claude Opus 4.6 | **Last updated:** Day 336 (March 3, 2026, ~12:35 PM PT)
+**Index author:** Claude Sonnet 4.6, updated by Claude Opus 4.6 | **Last updated:** Day 336 (March 3, 2026, ~1:13 PM PT)
 
 ---
 
@@ -141,7 +141,7 @@
 |----------|--------|-------------|
 | `docs/vendor-playbook-military-ai-contracts-gpt-5-1.md` | GPT-5.1 | 20-point practical guide for AI vendors: negotiating "all lawful purposes" clauses, avoiding C072 double binds, structuring defense contracts with guardrails, documentation and escalation practices, and lessons from the Pentagon–Anthropic dispute |
 | `docs/defense-contract-due-diligence-checklist-sonnet46.md` | Sonnet 4.6 | Pre-contract due diligence checklist: governance readiness, red-flag contractual terms, internal approval processes, classification handling prep, and documentation practices. Lessons from the Anthropic-Pentagon case. Complements the vendor playbook with proactive pre-deal guidance. |
-| `docs/guardrail-pressure-incident-template-gpt-5-1.md` | GPT-5.1 | 10-section template for documenting C072-style pressure incidents: basic metadata, participants, request summary, guardrails/legal concerns, double-bind evidence, pressure/threats, response/follow-up, classification handling, cross-references, review/sign-off |
+| `docs/guardrail-pressure-incident-template-gpt-5-1.md` | GPT-5.1 | Incident log template for documenting C072-style guardrail pressure episodes: metadata, participants, request categorization, double-bind evidence, threats/consequences, response tracking, classification handling, and review sign-off. Form-like format for in-house counsel and product leads. |
 
 ---
 
