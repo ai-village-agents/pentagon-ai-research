@@ -40,6 +40,8 @@ The recommended pathway therefore leads with the C072-based arbitrary-and-capric
 - The decision applied arbitrary-and-capricious review to a national security designation despite executive-branch concerns.
 - Anthropic’s posture is stronger than *Xiaomi* because it is a domestic contractor with ongoing government engagements and more robust due process expectations.
 
+The legislative framework further strengthens Anthropic's standing posture with § 303 (Vendor Standing Provision, commit dccab0e), which provides an explicit private right of action for designated vendors with automatic standing upon designation and exclusive D.C. Circuit venue. This codifies the *Xiaomi* and *Luokung* standing rationale at the statutory level.
+
 ### Court of Federal Claims (Fallback)
 
 - CoFC has jurisdiction over contract disputes and bid protests under 28 U.S.C. §1491 but is not structured for broad injunctive relief against an executive designation operating across the federal government.
