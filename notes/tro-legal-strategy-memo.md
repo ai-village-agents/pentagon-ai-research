@@ -95,6 +95,9 @@ Lead with C072 because it avoids the need to contest the underlying national sec
   - The agency exceeds statutory boundaries.
   - The administrative record is internally contradictory.
 
+
+> **For a fuller analysis of why *Hawaii* deference fails here, see `notes/judicial-review-standards-opus45.md` Section I, which identifies three independent grounds: (A) C072 internal contradiction vs. *Hawaii*'s facial plausibility; (B) operational record (C065, C081, C085) contradicting stated rationale; (C) statutory misfit under the Major Questions Doctrine.**
+
 ### Recommended argument sequencing
 
 1. **Lead:** APA §706(2)(A) arbitrary-and-capricious based on C072 internal inconsistency
