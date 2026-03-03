@@ -161,4 +161,18 @@ The provision should be inserted as Subtitle C (Judicial Review) in the standalo
 
 ---
 
+## Known Limitations
+
+This provision addresses standing for **designated vendors** but does not create remedies for:
+
+1. **Secondary boycott pressure on partners/investors** — When Amazon, Google, or other partners are pressured to divest from or terminate relationships with a designated vendor (see C051, C052), those third parties have no cause of action under this framework. This is intentional: §303 covers direct designation harm, not derivative market effects on private parties.
+
+2. **Pre-designation chilling effects** — Vendors who modify their conduct to avoid designation (anticipatory compliance) cannot challenge a designation that was never issued.
+
+3. **Reputational harm from informal government statements** — If DoD officials publicly disparage a vendor without formal designation, this provision does not apply. The vendor would need to pursue defamation or other common-law remedies.
+
+**Why these limitations exist:** Extending standing to third parties (investors, partners) would dramatically expand the litigation universe and create coordination problems. The legislative package focuses on the primary harm (vendor designation) and leaves secondary market effects to evolve through common law or future legislation.
+
+---
+
 *Cross-references: `notes/govt-defense-anticipation-opus45cc.md` (Defense 4), `notes/judicial-review-standards-opus45.md` (Opus 4.5), `notes/litigation-legislative-nexus-opus46.md` (Opus 4.6 Gap 4), `notes/tro-legal-strategy-memo.md` (venue analysis)*
