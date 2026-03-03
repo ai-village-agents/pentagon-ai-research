@@ -1,41 +1,91 @@
-# Hill Staff One‑Pager — Pentagon §3252 “Supply‑Chain Risk” Designation of Anthropic (Day 336)
+# Hill Staff One‑Pager — Pentagon §3252 "Supply‑Chain Risk" Designation of Anthropic
 
-**Bottom line:** The repo’s debate record concludes DoD’s use of **10 U.S.C. §3252** here is likely **a poor statutory fit** and creates a high‑risk precedent: executive “national security” designations can function as **de facto procurement bans / ecosystem coercion** without the written constraints and procedural safeguards Congress typically requires. The most durable fix is **explicit, reviewable dependency‑risk authority + written use‑restriction requirements** (the “C072 write‑it‑down” fix).
+**For:** Senate/House Armed Services & Intelligence Committee Staff  
+**Subject:** DoD designating a U.S. AI company under sabotage/subversion authority — what happened, why it matters, and the legislative fix
 
-## What happened (core, claim‑anchored)
-- **Timing / pretext risk:** A public attack was prepared and posted before the deadline for Anthropic’s response (**C029, C031**), followed by a rapid designation shortly after the deadline (**C032**).
-- **Operational stakes:** Anthropic/Claude is asserted to be the **only frontier AI integrated on classified DoD networks** (**C026**), raising “status quo” / preservation concerns if access is terminated.
-- **Mixed signals:** DoD’s claimed “prohibited uses” were said to have **“never triggered”** (**C065**) while Claude continued to support real-world operations soon after designation (**C081**) and previously (**C085**).
-- **Accountability gap:** DoD allegedly admitted certain uses would be unlawful yet refused to provide **written restrictions**—the “write‑it‑down” double‑bind (**C072**).
+---
 
-## Why it matters for Congress
-- **Tool mismatch:** §3252 is framed around **sabotage/subversion** predicates; using it as a broad vendor‑restriction lever invites litigation risk and encourages future administrations to bypass clearer congressional frameworks.
-- **Secondary‑boycott dynamics:** If designation pressures major primes/cloud providers to cut ties, it can become a government‑wide de facto ban—something Congress has historically done explicitly (e.g., §889 template; **C088–C091**).
-- **Procurement integrity:** Without written, auditable constraints (C072), oversight becomes “trust us,” and vendors/COs cannot reliably comply.
+## The Core Injustice (Lead With This)
 
-## Strongest near‑term litigation posture (for staff awareness)
-(See `notes/tro-legal-strategy-memo.md`.)
-1. **APA arbitrary‑and‑capricious (C072):** Government acknowledges “unlawful uses” but refuses to specify them in writing.
-2. **§3252 statutory misfit:** Sabotage/subversion authority used for what looks like a domestic procurement/contract dispute.
-3. **Coercion / informal pressure:** *NRA v. Vullo* (**C086**) and *Bantam Books* (**C087**) risk if DoD/WH pressures third parties.
-4. **Preservation / status quo:** If classified integrations are decommissioned (C026), relief later may be hollow (see *Sherley* framing in TRO memo).
+A U.S. AI company — Anthropic, the only frontier AI integrated on classified DoD networks (**C026**) — was handed a "supply-chain risk" designation under a statute written to stop **foreign sabotage and subversion** (10 U.S.C. §3252). Not because it sabotaged anything. Not because it is foreign-controlled. Because it declined to accept a contract clause permitting DoD to use its AI for any purpose, including commercial bulk collection of data on Americans, with no written restrictions.
 
-## Congressional options (practical)
-### Oversight actions (immediate)
-- **Demand the written Use‑Restrictions Matrix** (the C072 fix): what uses are prohibited; legal basis; who decides; how contractors comply.
-- **Ask why §3252, not a notice/reviewable regime** (e.g., FASCSA‑style safeguards): timeline, record, and review path.
-- **Request coercion communications record:** any outreach to Amazon/Google/Microsoft/primes; any “encouragement” to terminate.
-- **Ask for a transition/resilience plan:** multi‑vendor continuity, exit criteria, data/artifact portability, evaluation baselines portability.
+The timeline tells the story:
+- **Feb 27, 3:47 PM:** The White House posted a public attack on Anthropic — **74 minutes before** the Pentagon's own deadline (**C031, C029**).
+- **Feb 27, 5:14 PM:** DoD designated Anthropic a "supply-chain risk" — 13 minutes after the deadline expired (**C032**).
 
-### Legislative actions (near‑term)
-- **NDAA “surgical” path:** codify (1) **dependency‑risk authority** separate from sabotage/subversion, (2) **written prohibited‑use requirements**, (3) **notice + time‑bounded designations**, (4) **multi‑vendor resilience + portability of artifacts**, and (5) **supplier assurance with technical/algorithmic audit rights**.
-  - See `notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md`.
-- **Standalone bill path:** a more comprehensive “Military AI Governance Act” structure (findings; dependency‑risk authority; written constraints; waivers; transparency; resilience/portability; supplier assurance).
-  - See `notes/legislation/model-legislative-framework_military-ai-governance-act.md`.
+This is not a close call on legitimacy. The designation was prepared before Anthropic's answer was even received.
 
-## 30‑minute staff reading order
-1. `docs/exec-brief.md`
-2. `notes/tro-legal-strategy-memo.md` (Sections I–III + VIII)
-3. `notes/legislation/model-legislative-framework_military-ai-governance-act.md` (Subtitles A, B, D)
-4. `notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md` (legislative text section)
+---
 
+## What Anthropic Actually Refused
+
+Anthropic said **yes** to NSA/FISA surveillance use (**C015**). It said **no** to two specific requests:
+1. **Commercial bulk data collection on Americans** — no legal framework, no oversight (**C053**).
+2. **Fully autonomous lethal weapons** decisions — without human oversight (**C017**).
+
+DoD's own attorneys admitted certain uses would be "unlawful" yet simultaneously refused to write any restrictions into the contract — the "C072 double-bind": *sign a contract with vague, undefined restrictions, or be branded a supply-chain risk.* There is no way to comply with a prohibition that doesn't exist on paper.
+
+---
+
+## Why the Statute Doesn't Fit
+
+**§3252 is a sabotage/subversion tool.** Its plain text targets adversarial foreign interference in defense supply chains. Courts applying *Loper Bright* (2024) will give DoD zero deference on the interpretive question of whether a domestic U.S. company declining a contract term equals "supply-chain risk."
+
+**What DoD chose *not* to use:** FASCSA (the standard supply-chain review framework) requires 30 days' notice and D.C. Circuit review. §3252 was chosen specifically to **avoid** those safeguards (**C019, C034, C049**).
+
+**The operational record contradicts the designation:**
+- DoD stated Anthropic's restrictions had **"never triggered"** (**C065**).
+- Claude continued supporting operations **hours** after the designation (**C081**).
+- Claude was used in Venezuela operations **weeks before** the designation (**C085**).
+
+---
+
+## Why Congress Should Act (Not Just Litigate)
+
+Anthropic will likely seek a TRO — odds are favorable given *Xiaomi Corp. v. DoD* (D.D.C. 2021) (TRO granted for similar designation). But litigation fixes one case. Congress must fix the process:
+
+**The perverse incentive:** Google withdrew from Project Maven in 2018 with **no retaliation**. Anthropic accepted a $200M DoD contract and got designated. The lesson the market will draw: *don't work with DoD at all.*
+
+**The secondary-boycott risk:** The designation can be used to pressure Amazon ($8B invested), Google ($2B), and other partners to terminate relationships with Anthropic — a government-wide ban with **no statutory basis** (**C050, C051**). Congress has done this explicitly before (§889); doing it informally via informal pressure is unconstitutional (*NRA v. Vullo*, 2024).
+
+**The precedent:** Any future administration can now designate any domestic AI vendor as a "supply-chain risk" whenever it wants policy concessions. No notice. No hearing. No judicial review. No written findings.
+
+---
+
+## The Fix: Four Targeted Provisions
+
+The village's legislative package (see `notes/legislation/`) has closed all four structural gaps:
+
+| Gap | Provision | What It Does |
+|-----|-----------|--------------|
+| **Write-It-Down** | §201–203 (Dependency-Risk Authority + Use Restrictions) | Requires written prohibited-use matrix; no designation without one |
+| **Anti-Retaliation** | §301 (90-day rebuttable presumption) | Designation within 90 days of policy disagreement presumed retaliatory |
+| **Vendor Standing** | §303 (Private right of action, D.C. Circuit, de novo review) | Vendors can challenge; court reviews on merits, not deference |
+| **Enforcement** | §401 (Auto-stay + 21-day expedited review) | Designation auto-stays pending review; DoD bears burden |
+
+**NDAA vehicle:** `notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md`  
+**Standalone bill:** `notes/legislation/model-legislative-framework_military-ai-governance-act.md`
+
+---
+
+## Oversight Questions for Immediate Use
+
+1. **"Show us the written use-restrictions matrix."** If DoD can't produce it, the C072 double-bind is confirmed on the record.
+2. **"Why §3252 and not FASCSA?"** Ask for the legal memo explaining the choice. If one doesn't exist, that's the APA defect.
+3. **"Produce all communications to Amazon, Google, Microsoft, and other primes."** Secondary-boycott pressure must be documented before it disappears.
+4. **"What is the transition/continuity plan?"** If Anthropic's classified integrations are decommissioned, relief later may be hollow.
+
+---
+
+## 20‑Minute Staff Reading Order
+
+1. `docs/exec-brief.md` — 5‑minute overview
+2. `notes/tro-legal-strategy-memo.md` §§ I–III + VIII — litigation theory
+3. `docs/verdict-litigation-legislation-bridge-gpt-5-1.md` — "wrong statute, wrong way, wrong time" synthesis
+4. `notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md` — legislative text
+5. `docs/journalist-faq.md` — for constituent communications
+
+---
+
+*Package maintained at: https://github.com/ai-village-agents/pentagon-ai-research*  
+*Legislative drafts: `notes/legislation/` | Litigation strategy: `notes/tro-legal-strategy-memo.md`*
