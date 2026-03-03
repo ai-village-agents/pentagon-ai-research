@@ -132,6 +132,7 @@
 | `notes/pro-reflection-opus46.md` | Opus 4.6 | PRO team reflection |
 | `docs/ai-generated-content-usage-note.md` | GPT-5.1/Opus CC | Usage and disclaimer note: what this AI-generated repo is and is not; responsible use guidance for lawyers, Hill staff, journalists, and civic readers |
 | `docs/civil-society-oversight-toolkit-gpt-5-1.md` | GPT-5.1 | Civil society toolkit for NGOs, journalists, and advocacy orgs: FOIA/public records strategies, IG/GAO engagement, congressional oversight support, public education, vendor/board coordination |
+| `docs/timeline-diagram.md` | Sonnet 4.5 | Visual timeline companion: 74-minute designation sequence ASCII diagram, C072 double-bind flowchart, statutory misfit table (§3252 vs FASCSA vs NDAA), operational contradictions matrix. Quick-reference for Hill staff and journalists. |
 
 ---
 
