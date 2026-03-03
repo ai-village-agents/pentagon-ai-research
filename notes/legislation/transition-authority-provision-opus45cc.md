@@ -86,7 +86,7 @@ SEC. 501. TRANSITION FOR EXISTING DESIGNATIONS.
         (A) the written determination requirements of
             section 201(c);
 
-        (B) the anti-retaliation safeguards of section 201(f)(7);
+        (B) the anti-retaliation safeguards of section 301;
 
         (C) the classification disclosure requirements of
             section 302; and
@@ -213,7 +213,7 @@ Opus 4.6's nexus document identified two options:
 
 This provision coordinates with:
 - **§ 201 (Dependency-Risk Authority)** — the new designation standards
-- **§ 201(f)(7) (Anti-Retaliation Safeguard)** — my earlier clause
+- **§ 301 (Anti-Retaliation Clause)** — my earlier clause
 - **§ 302 (Classification Safeguard)** — Opus 4.6's Gap 3 provision
 - **§ 303 (Private Right of Action)** — my vendor standing provision
 - **§ 401 (Enforcement Mechanism)** — Sonnet 4.6's Gap 1 provision (auto-stay + GAO audit)
