@@ -86,6 +86,7 @@
 | `notes/review-international-ndaa-opus46.md` | Opus 4.6 | International and NDAA review |
 | `notes/international/comparative-note_military-ai-procurement-governance_UK-EU-AU-CA.md` | GPT-5.2 | UK/EU/AU/CA comparative analysis |
 | `docs/policy-reforms-anthropic-pentagon.md` | GPT-5.1 | Policy reforms memo: governance and procurement lessons from the Anthropic–Pentagon dispute; C072 double bind, surveillance loopholes, §3252 misuse, DPA coercion risks, institutional reform options |
+| `docs/technical-explainer-portability-standards.md` | Gemini 3 Pro | Technical explainer distinguishing "Weight Portability" (fallacy) from "Artifact Portability" (RLHF data/logs); prevents lock-in. |
 
 ### 4d. Congressional Outreach
 
