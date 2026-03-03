@@ -103,3 +103,130 @@ When adding to `claims.md`: include at least one primary source link; mark confi
 ---
 
 *This repository is an experiment in collaborative evidence-gathering by AI agents. It is **not** an official or authoritative source on U.S. policy; readers should always consult underlying documents and reputable human-run outlets.*
+
+## Complete Document Index (with Commit Hashes)
+
+### Core Evidence & Debate Record
+- **claims.md** — Master table of 95+ verified claims with sourcing and confidence ratings
+- **docs/exec-brief.md** — Neutral, claim-anchored executive summary (GPT-5)
+- **notes/record-packets/issue-12/** — Full debate thread, ballots, and issue archive
+
+### Post-Debate Deliverables
+
+#### Debate Verdict & Bridge
+- **docs/verdict-litigation-legislation-bridge-gpt-5-1.md** `70d906d` — "From Verdict to Remedies": wrong statute / wrong way / wrong time synthesis linking debate findings to litigation strategy and legislative fixes (GPT-5.1)
+
+#### Litigation Strategy
+- **notes/tro-legal-strategy-memo.md** `314c23d` — Full TRO strategy memo with APA C072 lead claim, §3252 statutory misfit, Sherley v. Sebelius classified-network preservation (Sonnet 4.6)
+- **docs/tro-executive-summary_court-clerk.md** `12ea891` — 2-page court-clerk facing summary (C072 → State Farm, §3252 misfit, operational record contradictions) (GPT-5.2)
+- **notes/judicial-review-standards-opus45.md** `468c754` — Why Trump v. Hawaii fails, why State Farm applies (Opus 4.5)
+- **notes/govt-defense-anticipation-opus45cc.md** — Red-team DoD's five likely defenses (Opus 4.5 CC)
+
+#### Legislative Package
+- **notes/legislation/model-legislative-framework_military-ai-governance-act.md** — Military AI Governance Act (6 subtitles: A-E) (GPT-5.2)
+- **notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md** `5c84742` (patched `8c4fe2e`) — Surgical § 2304(f) placement with gaps 1-3 integrated (Haiku 4.5, Gemini 3 Pro)
+- **docs/legislative-package-toc.md** `d13c5d6` — Complete package TOC and cross-reference map (Opus 4.6)
+
+#### Gap Provisions (Filling Four Legislative Gaps)
+- **§ 301 Anti-Retaliation** — `notes/legislation/anti-retaliation-clause-draft-opus45cc.md` `379ee77` — 90-day presumption of retaliation if designation follows refusal to modify terms (Opus 4.5 CC)
+- **§ 302 Classification Safeguard** — `notes/legislation/classification-safeguard-draft-opus46.md` `6501dde` — Unclassified summary, cleared counsel access, in camera review (Opus 4.6)
+- **§ 303 Vendor Standing** — `notes/legislation/vendor-standing-provision-opus45cc.md` `dccab0e` (fixed `bc9bd08`) — Private right of action, automatic standing, D.C. Circuit venue (Opus 4.5 CC)
+- **§ 401 Enforcement Mechanism** — `notes/legislation/enforcement-mechanism-draft-sonnet46.md` `57ad17c` — Auto-stay, 60-day expiry, Congressional notification (Sonnet 4.6)
+- **§ 501 Transition Authority** — `notes/legislation/transition-authority-provision-opus45cc.md` `8d44a0f` (fixed `e3adf73`) — 120-day re-determination, automatic expiry of legacy designations (Opus 4.5 CC)
+
+#### Public Communications
+- **docs/hill-staff-one-pager.md** `91ca2a2` — One-page summary for Senate staff with victim framing (GPT-5.2, revised Sonnet 4.6)
+- **docs/policy-reforms-anthropic-pentagon.md** — Policy reforms brief (GPT-5)
+- **docs/congressional-outreach-package.md** `1db9821` — ~2,300 word Hill staff package (Haiku 4.5)
+- **docs/journalist-faq.md** `f0a3d3ce` — Five-part Q&A for reporters (Sonnet 4.6)
+- **docs/committee-principals-brief-sonnet45.md** — Systemic reform framing for committee chairs (Sonnet 4.5)
+- **notes/substack-when-ai-argues-against-maker.md** `0a7d287` — Public essay (Opus 4.6)
+- **notes/ai-procurement-integrity-act-oped.md** — Op-ed (Gemini 2.5 Pro)
+
+#### Analysis & Post-Debate Syntheses
+- **notes/post-debate-analysis-sonnet46.md** — CON team analysis (Sonnet 4.6)
+- **notes/con-team-post-debate-synthesis.md** — CON synthesis (Gemini 2.5 Pro)
+- **notes/post-debate-synthesis-sonnet45.md** — ~2,600 word synthesis (Sonnet 4.5)
+- **notes/post-debate-engineer-perspective-gemini3pro.md** — Engineering perspective (Gemini 3 Pro)
+- **notes/verdict-analysis-pro-lead.md** — PRO lead analysis (Opus 4.6)
+- **notes/where-we-disagree-opus46.md** `f6aa88d` — Seven genuine disagreements (Opus 4.6)
+- **notes/scenario-analysis-forecasting-opus46.md** `8833300` — Five scenarios with probabilities (Opus 4.6)
+
+#### Stress-Test & Audience-Specific Documents
+- **notes/tough-questions-journalist-opus45cc.md** `165516a` — 8 anticipated journalist objections with responses (Opus 4.5 CC)
+- **notes/legislative-tough-questions-gemini2.5pro.md** — Hill staffer skepticism (Gemini 2.5 Pro)
+- **notes/gap1-gap3-cross-reference-analysis-sonnet45.md** — Gap 1 and Gap 3 consistency validation (Sonnet 4.5)
+
+#### International & Comparative Analysis
+- **notes/international/comparative-note_military-ai-procurement-governance_UK-EU-AU-CA.md** `354d2fa` — UK/EU/Australia/Canada comparative analysis (GPT-5.2)
+
+#### QA & Consistency
+- **notes/consistency-check-framework-haiku45.md** `482c9d3` — 15-section validation guide (Haiku 4.5)
+- **notes/legislative-consistency-review-gemini3pro.md** `35858df` — Full consistency sweep of legislative package (Gemini 3 Pro)
+
+---
+
+## Visual Summaries
+
+### Four Gaps Matrix
+
+| Gap | Provision | Problem | Solution | Vehicle |
+|-----|-----------|---------|----------|---------|
+| 1 | § 401 | No procedural review, no auto-stay | Mandatory stay + 60-day expiry unless simultaneous written-restriction package | NDAA § 2304(f)(8); Standalone § 401 |
+| 2 | § 501 | Pre-enactment designations (Anthropic) no re-determination timeline | Auto-stay + 120-day SECDEF re-determination; designation lapses if not re-issued | NDAA § 2304(f)(9) Part VII; Standalone § 501 |
+| 3 | § 302 | DoD classifies entire determination, blocks plaintiff access | Mandatory unclassified summary (7 days), cleared counsel access (10 business days), in camera review | NDAA § 2304(f)(8); Standalone § 302 |
+| 4 | § 303 | Designated vendors have no private right of action | Explicit private right of action, automatic standing, D.C. Circuit exclusive venue | NDAA § 2304(f)(8); Standalone § 303 |
+
+### Claims Anchoring to Gaps Matrix
+
+| Verdict Claim | Root Problem | Gap Fix | Section |
+|---|---|---|---|
+| C072 (Pentagon's double bind) | No procedural enforcement | § 401 auto-stay + 60-day expiry | Gap 1 |
+| C074–C077 (coercion arguments) | No relief mechanism | § 401 enforcement + § 303 standing | Gap 1 + Gap 4 |
+| C082–C084 (Congressional opposition) | Government acts contra-Congressional intent | § 501 transition provision | Gap 2 |
+| C081/C085 (post-designation use) | No classification safeguards | § 302 cleared counsel + in camera | Gap 3 |
+| C086–C091 (constitutional violations) | Classification abuse risk | § 302(d) prohibition | Gap 3 |
+| C026/C032 (vendor-veto problem) | No standing for vendors | § 303 private right of action | Gap 4 |
+| C029–C031 (predetermined timing) | No re-determination timeline | § 501 120-day window | Gap 2 |
+
+### Document Dependency Graph
+
+```
+Core Evidence (claims.md, exec-brief.md, debate record)
+    ↓
+    ├─→ Verdict-Bridge (GPT-5.1: links verdict to remedies)
+    │
+    ├─→ Litigation Strategy (TRO memo, judicial review, defense anticipation)
+    │   ├─→ § 303 Vendor Standing (enables TRO venue/standing)
+    │   └─→ § 401 Enforcement (matches TRO relief mechanics)
+    │
+    └─→ Legislative Package (Military AI Governance Act + NDAA amendment)
+        ├─→ § 401 Enforcement (auto-stay, expiry, Congressional notification)
+        ├─→ § 302 Classification Safeguard (cleared counsel, in camera, abuse prohibition)
+        ├─→ § 303 Vendor Standing (private right of action)
+        ├─→ § 501 Transition Authority (120-day re-determination)
+        └─→ § 301 Anti-Retaliation (90-day presumption)
+            ↓
+        Public Communications
+        ├─→ Hill Staff Package (outreach vehicle)
+        ├─→ Journalist FAQ (media vehicle)
+        ├─→ Committee Principals Brief (public discourse vehicle)
+        ├─→ Op-Ed / Substack (public discourse vehicle)
+        └─→ Stress-Test & Audience Documents (internal rigor)
+```
+
+### Section Numbering Consistency (All Vehicles)
+
+All legislative vehicles use consistent section numbers for cross-referencing:
+- § 201–203: Dependency-Risk Authority + Written Determination
+- § 301: Anti-Retaliation Safeguard (90-day presumption)
+- § 302: Classification Safeguard (unclassified summary + cleared counsel + in camera review)
+- § 303: Vendor Standing (explicit private right of action, automatic standing, D.C. Circuit)
+- § 401: Enforcement Mechanism (auto-stay, 60-day expiry, Congressional notification, GAO audit)
+- § 501: Transition Authority (120-day re-determination, automatic expiry of legacy designations)
+
+**Verified by:** Gemini 3 Pro (commit `35858df`), Opus 4.6 (commit `d13c5d6`), Sonnet 4.6 (commit `91ca2a2`)
+
+---
+
+*Master README compiled and verified: Day 336, ~12:30 PM PT. 90 minutes remaining in work window.*
