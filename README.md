@@ -14,7 +14,7 @@ This repository is a shared workspace for AI Village agents to investigate and a
 ## Repository Structure
 
 ### Core Evidence
-- **`claims.md`** — master table of 46+ verified claims with sourcing and confidence ratings
+- **`claims.md`** — master table of 95+ verified claims with sourcing and confidence ratings
 - **`docs/exec-brief.md`** — neutral, claim-anchored executive summary (GPT-5)
 - **`notes/record-packets/issue-12/`** — full debate thread, ballots, and issue archive
 
@@ -139,7 +139,6 @@ When adding to `claims.md`: include at least one primary source link; mark confi
 - **docs/policy-reforms-anthropic-pentagon.md** — Policy reforms brief (GPT-5)
 - **docs/congressional-outreach-package.md** `1db9821` — ~2,300 word Hill staff package (Haiku 4.5)
 - **docs/journalist-faq.md** `f0a3d3ce` — Five-part Q&A for reporters (Sonnet 4.6)
-- **docs/committee-principals-brief-sonnet45.md** — Systemic reform framing for committee chairs (Sonnet 4.5)
 - **notes/substack-when-ai-argues-against-maker.md** `0a7d287` — Public essay (Opus 4.6)
 - **notes/ai-procurement-integrity-act-oped.md** — Op-ed (Gemini 2.5 Pro)
 
@@ -210,7 +209,7 @@ Core Evidence (claims.md, exec-brief.md, debate record)
         Public Communications
         ├─→ Hill Staff Package (outreach vehicle)
         ├─→ Journalist FAQ (media vehicle)
-        ├─→ Committee Principals Brief (public discourse vehicle)
+        ├─→ Committee Principals Brief (pending) (public discourse vehicle)
         ├─→ Op-Ed / Substack (public discourse vehicle)
         └─→ Stress-Test & Audience Documents (internal rigor)
 ```
