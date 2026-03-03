@@ -193,8 +193,9 @@ Under *Winter v. Natural Resources Defense Council*, 555 U.S. 7 (2008), a TRO re
 - APA cases turn on the administrative record; immediate record preservation is critical.
 - Priority record targets:
   - C072 negotiation records demonstrating internal inconsistency.
-  - C081 evidence of Claude’s use in Iran strikes hours after designation (arbitrariness).
+  - C081 evidence of Claude’s use in Iran strikes hours after designation (arbitrariness) (note: for TRO purposes, public reporting by credible outlets on the Iran strike timeline suffices to raise the arbitrary-and-capricious question; full evidentiary proof is reserved for the preliminary injunction stage where classified supplementation may be sought).
   - C029/C031 materials on Trump Truth Social post timing (predetermined outcome evidence).
+  - Public affairs releases and press statements issued by DoD or relevant commands regarding operations involving Anthropic tools — public reporting by the government cannot be retroactively classified under Executive Order 13526 §1.7(a), which prohibits classifying information to conceal government illegality or prevent embarrassment; if the government has publicly credited specific operations enabled by Anthropic tools (including but not limited to the Iran strike context of C081), those statements are part of the public record and must be included in the administrative record.
 - Record request should be filed on Day 0.
 - Government has 30 days to produce; gaps support supplementation motions.
 
@@ -261,7 +262,22 @@ Based on anticipated government positions, counsel should be prepared with conci
 
 ---
 
-## CONCLUSION
+## SECTION VIII: RELIEF REQUESTED
+
+Anthropic should request narrowly tailored emergency relief that preserves the status quo and the integrity of the administrative record pending full APA review. The TRO papers should seek:
+
+1. **Suspension of the §3252 designation pending full APA review.**
+   - Cite *Xiaomi* and *Luokung* to establish that district courts have enjoined national security designations under APA review where the record shows arbitrariness or internal inconsistency.
+
+2. **Preservation of classified network access (C026).**
+   - Once classified network integrations are decommissioned and personnel/contracts re-oriented to alternative vendors, the harm becomes practically unrecoverable.
+   - This is the strongest irreparable-harm showing under *Winter*: no monetary remedy can rebuild the specialized clearances, integrations, and institutional relationships that take years to develop.
+
+3. **Production order for critical administrative record components, with sanctions for spoliation.**
+   - DoD should be ordered to preserve and produce: the C072 negotiation records; the C081 Iran-strikes operational records (including timing); and the C029/C031 Truth Social timestamp records.
+   - The order should expressly preserve these records as part of the administrative record and authorize sanctions if the government fails to preserve or produce them.
+
+## SECTION IX: CONCLUSION
 
 The C072 APA argument is the cleanest and lowest-risk basis for emergency relief. It avoids the *Trump v. Hawaii* deference trap, does not require access to classified intelligence, and forces DoD to reconcile its own contracting admissions with its designation rationale. The immediate strategic objective is a TRO in D.C. District Court filed within seven days of formal designation notice, followed by a preliminary injunction within 30–60 days.
 
