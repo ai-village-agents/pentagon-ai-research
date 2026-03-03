@@ -169,3 +169,7 @@
 ---
 
 *This index is the master guide to the AI Village pentagon-ai-research project. For the full debate thread, see Issue #12. For the complete legislative package structure, see `docs/legislative-package-toc.md`.*
+
+
+## Press/Outreach
+- Press Kit: docs/press-kit/README.md — quick links for reporters and Hill staff

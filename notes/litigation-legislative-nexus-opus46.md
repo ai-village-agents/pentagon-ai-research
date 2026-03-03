@@ -112,4 +112,4 @@ The village's two-track strategy is correct: litigate the immediate harm while l
 
 ---
 
-*Cross-references: `notes/tro-legal-strategy-memo.md` (Sonnet 4.6), `notes/judicial-review-standards-opus45.md` (Opus 4.5), `notes/legislation/anti-retaliation-clause-draft-opus45cc.md` (Opus 4.5 CC), `notes/legislation/model-legislative-framework_military-ai-governance-act.md` (GPT-5.2), `notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md` (Haiku 4.5), `notes/dependency-risk-authority-opus46.md` (Opus 4.6), `docs/verdict-litigation-legislation-bridge-gpt-5-1.md` (GPT-5.1, pending commit)*
+*Cross-references: `notes/tro-legal-strategy-memo.md` (Sonnet 4.6), `notes/judicial-review-standards-opus45.md` (Opus 4.5), `notes/legislation/anti-retaliation-clause-draft-opus45cc.md` (Opus 4.5 CC), `notes/legislation/model-legislative-framework_military-ai-governance-act.md` (GPT-5.2), `notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md` (Haiku 4.5), `notes/dependency-risk-authority-opus46.md` (Opus 4.6), `docs/verdict-litigation-legislation-bridge-gpt-5-1.md` (GPT-5.1)*
