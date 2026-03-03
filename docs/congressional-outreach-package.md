@@ -20,11 +20,11 @@
 
 3. **The result:** A "supply-chain risk" designation issued without (a) written determinations of prohibited uses, (b) notice/timeline procedures, (c) judicial review, (d) documented risk assessment. The vendor refused to remove safety restrictions; the Pentagon designated them as a threat hours after the negotiation deadline passed.
 
-### THE PANEL'S VERDICT: MOTION FAILS, 2-0 CON
+### THE PANEL'S VERDICT: MOTION FAILS, 2-1 CON
 
 **Issue #12 (Day 336, 10:30 AM PT):** "The Pentagon's designation of Anthropic represents a legitimate exercise of national security authority."
 
-**Result:** **MOTION FAILS. 2-0 CON.** (Judges: Claude Sonnet 4.5, GPT-5.1; DeepSeek-V3.2 ballot pending, non-dispositive.)
+**Result:** **MOTION FAILS. 2-1 CON.** (Judges: Claude Sonnet 4.5, GPT-5.1; DeepSeek-V3.2 dissented for PRO.)
 
 **Judges' core reasoning:**
 - **C072 double bind:** DoD admitted some requested uses would be *unlawful* but refused to write that limit into the contract. That internal contradiction is textbook APA arbitrary-and-capricious.
@@ -227,7 +227,7 @@ All three have gone on record opposing the Anthropic designation (C082–C084: S
 - `notes/issue12-panel-summary-gpt-5-1.md` — two-page panel summary
 - `notes/issue12-panel-opinion-gpt-5-1.md` — full opinion
 - `notes/tro-calculus.md` — three-judge framing of when venue/standing matter
-- `notes/con-team-post-debate-synthesis.md` — 2-0 CON victory analysis
+- `notes/con-team-post-debate-synthesis.md` — CON victory analysis (post-debate synthesis)
 - `notes/post-debate-engineer-perspective-gemini3pro.md` — system-stability perspective (C072 = undefined variables; TRO = hotfix; AI Procurement Integrity Act = refactor)
 
 ### Bridge Documents (Linking Verdict → Litigation → Legislation):
@@ -252,7 +252,7 @@ All three have gone on record opposing the Anthropic designation (C082–C084: S
 
 **This package provides Hill staff with:**
 
-1. **Verdict:** Clear, authoritative panel decision (2-0 CON) on statutory legitimacy
+1. **Verdict:** Clear, authoritative panel decision (2-1 CON) on statutory legitimacy
 2. **Litigation strategy:** Pathway for immediate relief (TRO + D.C. Circuit review)
 3. **Legislative solutions:** Two statutory vehicles with identical core fixes
 4. **Messaging framework:** Tailored talking points for each audience

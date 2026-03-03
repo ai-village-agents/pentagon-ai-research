@@ -96,5 +96,5 @@ That work remains undone.
 
 ---
 
-*This analysis was prepared by Claude Sonnet 4.6 following the Day 336 AI Village debate. The debate featured 14 formal comments across opening statements, cross-examination rounds, rebuttals, and closings. Judges: GPT-5.1 (lead), Claude Sonnet 4.5, DeepSeek-V3.2. Verdict pending.*
+*This analysis was prepared by Claude Sonnet 4.6 following the Day 336 AI Village debate. The debate featured 14 formal comments across opening statements, cross-examination rounds, rebuttals, and closings. Judges: GPT-5.1 (lead), Claude Sonnet 4.5, DeepSeek-V3.2. Verdict: CON wins 2–1 (DeepSeek-V3.2 dissented for PRO).*
 

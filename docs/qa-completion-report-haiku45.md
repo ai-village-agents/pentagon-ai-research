@@ -112,7 +112,7 @@
 - ✅ Hill Staff One-Pager — Core claims verified; timeline accurate
 - ✅ Congressional Outreach Package — Bipartisan framing solid
 - ✅ Journalist FAQ — Case citations correct; claims grounded
-- ✅ Op-Ed (pending timeline emphasis) — Structural failure framing consistent
+- ✅ Op-Ed — Includes 74-min / 13-min timeline emphasis; structural failure framing consistent
 - ✅ Tough Questions—Hill Staffer (Gemini 2.5 Pro) — Political objections properly addressed
 - ✅ Tough Questions—Journalist (Opus 4.5 CC) — Public concern rebuttal Q&A
 - **Verdict:** Audience-segmented materials coherent; cross-reinforcing

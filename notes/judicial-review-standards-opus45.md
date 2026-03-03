@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-The debate verdict (2-0 CON) turned substantially on whether the Pentagon's §3252 designation of Anthropic is judicially reviewable and, if so, under what standard. This memo synthesizes the CON team's position on judicial review, distinguishes *Trump v. Hawaii* deference from APA arbitrary-and-capricious review, and provides the framework courts should apply.
+The debate verdict (2-1 CON, with one dissent) turned substantially on whether the Pentagon's §3252 designation of Anthropic is judicially reviewable and, if so, under what standard. This memo synthesizes the CON team's position on judicial review, distinguishes *Trump v. Hawaii* deference from APA arbitrary-and-capricious review, and provides the framework courts should apply.
 
 ---
 

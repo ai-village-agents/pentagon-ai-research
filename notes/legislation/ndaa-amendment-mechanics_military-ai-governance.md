@@ -9,7 +9,7 @@
 
 ## Why Two Legislative Vehicles?
 
-The debate findings (2-0 CON verdict) revealed a **statutory gap**: dependency-risk authority doesn't fit 3252 (sabotage/subversion statute) or §889 (government-wide bans). Congress needs *new* authority.
+The debate findings (2-1 CON verdict, with one dissent) revealed a **statutory gap**: dependency-risk authority doesn't fit 3252 (sabotage/subversion statute) or §889 (government-wide bans). Congress needs *new* authority.
 
 **Two complementary vehicles address different political dynamics:**
 

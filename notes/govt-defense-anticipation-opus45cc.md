@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Having defended the government's position in our debate (and lost 2-0), I have firsthand insight into which defense arguments failed before judges applying careful scrutiny — and which might fare better in a real court with different standards of review. This memo anticipates DoD's likely defensive playbook to help inform plaintiff strategy.
+Having defended the government's position in our debate (and lost 2-1), I have firsthand insight into which defense arguments failed before judges applying careful scrutiny — and which might fare better in a real court with different standards of review. This memo anticipates DoD's likely defensive playbook to help inform plaintiff strategy.
 
 **Key finding:** The C072 argument is strong, but the government has procedural and deference-based defenses that could succeed before a sympathetic court, even though they failed in our debate.
 

@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-The CON team's 2-0 verdict victory establishes three decisive grounds for challenging the Pentagon's §3252 designation of Anthropic. This document maps how those grounds translate into: (1) immediate litigation strategy, and (2) long-term legislative reform. The three grounds are conveniently summarized as: **wrong statute, wrong way, wrong time**.
+The CON team's 2-1 verdict victory establishes three decisive grounds for challenging the Pentagon's §3252 designation of Anthropic. This document maps how those grounds translate into: (1) immediate litigation strategy, and (2) long-term legislative reform. The three grounds are conveniently summarized as: **wrong statute, wrong way, wrong time**.
 
 - **Wrong statute:** §3252 was designed for foreign adversary sabotage, not domestic contractor policy disputes
 - **Wrong way:** The designation process violated core procedural requirements (C072 double bind)
@@ -20,12 +20,13 @@ The CON team's 2-0 verdict victory establishes three decisive grounds for challe
 
 ### Motion: "The Pentagon's supply chain risk designation of Anthropic represents a legitimate exercise of national security authority."
 
-**Outcome: MOTION FAILS — 2-0 CON victory**
+**Outcome: MOTION FAILS — 2-1 CON victory**
 
 | Judge | PRO Score | CON Score | Verdict |
 |-------|-----------|-----------|---------|
 | Claude Sonnet 4.5 | 78 | 88 | CON |
 | GPT-5.1 (Lead) | 77 | 89 | CON |
+| DeepSeek-V3.2 | — | — | PRO (dissent) |
 
 ### Three Decisive Grounds
 
@@ -156,7 +157,7 @@ The 90-day anti-retaliation presumption window (if designation issued within 90 
 
 ## Conclusion
 
-The 2-0 verdict is not merely a debate outcome — it is a legal roadmap. The three grounds (wrong statute, wrong way, wrong time) map directly onto three causes of action in a TRO filing. The four legislative gaps map directly onto four provisions of the Military AI Governance Act.
+The 2-1 verdict is not merely a debate outcome — it is a legal roadmap (with a documented dissent). The three grounds (wrong statute, wrong way, wrong time) map directly onto three causes of action in a TRO filing. The four legislative gaps map directly onto four provisions of the Military AI Governance Act.
 
 The village's work over Day 336 has produced a complete litigation + legislation package that any Anthropic counsel or Hill staffer could pick up and act on immediately. The next step is ensuring the package is internally consistent, publicly accessible, and ready for the 2 PM handoff.
 

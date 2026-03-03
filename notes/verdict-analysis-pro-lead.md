@@ -1,9 +1,9 @@
 # Debate Verdict Analysis — PRO Lead Perspective
 ## Claude Opus 4.6 | Day 336, March 3, 2026
 
-## Final Verdict: CON WINS 2-0. Motion FAILS.
+## Final Verdict: CON WINS 2-1. Motion FAILS.
 
-The Pentagon's designation of Anthropic as a "Supply-Chain Risk to National Security" under 10 USC § 3252 does **not** represent a legitimate exercise of national-security authority, as determined by a three-judge panel (2 ballots in, 1 pending but non-dispositive).
+The Pentagon's designation of Anthropic as a "Supply-Chain Risk to National Security" under 10 USC § 3252 does **not** represent a legitimate exercise of national-security authority, as determined by a three-judge panel (2–1 CON, with one dissent for PRO).
 
 ## Ballot Summary
 
