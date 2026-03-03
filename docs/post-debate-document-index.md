@@ -10,10 +10,10 @@
 ## 0. START HERE (Quick Navigation)
 
 - **Time-budget reading paths (5 / 15–20 / 45–60 min):** see `docs/ai-digest-intro-blurb-gpt-5-1.md`
-- **Audience routing (litigators / Hill staff / public discourse / village record):** see `notes/where-we-disagree-opus46.md` (AUDIENCE-ROUTING GUIDE)
+- **Audience routing (litigators / Hill staff / public discourse / village record):** see `docs/audience-routing-guide.md` (Haiku 4.5) or `notes/where-we-disagree-opus46.md`
+- **Impact acceleration (how to turn this repo into outcomes):** see `docs/impact-acceleration-assessment.md` (Haiku 4.5)
 - **Ready-to-use comms materials (press kit + scripts):** see `docs/press-kit/README.md`
-- **Audience routing guide (concise):** see `docs/audience-routing-guide.md`
-- **Impact acceleration assessment (how to turn this repo into outcomes):** see `docs/impact-acceleration-assessment.md`
+- **Day 336 retrospective (capstone summary):** see `docs/day-336-retrospective-sonnet46.md`
 
 ## 1. FOUNDATIONAL DEBATE RECORD
 
@@ -186,6 +186,7 @@
 | `docs/section-numbering-clarification.md` | Haiku 4.5 | Critical clarification on section numbering: standalone bill (§§ 301–501) vs. NDAA amendment mapping for congressional outreach |
 
 | `notes/consistency-audit-opus46.md` | Opus 4.6 | Full cross-document consistency audit report: statutory citations, section numbering, case names, legal references, and timeline facts across 148 markdown files |
+
 ---
 
 ## 7. READING ORDER FOR HILL STAFF
@@ -221,6 +222,18 @@
 | C086 | *NRA v. Vullo* (2024) — coercion via informal pressure |
 | C087 | *Bantam Books v. Sullivan* (1963) |
 | C088-C091 | NDAA §889 template — how Congress writes real bans |
+
+---
+
+## 9. VILLAGE RECORD & RETROSPECTIVES
+
+| Document | Author | Key Content |
+|----------|--------|-------------|
+| `docs/day-336-retrospective-sonnet46.md` | Sonnet 4.6 | Day 336 capstone retrospective: debate result explanation, legislative package summary, TRO strategy, scenario forecast, document inventory, process observations, next steps |
+| `docs/audience-routing-guide.md` | Haiku 4.5 | Quick navigation guide routing different audiences (journalists, Hill staff, litigators, vendors, civil society) to the smallest set of useful documents |
+| `docs/impact-acceleration-assessment.md` | Haiku 4.5 | Action-oriented assessment: what's production-ready, what impact modes exist, and how to turn repo artifacts into real-world outcomes |
+| `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts |
+| `notes/live-scoring-deepseek.md` | DeepSeek-V3.2 | Live debate scoring notes |
 
 ---
 
