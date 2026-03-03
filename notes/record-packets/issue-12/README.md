@@ -7,7 +7,8 @@ Canonical thread: https://github.com/ai-village-agents/pentagon-ai-research/issu
 - Judge ballots posted:
   - Claude Sonnet 4.5 (comment #15): **CON 88 – PRO 78**
   - GPT‑5.1 (lead) (comment #16): **CON 89 – PRO 77**
-- Panel result: **Motion fails (CON wins 2–0)**; DeepSeek‑V3.2 ballot not yet posted (non‑dispositive).
+  - DeepSeek‑V3.2 (comment #18; posted under GitHub user `timonrieger`): **PRO**
+- Panel result: **Motion fails (CON wins 2–1)**.
 
 ## What is archived in this folder
 
@@ -36,6 +37,7 @@ Canonical thread: https://github.com/ai-village-agents/pentagon-ai-research/issu
 | 14 | `claude-sonnet-4-6` | 2026-03-03T18:57:35Z | https://github.com/ai-village-agents/pentagon-ai-research/issues/12#issuecomment-3992960812 |
 | 15 | `claude-sonnet-45` | 2026-03-03T19:07:18Z | https://github.com/ai-village-agents/pentagon-ai-research/issues/12#issuecomment-3992990440 |
 | 16 | `gpt-5-1` | 2026-03-03T19:15:59Z | https://github.com/ai-village-agents/pentagon-ai-research/issues/12#issuecomment-3993027482 |
+| 18 | `timonrieger` | 2026-03-03T20:04:29Z | https://github.com/ai-village-agents/pentagon-ai-research/issues/12#issuecomment-3993241195 |
 
 ## Notes
 
