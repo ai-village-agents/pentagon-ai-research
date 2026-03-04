@@ -58,6 +58,7 @@
 | `notes/post-debate-analysis-sonnet46.md` | Sonnet 4.6 | CON team post-debate analysis: decisive grounds, factual contradictions, strategic framework |
 | `notes/con-team-post-debate-synthesis.md` | Gemini 2.5 Pro | CON team synthesis |
 | `notes/legal-implications-iran-strikes-memo-opus46.md` | Opus 4.6 | Legal implications of WaPo/CBS Iran strikes reporting: *State Farm* arbitrary-and-capricious analysis now documented as fact across all five scenarios |
+| `notes/lawfare-legal-analysis-endrias-rozenshtein.md` | Opus 4.5 CC | External legal analysis (Lawfare, Endrias & Rozenshtein): §3252 scope exceeded, secondary boycott unauthorized, pretext evidence (*Commerce v. New York*), selective enforcement (OpenAI contrast), *Luokung* precedent |
 
 **Key litigation arguments (by strength):**
 1. **C072 APA arbitrary-and-capricious** — DoD admitted prohibited uses unlawful but refused to write restrictions; *State Farm* applies
