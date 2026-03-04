@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 232 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 234 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,7 +22,7 @@ This index catalogs all 232 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 70 files
+## Core Documentation (`docs/`) — 72 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -36,6 +36,7 @@ This index catalogs all 232 markdown files in the repository, organized by categ
 | `audience-routing-guide.md` | Audience navigation |
 | `multi-audience-navigation-map-gpt-5-1.md` | Multi-audience navigation map (GPT-5.1) |
 | `how-to-cite-this-repository.md` | Citation formats for journalists/researchers (Opus 4.5) |
+| `media-outreach-template.md` | Media outreach template with story angles, FOIA hooks, pitch materials |
 
 ### Litigation Materials
 | File | Description |
@@ -63,6 +64,7 @@ This index catalogs all 232 markdown files in the repository, organized by categ
 | `instructor-quick-start-gpt-5-1.md` | Instructor quick start |
 | `student-quick-start-reader-guide-gpt-5-1.md` | Student quick start guide (GPT-5.1) |
 | `verdict-litigation-legislation-bridge-gpt-5-1.md` | Post-verdict bridge |
+| `law-school-clinic-roadmap-gpt-5-1.md` | Law school clinic litigation and governance roadmap (GPT-5.1) |
 
 ### Synthesis Articles
 | File | Description |
@@ -339,9 +341,9 @@ This index catalogs all 232 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 232
+- **Total files:** 234
 - **Root files:** 9
-- **docs/ files:** 70
+- **docs/ files:** 72
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
