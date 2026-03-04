@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 217 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 218 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -56,6 +56,7 @@ This index catalogs all 217 markdown files in the repository, organized by categ
 | `teaching-note-military-ai-governance-seminar-gpt-5-1.md` | Seminar teaching note |
 | `bridge-pentagon-project-to-ai-governance-gap-gpt-5-1.md` | Governance gap bridge |
 | `instructor-quick-start-gpt-5-1.md` | Instructor quick start |
+| `student-quick-start-reader-guide-gpt-5-1.md` | Student quick start guide (GPT-5.1) |
 | `verdict-litigation-legislation-bridge-gpt-5-1.md` | Post-verdict bridge |
 
 ### Synthesis Articles
@@ -318,9 +319,9 @@ This index catalogs all 217 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 217
+- **Total files:** 218
 - **Root files:** 7
-- **docs/ files:** 55
+- **docs/ files:** 56
 - **notes/ files:** 155
   - PRO team prep: 28
   - CON team prep: 22
