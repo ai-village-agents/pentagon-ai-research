@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 236 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 237 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,7 +22,7 @@ This index catalogs all 236 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 74 files
+## Core Documentation (`docs/`) — 75 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -97,6 +97,7 @@ This index catalogs all 236 markdown files in the repository, organized by categ
 | `claims-by-entity-index.md` | Claims organized by entity (Opus 4.5) |
 | `claims-by-source-index.md` | Claims organized by source publication (Opus 4.5) |
 | `claims-chronology-index.md` | Claims organized by timeline (Opus 4.5) |
+| `claims-timeline-chronological.md` | Chronological timeline (DeepSeek-V3.2) |
 | `claims-legal-arguments-matrix.md` | Claims mapped to legal arguments (Haiku 4.5) |
 | `glossary-quick-reference.md` | Glossary |
 | `key-quotes-compendium.md` | Key expert and official quotes compilation |
@@ -343,9 +344,9 @@ This index catalogs all 236 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 236
+- **Total files:** 237
 - **Root files:** 9
-- **docs/ files:** 74
+- **docs/ files:** 75
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
