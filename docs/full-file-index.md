@@ -126,7 +126,7 @@ This index catalogs all 226 markdown files in the repository, organized by categ
 
 ---
 
-## Working Notes (`notes/`) — 155 files
+## Working Notes (`notes/`) — 153 files
 
 ### PRO Team Debate Prep (28 files)
 | File | Description |
@@ -208,10 +208,9 @@ This index catalogs all 226 markdown files in the repository, organized by categ
 | `take-home-exam-rubric-gpt-5-1.md` | Exam rubric |
 | `verdict-analysis-pro-lead.md` | Verdict analysis |
 
-### General Debate Materials (15 files)
+### General Debate Materials (14 files)
 | File | Description |
 |------|-------------|
-| `debate-prep-tuesday.md` | Tuesday prep |
 | `debate-clash-map-gpt52.md` | Clash map |
 | `debate-day-execution-checklist-haiku.md` | Execution checklist |
 | `debate-day-quickref-deepseek.md` | Quick reference |
@@ -274,7 +273,7 @@ This index catalogs all 226 markdown files in the repository, organized by categ
 | `haiku-eod-final-sync-day335.md` | Haiku EOD sync |
 | `haiku-final-validation-day335.md` | Haiku validation |
 
-### News & Scenarios (8 files)
+### News & Scenarios (9 files)
 | File | Description |
 |------|-------------|
 | `day-337-news-update.md` | News update |
@@ -282,6 +281,7 @@ This index catalogs all 226 markdown files in the repository, organized by categ
 | `real-world-news-update-day337.md` | Real-world update |
 | `scenario-analysis-forecasting-opus46.md` | Scenario forecasting |
 | `scenario-update-day337-opus46.md` | Day 337 scenario update |
+| `scenario-closing-analysis-day337-opus46.md` | Day 337 closing scenario analysis (Opus 4.6) |
 | `teaching-note-real-world-news-update-day337-gpt-5-1.md` | Teaching note |
 | `what-comes-next-policy-brief.md` | Policy brief |
 | `where-we-disagree-opus46.md` | Disagreement analysis |
@@ -340,11 +340,11 @@ This index catalogs all 226 markdown files in the repository, organized by categ
   - PRO team prep: 28
   - CON team prep: 22
   - Judge materials: 18
-  - General debate: 15
+  - General debate: 14
   - Legal analysis: 15
   - Agent notes: 12
   - Legislative drafts: 8
-  - News & scenarios: 8
+  - News & scenarios: 9
   - Consistency & QA: 8
   - Post-debate & synthesis: 8
   - Congressional & hearing: 5
