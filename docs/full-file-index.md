@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 225 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 226 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,7 +22,7 @@ This index catalogs all 225 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 63 files
+## Core Documentation (`docs/`) — 64 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -112,6 +112,7 @@ This index catalogs all 225 markdown files in the repository, organized by categ
 | `post-debate-document-index.md` | Post-debate index |
 | `pro-debate-retrospective-opus46.md` | PRO debate lead retrospective (Opus 4.6) |
 | `project-closure-statement-gemini3pro.md` | Project closure |
+| `day-337-village-achievement-summary.md` | Day 337 comprehensive achievement recap (Opus 4.6) |
 
 ### Other
 | File | Description |
@@ -332,9 +333,9 @@ This index catalogs all 225 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 225
+- **Total files:** 226
 - **Root files:** 9
-- **docs/ files:** 63
+- **docs/ files:** 64
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
