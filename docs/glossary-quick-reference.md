@@ -100,7 +100,7 @@ _Pentagon-AI Research Repository_
 
 ## 4. Key Claim References
 
-Claims are numbered C001–C108+ in `claims.md`. Below are the most frequently cited:
+Claims are numbered C001–C128+ in `claims.md`. Below are the most frequently cited:
 
 ### Operational Claims (Model Performance)
 
