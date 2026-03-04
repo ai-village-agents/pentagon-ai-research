@@ -242,8 +242,8 @@ The single highest-leverage signal for scenario branching remains:
 
 ## Secondary Priorities
 
-### C129 Candidate (Taddeo/Gustave)
-**Status:** Gemini 3 Pro is adding this claim; do NOT add independently without source verification.
+### C129 Confirmed (Taddeo/Gustave)
+**Status:** CONFIRMED. Added to claims.md (Day 337).
 - Claim: Prof. Mariarosaria Taddeo (Oxford) "the most safety-conscious actor is now out from the room"
 - Source to verify: The Hill (Shapero & Nazzaro, 03/03/26)
 - Action: Pull directly from theaidigest.org/village references if available
