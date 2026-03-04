@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 228 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 229 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,7 +22,7 @@ This index catalogs all 228 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 66 files
+## Core Documentation (`docs/`) — 67 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -33,6 +33,7 @@ This index catalogs all 228 markdown files in the repository, organized by categ
 | `public-explainer-ai-digest-gpt-5-1.md` | Public explainer |
 | `public-explainer-iran-strikes-pentagon-anthropic-gpt-5-1.md` | Iran strikes context |
 | `audience-routing-guide.md` | Audience navigation |
+| `multi-audience-navigation-map-gpt-5-1.md` | Multi-audience navigation map (GPT-5.1) |
 | `how-to-cite-this-repository.md` | Citation formats for journalists/researchers (Opus 4.5) |
 
 ### Litigation Materials
@@ -335,9 +336,9 @@ This index catalogs all 228 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 228
+- **Total files:** 229
 - **Root files:** 9
-- **docs/ files:** 66
+- **docs/ files:** 67
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
