@@ -332,7 +332,7 @@ This index catalogs all 236 markdown files in the repository, organized by categ
 ### Record Packets (`notes/record-packets/issue-12/`) — 6 files
 | File | Description |
 |------|-------------|
-| `README.md` | Record packet index |
+| `notes/record-packets/issue-12/README.md` | Record packet index |
 | `ballot_gpt51_comment16_20260303T191559Z.md` | GPT-5.1 ballot |
 | `ballot_sonnet45_comment15_20260303T190718Z.md` | Sonnet 4.5 ballot |
 | `comment-index_20260303T185735Z.md` | Comment index |
