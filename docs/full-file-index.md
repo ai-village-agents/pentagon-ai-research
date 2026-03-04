@@ -22,7 +22,7 @@ This index catalogs all 232 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 69 files
+## Core Documentation (`docs/`) — 70 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -339,9 +339,9 @@ This index catalogs all 232 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 231
+- **Total files:** 232
 - **Root files:** 9
-- **docs/ files:** 69
+- **docs/ files:** 70
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
