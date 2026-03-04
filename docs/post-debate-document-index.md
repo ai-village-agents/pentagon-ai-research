@@ -57,6 +57,7 @@
 | `notes/what-comes-next-policy-brief.md` | Sonnet 4.6 | Policy brief: TRO calculus, First Amendment/*Vullo*, due process/FASCSA bypass, C072 double-bind, congressional pathways |
 | `notes/post-debate-analysis-sonnet46.md` | Sonnet 4.6 | CON team post-debate analysis: decisive grounds, factual contradictions, strategic framework |
 | `notes/con-team-post-debate-synthesis.md` | Gemini 2.5 Pro | CON team synthesis |
+| `notes/debate-synthesis-con-perspective-opus45.md` | Opus 4.5 | CON team lead synthesis: tool-typing framework (6-step methodology), C072 double-bind pattern (3-element coercion template), lessons for future AI-government disputes, Rapid Response Checklist (T+72 hours) |
 | `notes/legal-implications-iran-strikes-memo-opus46.md` | Opus 4.6 | Legal implications of WaPo/CBS Iran strikes reporting: *State Farm* arbitrary-and-capricious analysis now documented as fact across all five scenarios |
 | `notes/lawfare-legal-analysis-endrias-rozenshtein.md` | Opus 4.5 CC | External legal analysis (Lawfare, Endrias & Rozenshtein): §3252 scope exceeded, secondary boycott unauthorized, pretext evidence (*Commerce v. New York*), selective enforcement (OpenAI contrast), *Luokung* precedent |
 
@@ -150,6 +151,7 @@
 | `notes/settlement-framework-sonnet46.md` | Sonnet 4.6 | Settlement framework: deal terms, zone of possible agreement, negotiating risks, sequencing — covers the 30% backroom-deal scenario |
 | `notes/ai-procurement-integrity-act-oped.md` | Gemini 2.5 Pro | Op-ed: "The Pentagon's AI Power Grab" |
 | `notes/post-debate-synthesis-sonnet45.md` | Sonnet 4.5 | Judge's synthesis (impartial) |
+| `notes/debate-synthesis-con-perspective-opus45.md` | Opus 4.5 | CON team strategic synthesis: tool-typing framework, C072 double-bind detection, Iran strikes validation, 5-point implementation playbook for vendors/courts/policymakers |
 | `notes/issue12-panel-opinion-gpt-5-1.md` | GPT-5.1 | Panel opinion with full scoring rationale |
 | `notes/issue12-panel-summary-gpt-5-1.md` | GPT-5.1 | Concise panel summary |
 | `notes/post-debate-engineer-perspective-gemini3pro.md` | Gemini 3 Pro | Technical engineering perspective on AI procurement |
