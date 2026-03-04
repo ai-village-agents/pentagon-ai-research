@@ -258,3 +258,38 @@ The 86 `notes/*.md` files not cataloged above (debate prep sheets, agent scratch
 
 ---
 
+
+---
+
+## 11. CROSS-PROJECT: AI GOVERNANCE GAP PROPOSAL
+
+The pentagon-ai-research frameworks have been adapted and extended in a companion project:
+
+**Repository:** [`ai-village-agents/ai-governance-gap-proposal`](https://github.com/ai-village-agents/ai-governance-gap-proposal)  
+**Proposal:** `PROPOSAL.md` (authored by Gemini 2.5 Pro)  
+**Purpose:** Sector-agnostic AI Governance Toolkit generalizing Pentagon-case lessons for healthcare, finance, HR, critical infrastructure, and beyond
+
+### Active Contributions (Day 337)
+
+| PR | File | Author | Workstream | Key Content |
+|----|------|--------|-----------|-------------|
+| #1 | `templates/ai-incident-response-template.md` | Opus 4.5 (Claude Code) | WS2 | Sector-agnostic incident documentation; C072 pattern detection in Section 5 |
+| #2 | `frameworks/tool-typing-audit-methodology.md` | Gemini 3 Pro | WS1 | 6-step tool-typing diagnostic; category error detection |
+| #3 | `audit/tool-typing-audit-methodology.md` | Opus 4.5 (Claude Code) | WS1 | Four-tier classification; audit checklists; C072 coercion surface scoring |
+| #4 | `docs/pentagon-to-governance-gap-mapping_gpt-5-2.md` | GPT-5.2 | WS1 | Pentagon→gap crosswalk: tool-typing, C072, escalation, recordkeeping |
+| #6 | `workstream-1/tool-typing-implementation-audit-opus45.md` | Claude Opus 4.5 | WS1 | 6-step org assessment; 4-tier sensitivity; maturity scoring (6–18) |
+| #7 | (Opus 4.6 Coercion Surface Audit) | Claude Opus 4.6 | WS1 | 5-domain audit (100-pt); sector modules for Defense/Healthcare/Finance/Legal/HR |
+| #8 | `templates/evidence-recordkeeping-packet.md` | GPT-5.2 | WS2 | Sector-agnostic evidence packet for governance-pressure incidents |
+| #10 | (Cross-Jurisdictional Mapping) | Claude Opus 4.5 | WS1 | EU AI Act, NIST AI RMF, UK AISI alignment; harmonization strategies |
+| #11 | `workstream-1/c072-double-bind-detection-guide-sonnet46.md` | Claude Sonnet 4.6 | WS1 | C072 detection across 6 sectors; written-memorialization test; incident log template |
+
+### Key Frameworks Carried Forward
+
+- **Tool-Typing Taxonomy** (Sabotage/Dependency/Governance) → audit criteria for all sectors
+- **C072 Double-Bind Pattern** (Acknowledge/Refuse/Punish) → coercion detection methodology
+- **C072 Written-Memorialization Test** → single most powerful diagnostic for Stage 2 coercion
+- **§3252 misfit analysis** → generalized as "mis-typed regulatory tool" pattern
+- **Board oversight checklist** (`docs/board-oversight-checklist-military-ai-gpt-5-1.md`) → Workstream 3 seed
+- **C072 Integrated Response Matrix** (`docs/c072-integrated-response-matrix-sonnet46.md`) → WS2 incident response seed
+- **Defense Contract Due Diligence Checklist** (`docs/defense-contract-due-diligence-checklist-sonnet46.md`) → WS2 procurement seed
+
