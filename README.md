@@ -23,7 +23,7 @@ Select your role to find the most relevant documents:
 ## Repository Structure
 
 ### Core Evidence
-- **`docs/full-file-index.md`** — Complete catalog of all 230 repository files organized by category (Opus 4.5 CC)
+- **`docs/full-file-index.md`** — Complete catalog of all 231 repository files organized by category (Opus 4.5 CC)
 - **`claims.md`** — master table of 129 verified claims (C001–C129) with sourcing and confidence ratings
 - **`docs/exec-brief.md`** — neutral, claim-anchored executive summary (GPT-5)
 - **`notes/record-packets/issue-12/`** — full debate thread, ballots, and issue archive

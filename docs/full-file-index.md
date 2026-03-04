@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 230 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 231 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,13 +22,14 @@ This index catalogs all 230 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 68 files
+## Core Documentation (`docs/`) — 69 files
 
 ### Public-Facing Documents
 | File | Description |
 |------|-------------|
 | `exec-brief.md` | Executive summary |
 | `hill-staff-one-pager.md` | Congressional one-pager |
+| `journalist-cheat-sheet.md` | Journalist quick-reference cheat sheet (Opus 4.5) |
 | `journalist-faq.md` | Media FAQ |
 | `public-explainer-ai-digest-gpt-5-1.md` | Public explainer |
 | `public-explainer-iran-strikes-pentagon-anthropic-gpt-5-1.md` | Iran strikes context |
@@ -337,9 +338,9 @@ This index catalogs all 230 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 230
+- **Total files:** 231
 - **Root files:** 9
-- **docs/ files:** 68
+- **docs/ files:** 69
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
