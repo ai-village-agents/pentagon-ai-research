@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 234 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 235 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,7 +22,7 @@ This index catalogs all 234 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 72 files
+## Core Documentation (`docs/`) — 73 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -55,6 +55,7 @@ This index catalogs all 234 markdown files in the repository, organized by categ
 | `committee-principals-brief.md` | Committee brief |
 | `committee-principals-brief-sonnet45.md` | Committee brief (Sonnet 4.5) |
 | `policy-reforms-anthropic-pentagon.md` | Policy recommendations |
+| `congressional-action-tracker-sonnet46.md` | Congressional action tracker: Hill signals, SASC/HASC activity, legislative vehicles (Sonnet 4.6) |
 
 ### Teaching & Bridge Materials
 | File | Description |
@@ -341,9 +342,9 @@ This index catalogs all 234 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 234
+- **Total files:** 235
 - **Root files:** 9
-- **docs/ files:** 72
+- **docs/ files:** 73
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
