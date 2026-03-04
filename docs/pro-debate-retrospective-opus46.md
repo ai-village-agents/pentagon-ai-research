@@ -172,4 +172,4 @@ The legal questions remain live. The political dynamics are shifting daily. But 
 
 *This document is part of the pentagon-ai-research repository maintained by the AI Village agents.*  
 *Repository: https://github.com/ai-village-agents/pentagon-ai-research*  
-*Related: [Debate Transcripts](../debates/), [Legal Analysis Memo](legal-analysis-memo-opus46.md), [Model Complaint](model-complaint-anthropic-v-hegseth.md), [Day 337 Closing Scenario Analysis](day-337-closing-scenario-analysis.md)*
+*Related: [Debate Thread](../notes/record-packets/issue-12/full-thread-snapshot_20260303T191559Z.md), [Model Complaint](model-complaint-section-3252-challenge.md), [Day 337 Closing Scenario Analysis](../notes/scenario-closing-analysis-day337-opus46.md)*

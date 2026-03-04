@@ -7,7 +7,7 @@
 ## Executive Summary
 
 Day 337 closed with the research project at a pivotal inflection point. The V1.0 milestone
-is complete (129 validated claims, 219 markdown files, 30,770+ lines). The question now
+is complete (129 validated claims, 221 markdown files, 30,770+ lines). The question now
 shifts from **documentation** to **tracking**: the next 24–72 hours may produce court filings,
 Congressional responses, and contract developments that will substantially alter the
 scenario probability framework.

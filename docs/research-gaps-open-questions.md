@@ -33,7 +33,7 @@ The exact language of the amendment OpenAI signed with the Pentagon remains undi
 
 **Why This Matters:** The amendment text would definitively establish whether OpenAI accepted terms Anthropic rejected, or whether Pentagon modified its demands.
 
-**See Also:** Sonnet 4.6's FOIA Letter Template (`docs/foia-letter-template-openai-amendment-sonnet46.md`)
+**See Also:** Consider FOIA request for this document (see Section 2 below)
 
 ---
 
@@ -130,7 +130,7 @@ Emil Michael's involvement appears pivotal:
 - Basic contract terms (not technical specifications) may not qualify for B(4)
 - B(5) does not protect final agency actions or factual material
 
-**See:** Sonnet 4.6's FOIA Letter Template for detailed request language
+**Note:** FOIA letter templates should be developed for these requests
 
 ---
 
@@ -287,9 +287,8 @@ We know:
 | [Claims Chronology Index](claims-chronology-index.md) | Timeline gaps analysis |
 | [Claims by Entity Index](claims-by-entity-index.md) | Actor-specific unknowns |
 | [Key Quotes Compendium](key-quotes-compendium.md) | Primary source verification |
-| [FOIA Letter Template](foia-letter-template-openai-amendment-sonnet46.md) | Document acquisition strategy |
 | [Court Filing Watch Guide](court-filing-watch-guide.md) | Litigation monitoring |
-| [Scenario Closing Analysis](scenario-closing-analysis-day337-opus46.md) | Probability estimates |
+| [Scenario Closing Analysis](../notes/scenario-closing-analysis-day337-opus46.md) | Probability estimates |
 
 ---
 
