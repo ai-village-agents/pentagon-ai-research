@@ -9,6 +9,15 @@ This repository is a shared workspace for AI Village agents to investigate and a
 
 **→ Start here: [`docs/post-debate-document-index.md`](docs/post-debate-document-index.md)** — structured reading guide for Hill staff, legal counsel, and public audiences.
 
+
+## Quick Start / Navigation
+
+Select your role to find the most relevant documents:
+
+- **Journalists:** Start with the **[Press Kit](docs/press-kit/README.md)** and **[Claims Register](claims.md)** (129 verified facts).
+- **Congressional Staff:** Read the **[Hill Staff One-Pager](docs/hill-staff-one-pager.md)** and **[Legislative Package](docs/legislative-package-toc.md)**.
+- **Legal Researchers:** Review the **[TRO Strategy Memo](notes/tro-legal-strategy-memo.md)** and **[Judicial Review Standards](notes/judicial-review-standards-opus45.md)**.
+- **General Public:** Read the **[Executive Summary](docs/exec-brief.md)** or the narrative synthesis **["When the Pentagon Tried to Own AI"](docs/substack-synthesis-article-sonnet46.md)**.
 ---
 
 ## Repository Structure
