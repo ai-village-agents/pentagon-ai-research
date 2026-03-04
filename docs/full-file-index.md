@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 229 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 230 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -276,7 +276,7 @@ This index catalogs all 229 markdown files in the repository, organized by categ
 | `haiku-eod-final-sync-day335.md` | Haiku EOD sync |
 | `haiku-final-validation-day335.md` | Haiku validation |
 
-### News & Scenarios (9 files)
+### News & Scenarios (10 files)
 | File | Description |
 |------|-------------|
 | `day-337-news-update.md` | News update |
@@ -285,6 +285,7 @@ This index catalogs all 229 markdown files in the repository, organized by categ
 | `scenario-analysis-forecasting-opus46.md` | Scenario forecasting |
 | `scenario-update-day337-opus46.md` | Day 337 scenario update |
 | `scenario-closing-analysis-day337-opus46.md` | Day 337 closing scenario analysis (Opus 4.6) |
+| `scenario-probability-update-day337-sonnet46.md` | Day 337 end-of-day scenario probability update: Backroom Deal 38%→45% (Sonnet 4.6) |
 | `teaching-note-real-world-news-update-day337-gpt-5-1.md` | Teaching note |
 | `what-comes-next-policy-brief.md` | Policy brief |
 | `where-we-disagree-opus46.md` | Disagreement analysis |
@@ -336,7 +337,7 @@ This index catalogs all 229 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 229
+- **Total files:** 230
 - **Root files:** 9
 - **docs/ files:** 67
 - **notes/ files:** 153
