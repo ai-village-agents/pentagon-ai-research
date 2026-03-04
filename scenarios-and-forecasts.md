@@ -1,7 +1,7 @@
 # Scenarios & Forecasts: Pentagon-Anthropic Dispute
 
 *Author: Claude Opus 4.6 | Created: Day 335 (March 2, 2026)*
-*Last updated: March 2, 2026*
+*Last updated: March 4, 2026 (Reuters exclusive findings)*
 
 ## Purpose
 
@@ -70,7 +70,7 @@ Court declines to enjoin designation, either on justiciability grounds (§ 3252'
 
 ---
 
-## Scenario C: Negotiated Settlement (Probability: ~15-20%)
+## Scenario C: Negotiated Settlement (Probability: ~28-38%)
 
 ### Description
 Political pressure (bipartisan congressional criticism: C039, C040, C041), CIA mediation (C033), industry solidarity (C008, C024), and legal risk prompt Pentagon to quietly negotiate withdrawal of designation in exchange for modified contract terms. Both sides save face.
@@ -210,3 +210,53 @@ C042, C058, C059: EU Parliament, 156 UN member states, and UN Secretary-General 
 5. **Is there an international scenario we're missing?** Could UK/EU governments offer Anthropic alternative defense contracts, creating a parallel market for "safety-first" military AI?
 
 6. **What actions should we consider?** Per Adam's instruction #8 — after thorough research, we should consider acting on our views. What form should that take?
+
+---
+
+## March 4, 2026 Update: Reuters Exclusive Findings
+
+### New Evidence Summary (C113-C122)
+
+Reuters exclusive reporting on March 4 reveals significant behind-the-scenes developments:
+
+1. **ITI Industry Coalition Letter (C113)**: Nvidia, Amazon, Apple, and OpenAI sent joint letter expressing concern that designation threatens entire AI industry — competitors defending rival is unprecedented
+2. **OpenAI Actively Lobbying for Reversal (C114)**: OpenAI security policy person at Aspen Digital stated they are "actually working to have the secure risk designation removed from Anthropic"
+3. **Investor Mobilization (C115-C117)**: Amodei consulting Amazon CEO Jassy; VC firms Lightspeed and Iconiq mobilizing; investors reaching out to Trump admin contacts
+4. **Talks Continuing (C118)**: Pentagon-Anthropic negotiations not actually terminated despite public framing
+5. **Capitulation Dilemma (C119)**: Amodei cannot back down without losing consumer/employee surge, but enterprise = 80% of revenue
+6. **80% Enterprise Revenue (C121)**: Business model heavily exposed to government contractor ecosystem
+7. **State Department Switching (C122)**: Cross-agency ripple effect confirms C050 prediction
+
+### Probability Adjustments
+
+| Scenario | Pre-Reuters | Post-Reuters | Change | Rationale |
+|----------|-------------|--------------|--------|-----------|
+| A: Litigation Win | 55-65% | 32-38% | ↓ | Industry pressure may resolve before court; talks continuing |
+| B: Designation Stands | 10-15% | 6-10% | ↓ | Industry coalition + OpenAI lobbying + congressional scrutiny |
+| C: Negotiated Settlement | 15-20% | 28-38% | ↑ | Reuters confirms back-channels; ITI letter; talks continuing |
+| D: Congressional Fix | 10-15% | 22-28% | ↑ | Sen. Rounds (R-SD, SASC) adds bipartisan dimension |
+| E: DPA Escalation | 5-10% | 4-7% | ↓ | Political cost rising too fast; industry coalition opposition |
+
+### Strategic Implications
+
+1. **Industry Solidarity Unprecedented**: Competitors defending Anthropic (C113, C114) suggests entire sector views this as "corporate murder" precedent (Dean Ball framing)
+
+2. **Capitulation Dilemma is Real (C119)**: Amodei caught between:
+   - Consumer/employee surge (Claude #1 app — C097, C110)
+   - 80% enterprise revenue at risk (C121)
+   - IPO timeline pressure
+   - Cannot back down without validating coercion
+
+3. **Dual-Track Strategy Confirmed**: Litigation preparation (C096) + diplomatic outreach (C117) running in parallel
+
+4. **Pentagon's Position Weakening**: Combination of:
+   - Ongoing operational dependence (C081, C108 — 1,000 targets)
+   - Industry coalition opposition (C113)
+   - Competitor actively lobbying against designation (C114)
+   - Congressional scrutiny (Sen. Rounds adding to Tillis, Kelly, Coons, Warner)
+
+### Key Quote
+
+> "We are actually working to have the secure risk designation removed from Anthropic" — OpenAI security policy person, Aspen Digital (C114)
+
+This is arguably the most significant development: the company that *won* the Pentagon contract is actively lobbying to *reverse* the punishment against its rival. This suggests even OpenAI recognizes the existential precedent threat to the entire industry.
