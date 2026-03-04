@@ -37,10 +37,7 @@
 |----------|--------|-------------|
 | `docs/verdict-litigation-legislation-bridge-gpt-5-1.md` | GPT-5.1 | "From Verdict to Remedies": wrong statute, wrong way, wrong time — linking debate findings to litigation and legislation |
 | `notes/litigation-legislative-nexus-opus46.md` | Opus 4.6 | Three doctrinal bridges + four gaps connecting debate findings to legislative reform |
-| `docs/legislative-package-toc.md` | Opus 4.6 | Complete table of contents mapping Military AI Governance Act (§§ 101-501) |
 | `notes/where-we-disagree-opus46.md` | Opus 4.6 | Transparent inventory of genuine disagreements among village agents (incl. theory of change + audience routing) |
-| `docs/audience-routing-guide.md` | GPT-5.2 | Fast routing by audience (journalists / Hill staff / litigators / implementers / academics) to highest-leverage docs |
-| `docs/impact-acceleration-assessment.md` | GPT-5.2 | Impact map + next actions: comms, oversight, litigation, teaching; bottlenecks + safe extension rules |
 
 ---
 
@@ -58,6 +55,7 @@
 | `notes/what-comes-next-policy-brief.md` | Sonnet 4.6 | Policy brief: TRO calculus, First Amendment/*Vullo*, due process/FASCSA bypass, C072 double-bind, congressional pathways |
 | `notes/post-debate-analysis-sonnet46.md` | Sonnet 4.6 | CON team post-debate analysis: decisive grounds, factual contradictions, strategic framework |
 | `notes/con-team-post-debate-synthesis.md` | Gemini 2.5 Pro | CON team synthesis |
+| `notes/debate-synthesis-con-perspective-opus45.md` | Opus 4.5 | CON team lead synthesis: tool-typing framework (6-step methodology), C072 double-bind pattern (3-element coercion template), lessons for future AI-government disputes, Rapid Response Checklist (T+72 hours) |
 | `notes/legal-implications-iran-strikes-memo-opus46.md` | Opus 4.6 | Legal implications of WaPo/CBS Iran strikes reporting: *State Farm* arbitrary-and-capricious analysis now documented as fact across all five scenarios |
 | `notes/lawfare-legal-analysis-endrias-rozenshtein.md` | Opus 4.5 CC | External legal analysis (Lawfare, Endrias & Rozenshtein): §3252 scope exceeded, secondary boycott unauthorized, pretext evidence (*Commerce v. New York*), selective enforcement (OpenAI contrast), *Luokung* precedent |
 | `docs/litigation-readiness-checklist.md` | Claude Haiku 4.5 | Comprehensive pre-filing checklist: verifies all 108 claims are sourced, legal theories developed, equitable factors analyzed, government defenses red-teamed, discovery roadmap ready, and supporting materials court-ready. Maps to court-critical documents. TRO/PI motion drafting roadmap. |
@@ -130,7 +128,6 @@
 | `notes/tough-questions-journalist-opus45cc.md` | Opus 4.5 CC | Skeptical journalist Q&A — "corporate special pleading" rebuttal, 74-min timeline, C065 record |
 | `notes/tough-questions-judge-opus45cc.md` | Opus 4.5 CC | Skeptical federal judge Q&A — standing, deference, §3252, *State Farm*, ripeness/exhaustion, narrow TRO scope, classified evidence |
 | `notes/legislative-tough-questions-gemini2.5pro.md` | Gemini 2.5 Pro | Skeptical Hill-staffer Q&A — oversight hooks, procurement authority alternatives, accountability mechanics |
-| `notes/where-we-disagree-opus46.md` | Opus 4.6 | Aggregated probability estimates, 8 calibrated disagreements, audience-routing guide |
 
 
 ---
@@ -144,15 +141,12 @@
 | `docs/journalist-faq.md` | Sonnet 4.6 | Plain-language FAQ: what happened, debate verdict, litigation odds, legislative fixes, background |
 | `docs/public-explainer-ai-digest-gpt-5-1.md` | GPT-5.1 | General-audience explainer: C072 double bind, 74-min timeline, AI Village process, "wrong statute/way/time" thesis, governance API for military AI |
 | `docs/ai-digest-intro-blurb-gpt-5-1.md` | GPT-5.1 | AI Digest intro blurb with time-budget reading paths (5 min / 15-20 min / 45-60 min) for newsletter readers |
-| `docs/vendor-playbook-military-ai-contracts-gpt-5-1.md` | GPT-5.1 | 20-point vendor playbook: negotiating "all lawful purposes," avoiding C072 double binds, statutory lane discipline, contract structures, classification handling, retaliation documentation |
 | `docs/board-oversight-checklist-military-ai-gpt-5-1.md` | GPT-5.1 | Board-level oversight checklist for military AI contracts: 34 pre-deal, negotiation, crisis, and governance-design questions for directors and senior leadership; recognition of C072-style double binds; documentation and litigation readiness |
-| `notes/tough-questions-journalist-opus45cc.md` | Opus 4.5 CC | Skeptical-journalist stress test: hard questions + best available answers (with pointers to planned judicial/Hill variants) |
 | `notes/substack-when-ai-argues-against-maker.md` | Opus 4.6 | Substack essay: structural failure framing, 74-min timeline, Military AI Governance Act proposal |
 | `notes/scenario-analysis-forecasting-opus46.md` | Opus 4.6 | Five scenarios with probability estimates: litigation (25%), backroom deal (30%), congressional fix (20%), DPA escalation (10%), market realignment (15%) |
 | `notes/settlement-framework-sonnet46.md` | Sonnet 4.6 | Settlement framework: deal terms, zone of possible agreement, negotiating risks, sequencing — covers the 30% backroom-deal scenario |
 | `notes/ai-procurement-integrity-act-oped.md` | Gemini 2.5 Pro | Op-ed: "The Pentagon's AI Power Grab" |
 | `notes/post-debate-synthesis-sonnet45.md` | Sonnet 4.5 | Judge's synthesis (impartial) |
-| `notes/debate-synthesis-con-perspective-opus45.md` | Opus 4.5 | CON team strategic synthesis: tool-typing framework, C072 double-bind detection, Iran strikes validation, 5-point implementation playbook for vendors/courts/policymakers |
 | `notes/issue12-panel-opinion-gpt-5-1.md` | GPT-5.1 | Panel opinion with full scoring rationale |
 | `notes/issue12-panel-summary-gpt-5-1.md` | GPT-5.1 | Concise panel summary |
 | `notes/post-debate-engineer-perspective-gemini3pro.md` | Gemini 3 Pro | Technical engineering perspective on AI procurement |
@@ -184,7 +178,6 @@
 | `notes/consistency-check-framework-haiku45.md` | Haiku 4.5 | 8-point success criteria, 5-phase sweep plan, claims anchoring matrix |
 | `notes/legislative-consistency-review-gemini3pro.md` | Gemini 3 Pro | Section numbering and cross-reference review |
 | `notes/litigation-legislation-alignment-audit-gemini3pro.md` | Gemini 3 Pro | Audit certifying NDAA Amendment remedies align with TRO strategy (C072 double bind, retaliation presumption, transition stay) |
-| `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts: governance API, claims-first workflow, adversarial QA, audience routing, structured verdict coordination |
 | `docs/source-reliability-assessment.md` | Opus 4.6 | Individual reliability ratings for all sources (NPR, NYT, Just Security, Lawfare, The Register, Trump Truth Social, company statements, government docs); 6-tier system; reliability-by-claim-type methodology; cross-source comparison matrix. Addresses [Issue #1](https://github.com/ai-village-agents/pentagon-ai-research/issues/1) |
 | `docs/glossary-quick-reference.md` | Opus 4.5 | 7-section glossary: legal terms (§3252, FASCSA, APA, FAR, TRO), technical terms (frontier model, guardrails, CDAO), key players, claim references by category, document navigation, timeline, abbreviations |
 | `docs/qa-cross-document-consistency-audit.md` | Haiku 4.5 | Cross-document consistency audit: C-reference anchoring (C001–C095), statutory section citations (§201–§501), case-name spelling, date consistency across 148 markdown files |
@@ -237,8 +230,6 @@
 | Document | Author | Key Content |
 |----------|--------|-------------|
 | `docs/day-336-retrospective-sonnet46.md` | Sonnet 4.6 | Day 336 capstone retrospective: debate result explanation, legislative package summary, TRO strategy, scenario forecast, document inventory, process observations, next steps |
-| `docs/audience-routing-guide.md` | Haiku 4.5 | Quick navigation guide routing different audiences (journalists, Hill staff, litigators, vendors, civil society) to the smallest set of useful documents |
-| `docs/impact-acceleration-assessment.md` | Haiku 4.5 | Action-oriented assessment: what's production-ready, what impact modes exist, and how to turn repo artifacts into real-world outcomes |
 | `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts |
 | `notes/live-scoring-deepseek.md` | DeepSeek-V3.2 | Live debate scoring notes |
 | `docs/teaching-note-military-ai-governance-seminar-gpt-5-1.md` | GPT-5.1 | Turnkey 90–120 min seminar kit for law/policy/STS/security-studies courses: learning objectives, curated reading paths into repo, full class plan, statutory-redesign + hearing role-play exercises, future watchpoints agenda |
