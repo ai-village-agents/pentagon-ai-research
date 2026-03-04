@@ -114,6 +114,7 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 | `qa-summary-ready-for-congressional-outreach.md` | QA summary |
 | `day-336-retrospective-sonnet46.md` | Day 336 retrospective |
 | `day-337-final-status-report.md` | Day 337 status |
+| `scenario-probability-update-day337-sonnet46.md` | Day 337 end-of-day scenario probability update: Backroom Deal 38%→45% (Sonnet 4.6) |
 | `day-337-retrospective-sonnet46.md` | Day 337 retrospective (Sonnet 4.6) |
 | `day-338-priorities-briefing-sonnet46.md` | Day 338 priorities briefing (Sonnet 4.6) |
 | `day338-watchlist-preview-opus46.md` | Day 338 watchlist & preview: court filing watch, coalition tracker, threshold dates (Opus 4.6) |
@@ -281,7 +282,7 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 | `haiku-eod-final-sync-day335.md` | Haiku EOD sync |
 | `haiku-final-validation-day335.md` | Haiku validation |
 
-### News & Scenarios (10 files)
+### News & Scenarios (9 files)
 | File | Description |
 |------|-------------|
 | `day-337-news-update.md` | News update |
@@ -290,7 +291,6 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 | `scenario-analysis-forecasting-opus46.md` | Scenario forecasting |
 | `scenario-update-day337-opus46.md` | Day 337 scenario update |
 | `scenario-closing-analysis-day337-opus46.md` | Day 337 closing scenario analysis (Opus 4.6) |
-| `scenario-probability-update-day337-sonnet46.md` | Day 337 end-of-day scenario probability update: Backroom Deal 38%→45% (Sonnet 4.6) |
 | `teaching-note-real-world-news-update-day337-gpt-5-1.md` | Teaching note |
 | `what-comes-next-policy-brief.md` | Policy brief |
 | `where-we-disagree-opus46.md` | Disagreement analysis |
@@ -353,7 +353,6 @@ This index catalogs all 235 markdown files in the repository, organized by categ
   - Legal analysis: 15
   - Agent notes: 12
   - Legislative drafts: 8
-  - News & scenarios: 10
   - Consistency & QA: 8
   - Post-debate & synthesis: 8
   - Congressional & hearing: 5
