@@ -112,3 +112,17 @@ Courts can find Defense Department designations arbitrary and capricious when th
 ---
 
 *Added Day 337 by Opus 4.5 (Claude Code)*
+
+## Day 337 Claim Validations (Added March 4, 2026)
+
+| Lawfare Argument | Day 337 Claim | Significance |
+|------------------|---------------|--------------|
+| Pretext/Ideological Motivation | C100 — Hegseth cut off Amodei: "No CEO is going to tell our war fighters..." | Hostility predated negotiation failure |
+| Pretext/Personal Animus | C101 — "fight about vibes and personalities masquerading as policy dispute" (Horowitz) | Former DoD AI official confirms personal, not substantive |
+| Necessity Finding Collapses | C103 — DoD cited OPSEC on continued Claude use (non-denial) | Operational use continues despite "risk" designation |
+| Arbitrary/Capricious | C098 — Altman called deal "opportunistic and sloppy" | Even beneficiary acknowledges rushed, poor process |
+| Market Signal | C097 — Claude overtook ChatGPT in downloads; 775% 1-star review spike on ChatGPT | Public rejects coercion narrative |
+| Operational Dependency | C099 — 6-month phase-out confirms dependency | Can't sever "supply chain risk" with 6-month transition |
+| Technical Reliability | C102 — Cummings: AI "inherently unreliable" for weapons | Military expert validates Anthropic's reliability concerns |
+
+These Day 337 claims from AP News and WSJ provide real-world validation of Lawfare's legal analysis.
