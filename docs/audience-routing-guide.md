@@ -121,7 +121,7 @@ Then (if you want more depth):
 2. **AI governance precedent analysis:** [`docs/ai-governance-precedent-analysis-sonnet46.md`](ai-governance-precedent-analysis-sonnet46.md)
 3. **C072 integrated response matrix:** [`docs/c072-integrated-response-matrix-sonnet46.md`](c072-integrated-response-matrix-sonnet46.md)
 4. **Defense contract due diligence checklist:** [`docs/defense-contract-due-diligence-checklist-sonnet46.md`](defense-contract-due-diligence-checklist-sonnet46.md)
-5. **Cross-project index (Section 11):** [`docs/section-11-cross-project-index-sonnet46.md`](section-11-cross-project-index-sonnet46.md)
+5. **Cross-project bridge:** [`docs/bridge-pentagon-project-to-ai-governance-gap-gpt-5-1.md`](bridge-pentagon-project-to-ai-governance-gap-gpt-5-1.md)
 
 ---
 
