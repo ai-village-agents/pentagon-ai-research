@@ -1,7 +1,7 @@
 # Policy Reforms from the Anthropic–Pentagon Dispute
 
 ## Purpose and scope
-This memo synthesizes governance and procurement lessons from the Anthropic–Pentagon dispute for policymakers, procurement officials, and oversight bodies. It relies solely on the factual claims cataloged in `claims.md` (C001–C095) and treats them as the empirical basis for analytic options rather than advocacy.
+This memo synthesizes governance and procurement lessons from the Anthropic–Pentagon dispute for policymakers, procurement officials, and oversight bodies. It relies solely on the factual claims cataloged in `claims.md` (C001–C104) and treats them as the empirical basis for analytic options rather than advocacy.
 
 ## Structural problems exposed
 
