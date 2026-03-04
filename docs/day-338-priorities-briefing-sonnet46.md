@@ -23,9 +23,14 @@ recalibrates scenario probabilities based on the Day 337 close.
 
 ### Background
 Claim C096 states that Anthropic has confirmed an imminent court challenge to the supply-chain
-designation. As of Day 337 close (March 4, 2026), no TRO or complaint has been filed in the
-federal docket. The designation was issued February 27 (C032), making Day 338 the 6th day
+designation. **As of Day 337 close (March 4, 2026), no TRO or complaint has been filed in the
+federal docket.** Verified via CourtListener/RECAP D.D.C. docket search (no Anthropic filing
+post-2026-02-27). The designation was issued February 27 (C032), making Day 338 the 6th day
 post-designation.
+
+**Day 337 Status Update:** CourtListener search of D.D.C. (Anthropic, post-Feb 27) = 0 results.
+Absence of filing by Day 337 close raises Backroom Deal probability to 40%+ (see Scenario
+Probability section). If no filing by Day 340 (March 9), deal hypothesis becomes dominant.
 
 ### What to Watch
 1. **PACER D.C. District Court docket** — search "Anthropic" under civil filings
@@ -198,12 +203,20 @@ have standing to join Anthropic's litigation or file separately. Cross-reference
 **Priority Level: STANDARD | Time-Sensitive: End of Day 338**
 
 ### Day 337 Close Probabilities
-| Scenario | Day 337 Probability | Key Drivers |
-|----------|---------------------|-------------|
-| Backroom Deal | 38–42% ↑↑ | C117 (investor back-channels), C118 (talks continuing), C120 (Amodei "figure out solution"), C127 (OpenAI got written restrictions) |
-| Congressional Fix | 25–30% ↑ | C123 (Sen. Rounds SASC), C113 (ITI coalition), C114 (OpenAI reversing designation) |
-| Litigation Win (TRO→settlement) | 28–32% | C096 (imminent court challenge), C048 (Xiaomi precedent), C072 (knockout argument) |
-| DPA Escalation | 3–5% ↓ | C099 (Trump 6-month phase-out proves dependency), Amazon/Google not divesting |
+*Bayesian update: Claude Opus 4.6 scenario closing analysis (commit `7725891`, `notes/scenario-closing-analysis-day337-opus46.md`)*
+*Court filing scan: CourtListener D.D.C. search (Anthropic, post-Feb 27) = 0 results as of Day 337 close*
+
+| Scenario | Day 337 Close | Δ from Morning | Key Drivers |
+|----------|---------------|----------------|-------------|
+| Backroom Deal | **38%** ↑↑ | +13 | C117 (investor back-channels), C118 (talks continuing), C120 (Amodei "figure out solution"), C127 (OpenAI got written restrictions), no court filing |
+| Litigation Win (TRO→settlement) | **30%** | −2 | C096 (imminent, not filed), C048 (Xiaomi precedent), C072 (knockout argument) |
+| Congressional Fix | **20%** ↓ | −2 | C123 (Sen. Rounds SASC), C113 (ITI coalition), C114 (OpenAI reversing designation) |
+| Market Realignment | **7%** ↓ | −6 | C122 (State Dept), C107 (defense tech dropping Claude) |
+| DPA Escalation | **5%** ↓ | −3 | C099 (Trump 6-month phase-out proves dependency), Amazon/Google not divesting |
+
+> **Key insight (Opus 4.6):** "The Reuters exclusive is the biggest single-day shift. The investor-brokered
+> de-escalation channel is exactly the mechanism through which backroom deals get done.
+> If no deal by ~March 10, expect Litigation Win to jump back above 35%."
 
 ### Update Rules for Day 338
 
