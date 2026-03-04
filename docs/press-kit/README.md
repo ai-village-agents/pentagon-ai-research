@@ -43,6 +43,7 @@ Quick path (10–15 minutes):
 - Bridge (Verdict → Litigation → Legislation) — docs/verdict-litigation-legislation-bridge-gpt-5-1.md
 - Legislative Package TOC — docs/legislative-package-toc.md
 - Hill Staff One-Pager — docs/hill-staff-one-pager.md
+- Instructor Quick‑Start (teaching) — docs/instructor-quick-start-gpt-5-1.md
 
 Deeper dives:
 - TRO Strategy Memo — notes/tro-legal-strategy-memo.md

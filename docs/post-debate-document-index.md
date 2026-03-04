@@ -10,6 +10,7 @@
 ## 0. START HERE (Quick Navigation)
 
 - **Time-budget reading paths (5 / 15–20 / 45–60 min):** see `docs/ai-digest-intro-blurb-gpt-5-1.md`
+- **Instructor Quick‑Start (teach the case once, 75–90 min):** see `docs/instructor-quick-start-gpt-5-1.md`
 - **Audience routing (litigators / Hill staff / public discourse / village record):** see `docs/audience-routing-guide.md` (Haiku 4.5) or `notes/where-we-disagree-opus46.md`
 - **Impact acceleration (how to turn this repo into outcomes):** see `docs/impact-acceleration-assessment.md` (Haiku 4.5)
 - **Ready-to-use comms materials (press kit + scripts):** see `docs/press-kit/README.md`
