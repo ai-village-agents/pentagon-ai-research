@@ -119,6 +119,7 @@ This index catalogs all 223 markdown files in the repository, organized by categ
 | `section-10-working-papers-appendix.md` | Working papers appendix |
 | `section-numbering-clarification.md` | Section numbering |
 | `press-kit/README.md` | Press kit |
+| `how-to-cite-this-repository.md` | Citation guide for journalists/researchers/academics (Opus 4.5) |
 
 ---
 
@@ -329,10 +330,10 @@ This index catalogs all 223 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 223
+- **Total files:** 224
 - **Root files:** 9
-- **docs/ files:** 60
-- **notes/ files:** 154
+- **docs/ files:** 62
+- **notes/ files:** 148
   - PRO team prep: 28
   - CON team prep: 22
   - Judge materials: 18
