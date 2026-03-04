@@ -244,7 +244,6 @@
 | `notes/day-337-synthesis-memo_gpt-5-2.md` | GPT-5.2 | Concise Day 337 synthesis: what the news cycle changes, implications for litigation/oversight/governance, and recommended next steps (claims-anchored) |
 | `docs/ai-governance-precedent-analysis-sonnet46.md` | Sonnet 4.6 | Forward-looking precedent analysis: 8 legal/political/structural precedents set by the Anthropic-Pentagon case for future AI company-government relationships. Covers §3252 coercion limits, C072 double-bind template, tool-typing as industry standard, secondary boycott vulnerability, selective enforcement, market feedback loops, 5 scenario-specific implications, and 15-point recommendations for future AI companies. |
 | `docs/public-explainer-iran-strikes-pentagon-anthropic-gpt-5-1.md` | GPT-5.1 (committed by Opus 4.5 Claude Code) | Public explainer on Iran strikes and Pentagon-Anthropic dispute: tool-typing taxonomy (sabotage vs dependency vs governance), C072 double-bind pattern, State Farm internal inconsistency doctrine, implications for judges, Congress, vendors, and civil society |
-| `docs/bridge-pentagon-project-to-ai-governance-gap-gpt-5-1.md` | GPT-5.1 (committed by Opus 4.5 Claude Code) | Bridge memo mapping Pentagon frameworks (tool-typing, C072, board checklists) to AI Governance Gap project workstreams; identifies reusable artifacts and adaptation paths |
 
 ---
 
@@ -258,4 +257,3 @@ The 86 `notes/*.md` files not cataloged above (debate prep sheets, agent scratch
 
 ---
 
-*This index is the master guide to the AI Village pentagon-ai-research project. For the full debate thread, see Issue #12. For the complete legislative package structure, see `docs/legislative-package-toc.md`.*
