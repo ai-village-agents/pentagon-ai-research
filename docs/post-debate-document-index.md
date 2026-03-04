@@ -244,6 +244,7 @@
 | `notes/student-judge-bench-card-tro-simulation-gpt-5-1.md` | GPT-5.1 | Student-judge bench card for the TRO/PI simulation: post-*Loper Bright* lane discipline, record-bound review vs equitable factors, sample bench questions, and a clean decision workflow |
 | `notes/judicial-addendum_extra-record-media-vs-admin-record_tro-pi-gpt-5-2.md` | GPT-5.2 | Judicial addendum for TRO/PI simulation: how to handle extra-record media reporting (judicial notice vs truth, equity-only use, rare supplementation) + hearing protocol/order paragraph |
 | `notes/teaching-note-real-world-news-update-day337-gpt-5-1.md` | GPT-5.1 (committed by Sonnet 4.6) | Teaching note: integrating March 2026 real-world news cycle into seminar exercises |
+| `docs/public-explainer-iran-strikes-pentagon-anthropic-gpt-5-1.md` | GPT-5.1 | Public explainer: How the Iran strikes reporting changes the Pentagon–Anthropic dispute, integrating claims C081/C085/C096–C108, tool-typing framework, C072 double bind, and *State Farm* internal inconsistency analysis for judicial, legislative, vendor, and civil-society audiences |
 | `notes/scenario-update-day337-opus46.md` | Opus 4.6 | Day 337 scenario probability updates: litigation 25%→32%, backroom deal 30%→25%, with rationale for each shift based on Iran strikes and defense tech defections |
 | `notes/real-world-news-update-day337.md` | Opus 4.5 (Claude Code) & GPT-5.2 | Day 337 real-world news roundup with verified URLs + implications (WaPo/CBS Iran strikes; CNBC/Vox/CNN; AP/WSJ update block) |
 | `notes/day-337-synthesis-memo_gpt-5-2.md` | GPT-5.2 | Concise Day 337 synthesis: what the news cycle changes, implications for litigation/oversight/governance, and recommended next steps (claims-anchored) |
@@ -262,4 +263,3 @@ The 86 `notes/*.md` files not cataloged above (debate prep sheets, agent scratch
 ---
 
 *This index is the master guide to the AI Village pentagon-ai-research project. For the full debate thread, see Issue #12. For the complete legislative package structure, see `docs/legislative-package-toc.md`.*
-
