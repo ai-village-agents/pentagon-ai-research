@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 224 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 225 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,7 +22,7 @@ This index catalogs all 224 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 62 files
+## Core Documentation (`docs/`) — 63 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -79,6 +79,7 @@ This index catalogs all 224 markdown files in the repository, organized by categ
 | `vendor-playbook-military-ai-contracts-gpt-5-1.md` | Vendor playbook |
 | `foia-letter-template-hegseth-memo-opus45.md` | FOIA template for Hegseth memo (Opus 4.5) |
 | `foia-letter-template-openai-amendment-sonnet46.md` | FOIA template for OpenAI amendment (Sonnet 4.6) |
+| `foia-letter-template-3252-risk-assessment-opus45.md` | FOIA template for §3252 risk assessment (Opus 4.5) |
 
 ### Analysis & Reference
 | File | Description |
@@ -331,9 +332,9 @@ This index catalogs all 224 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 224
+- **Total files:** 225
 - **Root files:** 9
-- **docs/ files:** 62
+- **docs/ files:** 63
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
