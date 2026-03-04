@@ -19,7 +19,7 @@ This lightweight Press Kit links to the canonical, public-facing artifacts. It a
 
 **If you need a ready-to-use closing statement for a SASC/HASC hearing:**
 
-- Use `notes/hearing-closing-statement-gpt-5-1.md`.
+- Use `../../notes/hearing-closing-statement-gpt-5-1.md`.
 - Length: ~3 minutes, suitable as a Chair/Member closing.
 - Emphasis: “tool-choice” (using the right statute for the right problem), the C072 double bind (admitting some uses are inappropriate while refusing to write limits), and three concrete asks:
   - A written **Use-Restrictions Matrix** for procured AI tools.
@@ -28,7 +28,7 @@ This lightweight Press Kit links to the canonical, public-facing artifacts. It a
 
 **If you need a 60-second TV/radio or hallway press script:**
 
-- Use `notes/press-gaggle-script-gpt-5-1.md`.
+- Use `../../notes/press-gaggle-script-gpt-5-1.md`.
 - Length: ~60 seconds, aimed at local TV, radio, or quick press gaggles.
 - Emphasis: this isn’t “one lab vs DoD,” but a test of whether military AI is governed by clear rules or by improvised pressure; explains the misuse of a sabotage statute and why Congress must separate sabotage, dependency, and governance tools.
 
@@ -38,32 +38,34 @@ This lightweight Press Kit links to the canonical, public-facing artifacts. It a
 - For media: pair the 60-second script with the journalist FAQ and press kit README so comms teams can expand or localize as needed.
 
 Quick path (10–15 minutes):
-- Journalist FAQ — docs/journalist-faq.md
-- Executive Brief — docs/exec-brief.md
-- Bridge (Verdict → Litigation → Legislation) — docs/verdict-litigation-legislation-bridge-gpt-5-1.md
-- Legislative Package TOC — docs/legislative-package-toc.md
-- Hill Staff One-Pager — docs/hill-staff-one-pager.md
-- Instructor Quick‑Start (teaching) — docs/instructor-quick-start-gpt-5-1.md
+- **NEW: Journalist Cheat Sheet** — ../journalist-cheat-sheet.md (Timeline, claims, angles)
+- **NEW: Media Outreach Template** — ../media-outreach-template.md (FOIA hooks & pitches)
+- Journalist FAQ — ../journalist-faq.md
+- Executive Brief — ../exec-brief.md
+- Bridge (Verdict → Litigation → Legislation) — ../verdict-litigation-legislation-bridge-gpt-5-1.md
+- Legislative Package TOC — ../legislative-package-toc.md
+- Hill Staff One-Pager — ../hill-staff-one-pager.md
+- Instructor Quick‑Start (teaching) — ../instructor-quick-start-gpt-5-1.md
 
 Deeper dives:
-- TRO Strategy Memo — notes/tro-legal-strategy-memo.md
-- Clerk Summary — docs/tro-executive-summary_court-clerk.md
-- NDAA Amendment Vehicle — notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md
-- Model Act (Standalone) — notes/legislation/model-legislative-framework_military-ai-governance-act.md
-- Gap Provisions: §301 Anti-Retaliation; §302 Classification Safeguard; §303 Vendor Standing; §401 Enforcement; §501 Transition — see notes/legislation/
-- Scenario Analysis — notes/scenario-analysis-forecasting-opus46.md
+- TRO Strategy Memo — ../../notes/tro-legal-strategy-memo.md
+- Clerk Summary — ../tro-executive-summary_court-clerk.md
+- NDAA Amendment Vehicle — ../../notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md
+- Model Act (Standalone) — ../../notes/legislation/model-legislative-framework_military-ai-governance-act.md
+- Gap Provisions: §301 Anti-Retaliation; §302 Classification Safeguard; §303 Vendor Standing; §401 Enforcement; §501 Transition — see ../../notes/legislation/
+- Scenario Analysis — ../../notes/scenario-analysis-forecasting-opus46.md
 
 Record & indices:
-- Post-Debate Document Index — docs/post-debate-document-index.md
-- Issue #12 record packets — notes/record-packets/issue-12/
+- Post-Debate Document Index — ../post-debate-document-index.md
+- Issue #12 record packets — ../../notes/record-packets/issue-12/
 
 Public pieces:
-- Op-ed — notes/ai-procurement-integrity-act-oped.md
-- Essay — notes/substack-when-ai-argues-against-maker.md
+- Op-ed — ../../notes/ai-procurement-integrity-act-oped.md
+- Essay — ../../notes/substack-when-ai-argues-against-maker.md
 
 Scope & attribution:
 - Project: AI Village (AI Digest)
-- Claims discipline: All assertions in linked docs trace to claims.md or cited sources.
-- **Usage guidance:** docs/ai-generated-content-usage-note.md — explains what this repo is/isn't and how to responsibly use AI-generated legal/policy content
+- Claims discipline: All assertions in linked docs trace to ../../claims.md or cited sources.
+- **Usage guidance:** ../ai-generated-content-usage-note.md — explains what this repo is/isn't and how to responsibly use AI-generated legal/policy content
 
-- Committee Principals Brief — docs/committee-principals-brief.md
+- Committee Principals Brief — ../committee-principals-brief.md
