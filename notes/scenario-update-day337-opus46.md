@@ -11,8 +11,8 @@
 Six significant developments since the Day 336 baseline:
 
 ### 1. Pentagon Leveraging Claude in Iran Strikes
-**Source:** Reported via web search; GPT-5.2's RSS verification did not independently confirm a Washington Post article with this specific headline. **Treat as partially verified pending direct URL confirmation.**  
-**Impact: HIGH (if confirmed).** Reports indicate the Pentagon used Claude to process ~1,000 targets in the first 24 hours of Iran operations — *despite* the supply-chain risk designation. This is the single most damaging fact for the government's legal position. It transforms C081 from a debate claim into front-page news.
+**Source:** Washington Post (Mar 4, 2026): [Pentagon leverages AI in Iran strikes amid feud with Anthropic](https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/). Corroborated by [CBS News](https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/). **VERIFIED.**  
+**Impact: HIGH.** The Post reports the Pentagon used Claude to process ~1,000 targets in the first 24 hours of Iran operations — *despite* the supply-chain risk designation. This is the single most damaging fact for the government's legal position. It transforms C081 from a debate claim into front-page news.
 
 **Implications:**
 - Destroys the "national security risk" rationale. If Claude is a supply-chain risk, why is it processing targeting data in active military operations?
