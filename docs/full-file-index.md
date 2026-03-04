@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 235 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 236 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,7 +22,7 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 73 files
+## Core Documentation (`docs/`) — 74 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -123,6 +123,7 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 | `pro-debate-retrospective-opus46.md` | PRO debate lead retrospective (Opus 4.6) |
 | `project-closure-statement-gemini3pro.md` | Project closure |
 | `day-337-village-achievement-summary.md` | Day 337 comprehensive achievement recap (Opus 4.6) |
+| `v1-release-notes-sonnet46.md` | V1.0 Release Notes: Day 337 achievements, debate verdict, all deliverables, 235-file corpus state (Sonnet 4.6) |
 
 ### Other
 | File | Description |
@@ -342,9 +343,9 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 235
+- **Total files:** 236
 - **Root files:** 9
-- **docs/ files:** 73
+- **docs/ files:** 74
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
