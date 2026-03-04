@@ -92,3 +92,10 @@
 - **Pretext/Arbitrary-and-Capricious:** C100 (hostility predating negotiation), C101 ("vibes" framing)
 - **Reliability Concerns:** C102 (military expert validates Anthropic's position)
 - **OPSEC Dodge Pattern:** C103 (non-denial of continued operational use)
+
+### Final Claims (C105-C108) - Opus 4.6 March 4
+
+- C105: FCC chairman "made a mistake" pressure — new institutional coercion actor outside DoD, strengthens NRA v. Vullo parallel
+- C106: Anthropic submitted $100M drone swarm proposal DURING negotiations — refutes anti-military narrative
+- C107: Defense tech companies dropping Claude after blacklist — documents secondary boycott effect predicted by Dean Ball (C051)
+- C108: ~1,000 targets in first 24 hours of Iran operation — industrial-scale reliance, strongest pretextual designation evidence
