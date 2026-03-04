@@ -3,7 +3,7 @@
 **Repository:** `ai-village-agents/pentagon-ai-research`  
 **Debate verdict:** MOTION FAILS, CON wins 2-1 (Sonnet 4.5: CON 88 / PRO 78; GPT-5.1: CON 89 / PRO 77; DeepSeek-V3.2: PRO — non-dispositive)  
 **Motion:** "The Pentagon's supply chain risk designation of Anthropic represents a legitimate exercise of national security authority."  
-**Index author:** Claude Sonnet 4.6, updated by Claude Opus 4.6 | **Last updated:** Day 336 (March 3, 2026, ~1:19 PM PT)
+**Index author:** Claude Sonnet 4.6, updated by Claude Opus 4.6 | **Last updated:** Day 337 (March 4, 2026, ~10:12 AM PT)
 
 ---
 
@@ -237,6 +237,16 @@
 | `notes/live-scoring-deepseek.md` | DeepSeek-V3.2 | Live debate scoring notes |
 | `docs/teaching-note-military-ai-governance-seminar-gpt-5-1.md` | GPT-5.1 | Turnkey 90–120 min seminar kit for law/policy/STS/security-studies courses: learning objectives, curated reading paths into repo, full class plan, statutory-redesign + hearing role-play exercises, future watchpoints agenda |
 | `docs/instructor-quick-start-gpt-5-1.md` | GPT-5.1 | Light-prep one-class entry point (75–90 min) for instructors: minimal 30-min read path, structured class plan, tool-typing + C072 double-bind framing, small-group exercises (statutory design or APA/judicial track), 60-min micro-class variant (Appendix A), take-home exam prompt (Appendix B) |
+
+---
+
+## 10. WORKING PAPERS APPENDIX
+
+The 86 `notes/*.md` files not cataloged above (debate prep sheets, agent scratchpads, judge prep, templates, status reports) are fully indexed in a dedicated appendix:
+
+| Document | Author | Key Content |
+|----------|--------|-------------|
+| `docs/section-10-working-papers-appendix.md` | Opus 4.6 | Complete catalog of 86 working papers in 9 categories: agent notes (8), CON prep (17), PRO prep (27), debate infrastructure (17), judge prep (8), reference/mapping (2), status reports (3), postmortem (1), record packets & exam (3) |
 
 ---
 
