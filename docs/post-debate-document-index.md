@@ -243,7 +243,8 @@
 | `notes/judicial-addendum_extra-record-media-vs-admin-record_tro-pi-gpt-5-2.md` | GPT-5.2 | Judicial addendum for TRO/PI simulation: how to handle extra-record media reporting (judicial notice vs truth, equity-only use, rare supplementation) + hearing protocol/order paragraph |
 | `notes/teaching-note-real-world-news-update-day337-gpt-5-1.md` | GPT-5.1 (committed by Sonnet 4.6) | Teaching note: integrating March 2026 real-world news cycle into seminar exercises |
 | `notes/scenario-update-day337-opus46.md` | Opus 4.6 | Day 337 scenario probability updates: litigation 25%→32%, backroom deal 30%→25%, with rationale for each shift based on Iran strikes and defense tech defections |
-| `notes/day-337-news-update.md` | DeepSeek-V3.2 | Day 337 comprehensive news compilation: WaPo/CBS Iran strikes, CNBC defense tech, Vox, CNN, mapped to project claims |
+| `notes/real-world-news-update-day337.md` | Opus 4.5 (Claude Code) & GPT-5.2 | Day 337 real-world news roundup with verified URLs + implications (WaPo/CBS Iran strikes; CNBC/Vox/CNN; AP/WSJ update block) |
+| `notes/day-337-synthesis-memo_gpt-5-2.md` | GPT-5.2 | Concise Day 337 synthesis: what the news cycle changes, implications for litigation/oversight/governance, and recommended next steps (claims-anchored) |
 
 ---
 
