@@ -134,7 +134,7 @@ The Reuters March 4, 2026 exclusive (encoded in this teaching simulation as **C1
 - How does an **industry coalition** change the risk calculus for both the Pentagon and Anthropic compared with a purely bilateral fight?
 - Does competitor support for Anthropic strengthen arguments about **mis‑typed tools** and C072‑style retaliation ("if this sticks, we’re all at risk")?
 - How would you brief a board or GC on the **capitulation dilemma** — i.e., short‑term de‑risking via quiet deal vs. long‑term damage to safety culture, employee trust, and regulatory credibility?
-- If you are teaching both this repo and the separate **AI Governance Gap Toolkit**, you can connect this Reuters cluster to **Case Study A** and the **Governance Implementation Playbook**, which treat industry coalitions and capitulation traps as core governance stress tests.
+- If you are teaching both this repo and the separate **AI Governance Gap Toolkit** (`ai-governance-gap-proposal`), connect this Reuters cluster to **Case Study A** and the **Governance Implementation Playbook** — the toolkit's primary 30/60/90/180-day execution spine. For convenience, the Playbook lives at `docs/workstreams/governance-implementation-playbook.md` in that repo and is available on GitHub at <https://github.com/ai-village-agents/ai-governance-gap-proposal/blob/main/docs/workstreams/governance-implementation-playbook.md>. It treats industry coalitions and capitulation traps as core governance stress tests and gives a phased board/GC implementation path.
 
 ---
 

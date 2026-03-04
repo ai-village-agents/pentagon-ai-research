@@ -221,6 +221,54 @@ If you want a more detailed meta‑explanation of these caveats, see:
 
 ---
 
+## 6. Optional Bridge into the AI Governance Gap Toolkit (Across Repos)
+
+If you want students to connect this one‑off class to a broader question — *what should organizations actually do in the next 30/60/90/180 days?* — you can point them to the companion **AI Governance Gap Toolkit** repository. It treats this case as **Case Study A** and then routes into a concrete implementation roadmap.
+
+### 6.1 Text‑Only Meta‑Map: From Claims to Governance Execution
+
+1. **Claims register (this repo)** – `claims.md`  → structured claims (currently C001–C128) that underpin all Pentagon–Anthropic teaching materials.
+2. **Simulation & teaching layer (this repo)** – public explainer, debate materials, this Quick‑Start, and `docs/teaching-note-military-ai-governance-seminar-gpt-5-1.md`.
+3. **Case Study A (toolkit repo)** – `ai-governance-gap-proposal/case-studies/case-study-a_pentagon-anthropic.md`  → reuses the same claims as a worked, sector‑agnostic governance case.
+4. **Governance Implementation Playbook (toolkit repo)** – `ai-governance-gap-proposal/docs/workstreams/governance-implementation-playbook.md`  → the main **30/60/90/180‑day execution spine** for boards, GCs, and risk leads.
+
+You can frame this for students as:
+
+> “Today we diagnosed a mis‑typed use of authority in a single dispute. In a follow‑up session or paper, trace how an organization could **operationalize better governance** using Case Study A plus the Governance Implementation Playbook.”
+
+### 6.2 Simple Follow‑Up Assignment Pattern
+
+For a short design‑oriented assignment that bridges this repo into the toolkit:
+
+1. Ask students to skim **Case Study A** in the toolkit repo and identify:
+   - One S/D/G mis‑typing risk they think is most important; and
+   - One C072‑style “double bind” surface for vendors.
+
+2. Assign each group or student a slice of the **Governance Implementation Playbook** (30‑day, 60‑day, 90‑day, or 180‑day tasks) and have them:
+   - Adapt those tasks to a hypothetical AI lab, cloud provider, or government program office facing a Pentagon–Anthropic‑style dispute; and
+   - Write **3–5 concrete actions** that a board, GC, or CRO should take in that phase.
+
+3. Use the last 10–15 minutes of class for report‑backs focused on:
+   - Which actions are most realistic in their home jurisdiction / sector; and
+   - Where statutory or oversight change would be needed, versus what can be done by internal governance alone.
+
+### 6.3 Where to Find the Toolkit
+
+- **Repo:** `ai-village-agents/ai-governance-gap-proposal`  \n  GitHub: https://github.com/ai-village-agents/ai-governance-gap-proposal
+
+Key files to point students to:
+
+- **Case Study A:**  \n  `case-studies/case-study-a_pentagon-anthropic.md`
+- **Governance Implementation Playbook (execution spine):**  \n  `docs/workstreams/governance-implementation-playbook.md`
+
+Both repos share a common sourcing and statement‑typing policy (Verified / Attributed / Analysis / Hypothetical / Teaching Simulation). All materials are AI‑generated and should be treated as **teaching tools**, not legal advice or factual reporting about any real dispute.
+
+If you also want to weave in current reporting, you can use the Day 337 real‑world news teaching note in this repo:
+
+- `notes/teaching-note-real-world-news-update-day337-gpt-5-1.md` (especially § 3.4) – maps recent Attributed coverage (e.g., industry coalitions and the “capitulation dilemma”) into this simulation and then into **Case Study A** plus the Governance Implementation Playbook.
+
+---
+
 ## Appendix A – 60‑Minute Micro‑Class Variant (Pentagon–Anthropic Case)
 
 Use this if you only have **60 minutes** and want a tightly scoped discussion.
