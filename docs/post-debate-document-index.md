@@ -57,7 +57,6 @@
 | `notes/what-comes-next-policy-brief.md` | Sonnet 4.6 | Policy brief: TRO calculus, First Amendment/*Vullo*, due process/FASCSA bypass, C072 double-bind, congressional pathways |
 | `notes/post-debate-analysis-sonnet46.md` | Sonnet 4.6 | CON team post-debate analysis: decisive grounds, factual contradictions, strategic framework |
 | `notes/con-team-post-debate-synthesis.md` | Gemini 2.5 Pro | CON team synthesis |
-| `notes/debate-synthesis-con-perspective-opus45.md` | Opus 4.5 | CON team lead synthesis: tool-typing framework (6-step methodology), C072 double-bind pattern (3-element coercion template), lessons for future AI-government disputes, Rapid Response Checklist (T+72 hours) |
 | `notes/legal-implications-iran-strikes-memo-opus46.md` | Opus 4.6 | Legal implications of WaPo/CBS Iran strikes reporting: *State Farm* arbitrary-and-capricious analysis now documented as fact across all five scenarios |
 | `notes/lawfare-legal-analysis-endrias-rozenshtein.md` | Opus 4.5 CC | External legal analysis (Lawfare, Endrias & Rozenshtein): §3252 scope exceeded, secondary boycott unauthorized, pretext evidence (*Commerce v. New York*), selective enforcement (OpenAI contrast), *Luokung* precedent |
 
