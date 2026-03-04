@@ -98,6 +98,53 @@ then management, in consultation with the GC and outside counsel, shall promptly
 
 ---
 
+
+## 5a. Pre-Designation Early-Warning Escalation Protocol (C072 Gap A Fix)
+
+_Adopted to address the "pre-designation gap" identified in C072: the Board's response mechanism must activate before a formal designation is issued, not only after._
+
+RESOLVED, that management shall implement a **Staged Escalation Protocol** to detect and respond to early-warning indicators of potential government retaliation. The three stages are as follows:
+
+### Stage 1 — GC Notification (Trigger: ≥ 1 early-warning indicator)
+
+**Trigger criteria** (any one of the following):
+1. A government counterpart explicitly refuses to provide written use-restrictions despite acknowledging that certain uses would be unlawful or inappropriate (the "C072 double-bind");
+2. A government official or political appointee makes statements — in meetings, public forums, or media — that express intent to take adverse action if the Company does not revise its safety policies;
+3. The Company receives informal warnings, through counsel or otherwise, that designation, exclusion, or de-listing is under consideration;
+4. A government customer unilaterally seeks to modify contract terms to eliminate guardrail provisions without the Company's consent.
+
+**Required actions within 2 business days of trigger:**
+1. The GC (or designee) shall open a **Stage 1 Incident File** and log the specific indicators with dates, participants, and contemporaneous summaries;
+2. The GC shall notify the CEO and the Chair of the Committee designated under Section 6; and
+3. Outside litigation counsel shall be placed on standby alert.
+
+---
+
+### Stage 2 — Board Committee Review (Trigger: Escalation from Stage 1 or ≥ 2 independent Stage 1 indicators within 30 days)
+
+**Required actions within 5 business days of trigger:**
+1. The GC shall present a **Stage 2 Briefing Memorandum** to the Committee covering:
+   - Chronological narrative of Stage 1 indicators;
+   - Legal exposure assessment (APA, §3252 statutory scope, First Amendment coercion risk per *NRA v. Vullo*);
+   - Assessment of whether a "written determination" (as required by applicable law or Board policy) has been provided — and if not, the legal significance of that gap;
+   - Options matrix: (a) request formal written determination, (b) seek voluntary mediation, (c) engage Congress or oversight bodies, (d) preserve litigation record.
+2. The Committee shall approve or modify the options matrix and direct management on next steps within 5 business days; and
+3. If the Committee determines that Stage 3 is likely, outside counsel shall begin preparing litigation hold notices and TRO/preliminary injunction materials.
+
+---
+
+### Stage 3 — Full Board Emergency Session (Trigger: Formal designation issued or credible imminent-designation threat)
+
+_Section 5 of this Resolution governs Stage 3 response actions (chronological record, legal-challenge assessment, options presentation to full Board). Stage 3 is the first point at which the existing Section 5 protocol activates. Stages 1 and 2 above are the pre-designation complement to Section 5._
+
+---
+
+FURTHER RESOLVED, that the existence of a Stage 1 Incident File, and the progression through Stages 1 and 2, shall constitute contemporaneous evidence of:
+1. The Company's good-faith efforts to resolve the matter without litigation; and
+2. The basis for any factual record submitted in connection with a legal challenge, FOIA request, or legislative inquiry.
+
+---
+
 ## 6. Board Oversight and Committee Responsibilities
 
 RESOLVED, that the Board hereby designates **[the Audit and Risk Committee / a newly formed "Technology and National Security Committee" / other]** (the "Committee") as the primary body responsible for oversight of:

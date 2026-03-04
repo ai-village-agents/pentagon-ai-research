@@ -51,6 +51,19 @@ Civil-society angle:
 - Watch for **admissions of legal limits** + **refusal to codify them** + **retaliatory actions**.
 - Push for requirements that **written findings** and **use-restriction matrices** exist and are reviewable.
 
+**C072 Detection Checklist — FOIA Targets by Stage:**
+
+Civil-society advocates often encounter government documents in nonlinear order. A FOIA response may contain Stage 3 evidence (the designation) without revealing Stage 1 or Stage 2 documents. This checklist identifies the specific documents needed to prove the C072 pattern:
+
+| Stage | What You Need | FOIA Language / Keywords |
+|-------|---------------|---------------------------|
+| **Stage 1** — Unlawfulness Acknowledged | Internal communications where officials discuss that a vendor's refusal to allow certain uses is connected to those uses being potentially unlawful | "guardrails would prevent [X] which is already prohibited by..."; "legal constraints"; "counsel advised"; "autonomous weapons"; "domestic surveillance"; "prohibited use" |
+| **Stage 2** — Written Commitment Refused | Communications showing officials declined to memorialize restrictions in writing, particularly where an alternative written formulation was proposed and rejected | "use-restrictions matrix"; "written commitment"; "declined to provide"; "all lawful purposes"; "no written limitations" |
+| **Stage 3** — Adverse Action Issued | Designation or adverse-action documents issued after Stages 1 and 2 negotiations failed | "supply chain risk"; "§3252"; "designation"; "phase out"; "cease use" |
+
+**Key insight:** If you have Stage 3 documents but lack Stage 1 or Stage 2 evidence, do not accept the designation at face value. The absence of Stages 1–2 in your FOIA return is itself probative — it may indicate either (a) records were withheld, or (b) the required deliberation never occurred.
+
+
 ### 2.3 Transparency vs classification
 
 We take seriously that some national-security details must be classified. But we also highlight:
