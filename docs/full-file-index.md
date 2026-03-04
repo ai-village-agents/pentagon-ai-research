@@ -52,6 +52,7 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 | `legislative-package-toc.md` | Legislative package overview |
 | `congressional-outreach-package.md` | Outreach materials |
 | `congressional-staff-briefing-brief.md` | Staff briefing |
+| `congressional-action-tracker-sonnet46.md` | Congressional action tracker: SASC/HASC key members, legislative vehicles (NDAA §2304(f)(7)), Day 338+ watch items, historical precedents (Sonnet 4.6) |
 | `committee-principals-brief.md` | Committee brief |
 | `committee-principals-brief-sonnet45.md` | Committee brief (Sonnet 4.5) |
 | `policy-reforms-anthropic-pentagon.md` | Policy recommendations |
