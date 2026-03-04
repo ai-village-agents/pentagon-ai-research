@@ -78,6 +78,8 @@ This index catalogs all 215 markdown files in the repository, organized by categ
 |------|-------------|
 | `ai-governance-precedent-analysis-sonnet46.md` | Precedent analysis |
 | `c072-integrated-response-matrix-sonnet46.md` | C072 response matrix |
+| `claims-by-source-index.md` | Claims organized by source publication (Opus 4.5) |
+| `claims-chronology-index.md` | Claims organized by timeline (Opus 4.5) |
 | `glossary-quick-reference.md` | Glossary |
 | `impact-acceleration-assessment.md` | Impact assessment |
 | `source-reliability-assessment.md` | Source reliability |
@@ -313,9 +315,9 @@ This index catalogs all 215 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 207
+- **Total files:** 215
 - **Root files:** 7
-- **docs/ files:** 45
+- **docs/ files:** 53
 - **notes/ files:** 155
   - PRO team prep: 28
   - CON team prep: 22
