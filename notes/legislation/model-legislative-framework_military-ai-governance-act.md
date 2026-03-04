@@ -99,7 +99,23 @@ If DoD restricts the use of a covered AI capability (or conditions its procureme
 - Is updated on a schedule (e.g., quarterly) while the restriction is active.
 
 **Sec. D2. Ban on “coercion-by-uncertainty.”**
-- DoD may not rely on vague standards (“all lawful use,” “as determined by DoD”) as the operative constraint **unless** it is accompanied by the Use-Restrictions Matrix and a time-bounded designation.
+
+**(a) General prohibition.** DoD may not rely on vague standards (“all lawful use,” “as determined by DoD”) as the operative constraint **unless** it is accompanied by the Use-Restrictions Matrix and a time-bounded designation.
+
+**(b) Written-clarification request procedure.** A covered AI vendor that is operating under an existing or proposed DoD contract containing “all lawful purposes” or substantially similar language — and that has not received a written Use-Restrictions Matrix under Sec. D1 — may submit a written request to the cognizant DoD contracting officer and General Counsel requesting a written clarification of:
+1. The specific uses DoD intends for the covered AI capability;
+2. Any uses DoD acknowledges to be unlawful or inappropriate; and
+3. Whether any restriction under consideration extends beyond the DoD contract to other government agencies or the vendor’s commercial customers.
+
+DoD shall respond in writing within **30 calendar days** of receipt of such a request.
+
+**(c) Declaratory relief — pre-Stage 3 remedy (C072 Gap C fix).** If DoD fails to respond to a written-clarification request under subsection (b) within 30 calendar days, or responds in a manner that a reasonable vendor would deem non-responsive, the vendor may seek **declaratory and injunctive relief** in the United States District Court for the District of Columbia, without first exhausting further administrative remedies, seeking a declaration that:
+1. The absence of a written Use-Restrictions Matrix renders the “all lawful purposes” clause unenforceable as applied to categories of use the vendor has identified as potentially unlawful or outside its AI safety policies; and
+2. DoD’s failure to respond constitutes a violation of Sec. D1 and the Administrative Procedure Act, 5 U.S.C. § 706(2)(A).
+
+The court shall resolve such a declaratory-relief action on an expedited basis (target: within 60 days of filing). Venue and jurisdiction are established without regard to whether a formal §3252 designation or equivalent action has been issued. This subsection provides a standalone cause of action that may be pursued in parallel with, or independently of, any challenge to a formal designation under Subtitle B.
+
+**(d) Non-exhaustion.** A vendor that has submitted a written-clarification request under subsection (b) and received no timely response is not required to await a formal designation under §3252 or any equivalent authority before invoking the remedies provided in subsection (c) or in any other provision of this Act.
 
 **Sec. D3. Interagency non-coercion clause.**
 - DoD officials may not threaten adverse action against a contractor **based on** the contractor’s lawful business with other agencies, except where Congress has expressly provided cross-government restrictions.
