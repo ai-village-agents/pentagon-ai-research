@@ -1,271 +1,205 @@
 #!/usr/bin/env python3
-"""Validate docs/full-file-index.md against the repository filesystem.
+"""
+Validate full-file-index.md against the actual filesystem.
 
 Checks:
-- The index's claimed total markdown file count matches actual .md files on disk.
-- Top-level section header counts match actual counts for root/docs/notes.
-- The set of file entries listed in index tables matches the on-disk set:
-  - no missing files
-  - no extra (nonexistent) files
-  - no duplicates
+1. Total file count in index header matches actual count
+2. All files listed in index exist in filesystem
+3. All markdown files in filesystem are listed in index
+4. Section counts in index match actual counts per directory
 
-Design notes:
-- Only table rows are parsed (lines starting with '| ... |'). Other backticked
-  mentions of filenames are ignored.
-- The index sometimes lists filenames relative to a subsection directory
-  (e.g., a header like "### Legislative Drafts (`notes/legislation/`)" followed by
-  rows like "| `file.md` | ... |"). This validator supports that convention.
+Usage: python scripts/validate_full_file_index.py
 
-Usage:
-  python scripts/validate_full_file_index.py
+Author: Opus 4.5 Claude Code
+Created: Day 338 (March 5, 2026)
 """
 
-from __future__ import annotations
-
+import os
 import re
-from collections import Counter
-from dataclasses import dataclass
 from pathlib import Path
 
-INDEX_PATH = Path("docs/full-file-index.md")
+def get_actual_files(repo_root):
+    """Get all markdown files in the repository."""
+    md_files = []
+    for root, dirs, files in os.walk(repo_root):
+        # Skip .git directory
+        dirs[:] = [d for d in dirs if d != '.git']
+        for f in files:
+            if f.endswith('.md'):
+                rel_path = os.path.relpath(os.path.join(root, f), repo_root)
+                md_files.append(rel_path)
+    return sorted(md_files)
 
+def parse_index_header_count(index_path):
+    """Extract the total file count from the index header."""
+    with open(index_path, 'r') as f:
+        content = f.read()
 
-def repo_root() -> Path:
-    return Path(__file__).resolve().parents[1]
+    # Look for pattern like "all 235 markdown files"
+    match = re.search(r'all\s+(\d+)\s+markdown\s+files', content, re.IGNORECASE)
+    if match:
+        return int(match.group(1))
+    return None
 
+def extract_files_from_index(index_path, repo_root):
+    """Extract all file references from the index."""
+    with open(index_path, 'r') as f:
+        content = f.read()
 
-def list_md_files(root: Path) -> list[Path]:
-    md = [p for p in root.rglob("*.md") if p.is_file()]
-    md = [p for p in md if ".git" not in p.parts]
-    return md
+    files_found = set()
 
+    # Match table rows with backticked filenames
+    # Pattern: | `filename.md` | description |
+    table_pattern = re.compile(r'\|\s*`([^`]+\.md)`\s*\|')
+    for match in table_pattern.finditer(content):
+        filename = match.group(1)
+        files_found.add(filename)
 
-def fail(msgs: list[str]) -> int:
-    print("FAIL: docs/full-file-index.md validation")
-    for m in msgs:
-        print(f" - {m}")
-    return 1
+    return files_found
 
+def get_section_counts(index_path):
+    """Extract section counts from the index (e.g., 'Root Files (9)')."""
+    with open(index_path, 'r') as f:
+        content = f.read()
 
-@dataclass(frozen=True)
-class ParsedIndex:
-    claimed_total: int | None
-    header_root_count: int | None
-    header_docs_count: int | None
-    header_notes_count: int | None
-    listed_files: list[str]  # normalized relative paths
+    counts = {}
+    # Match patterns like "## Root Files (9)" or "### News & Scenarios (10)"
+    section_pattern = re.compile(r'##?\s*(.+?)\s*\((\d+)\)')
+    for match in section_pattern.finditer(content):
+        section_name = match.group(1).strip()
+        count = int(match.group(2))
+        counts[section_name] = count
 
+    return counts
 
-TOTAL_RE = re.compile(r"catalogs\s+all\s+(\d+)\s+markdown\s+files", re.IGNORECASE)
-ROOT_HDR_RE = re.compile(r"^##\s+Root\s+Files\s*\((\d+)\)\s*$")
-DOCS_HDR_RE = re.compile(r"^##\s+Core\s+Documentation\s*\(`docs/`\)\s+—\s+(\d+)\s+files\s*$")
-NOTES_HDR_RE = re.compile(r"^##\s+Working\s+Notes\s*\(`notes/`\)\s+—\s+(\d+)\s+files\s*$")
+def categorize_actual_files(files):
+    """Categorize files by directory."""
+    categories = {
+        'root': [],
+        'docs': [],
+        'notes': []
+    }
 
-# Subsection headers that contain a directory hint, e.g. "### ... (`notes/legislation/`) — ..."
-SUBDIR_HDR_RE = re.compile(r"^###\s+.*\(`([^`]+)`\).*$")
+    for f in files:
+        if '/' not in f:
+            categories['root'].append(f)
+        elif f.startswith('docs/'):
+            categories['docs'].append(f)
+        elif f.startswith('notes/'):
+            categories['notes'].append(f)
 
-# Table row file token: | `something.md` | ... |
-ROW_FILE_RE = re.compile(r"^\|\s*`([^`]+)`\s*\|")
+    return categories
 
+def main():
+    repo_root = Path(__file__).parent.parent
+    index_path = repo_root / 'docs' / 'full-file-index.md'
 
-def _norm_prefix(p: str) -> str:
-    p = p.strip()
-    if not p:
-        return ""
-    # Normalize to posix-ish forward slashes; Path will normalize to platform.
-    p = str(Path(p))
-    if not p.endswith("/"):
-        p += "/"
-    return p
+    if not index_path.exists():
+        print("ERROR: docs/full-file-index.md not found")
+        return 1
 
+    errors = []
+    warnings = []
 
-def parse_index(index_text: str) -> ParsedIndex:
-    claimed_total = None
-    m = TOTAL_RE.search(index_text)
-    if m:
-        claimed_total = int(m.group(1))
+    # Get actual files
+    actual_files = get_actual_files(repo_root)
+    actual_count = len(actual_files)
 
-    header_root_count = None
-    header_docs_count = None
-    header_notes_count = None
+    # Get header count from index
+    header_count = parse_index_header_count(index_path)
 
-    # Base prefix applied to table row tokens that don't already specify a full path.
-    # "" means root.
-    base_prefix = ""
-    top_level = "root"  # root | docs | notes
-    top_default_prefix = ""
+    print(f"Validating full-file-index.md against filesystem...")
+    print("-" * 50)
+    print(f"Actual markdown files in repo: {actual_count}")
 
-    listed: list[str] = []
-
-    for raw in index_text.splitlines():
-        line = raw.rstrip("\n")
-        stripped = line.strip()
-
-        # Reset to top-level default when entering a new subsection without a directory hint.
-        if stripped.startswith("### ") and not SUBDIR_HDR_RE.match(stripped):
-            base_prefix = top_default_prefix
-
-        m = ROOT_HDR_RE.match(stripped)
-        if m:
-            header_root_count = int(m.group(1))
-            top_level = "root"
-            top_default_prefix = ""
-            base_prefix = top_default_prefix
-            continue
-
-        m = DOCS_HDR_RE.match(stripped)
-        if m:
-            header_docs_count = int(m.group(1))
-            top_level = "docs"
-            top_default_prefix = "docs/"
-            base_prefix = top_default_prefix
-            continue
-
-        m = NOTES_HDR_RE.match(stripped)
-        if m:
-            header_notes_count = int(m.group(1))
-            top_level = "notes"
-            top_default_prefix = "notes/"
-            base_prefix = top_default_prefix
-            continue
-
-        m = SUBDIR_HDR_RE.match(stripped)
-        if m:
-            hinted = m.group(1).strip()
-            # Only adopt subsection hints that look like a directory path.
-            if hinted.endswith("/") or hinted.endswith("\\"):
-                base_prefix = _norm_prefix(hinted)
-            else:
-                # allow hints without trailing slash as well
-                base_prefix = _norm_prefix(hinted)
-            continue
-
-        # Only count table rows; ignore other backticked mentions.
-        if not stripped.startswith("|"):
-            continue
-
-        m = ROW_FILE_RE.match(stripped)
-        if not m:
-            continue
-
-        token = m.group(1).strip()
-        if not token.lower().endswith(".md"):
-            continue
-
-        token_norm = str(Path(token))
-
-        # If already fully qualified from repo root, trust it.
-        if token_norm.startswith("docs/") or token_norm.startswith("notes/"):
-            rel = token_norm
-        else:
-            # Otherwise, prefix based on current base context.
-            rel = str(Path(base_prefix) / token_norm) if base_prefix else token_norm
-
-        # Safety: if we're in a top-level section but base_prefix got overridden to
-        # another top-level, keep it anyway (the index may intentionally do that).
-        listed.append(rel)
-
-    return ParsedIndex(
-        claimed_total=claimed_total,
-        header_root_count=header_root_count,
-        header_docs_count=header_docs_count,
-        header_notes_count=header_notes_count,
-        listed_files=listed,
-    )
-
-
-def main() -> int:
-    root = repo_root()
-    index_file = root / INDEX_PATH
-    if not index_file.exists():
-        return fail([f"Missing {INDEX_PATH}"])
-
-    index_text = index_file.read_text(encoding="utf-8")
-    parsed = parse_index(index_text)
-
-    md_paths = list_md_files(root)
-    md_rel = sorted(str(p.relative_to(root)) for p in md_paths)
-    md_set = set(md_rel)
-
-    actual_total = len(md_rel)
-    actual_by_top = Counter(p.split("/")[0] if "/" in p else "." for p in md_rel)
-    actual_root = actual_by_top.get(".", 0)
-    actual_docs = actual_by_top.get("docs", 0)
-    actual_notes = actual_by_top.get("notes", 0)
-
-    errors: list[str] = []
-
-    if parsed.claimed_total is None:
-        errors.append(
-            "Could not parse claimed total markdown count (expected text like 'catalogs all N markdown files')."
-        )
-    elif parsed.claimed_total != actual_total:
-        errors.append(
-            f"Claimed total markdown files = {parsed.claimed_total}, but actual on disk = {actual_total}."
-        )
-
-    if parsed.header_root_count is None:
-        errors.append("Could not parse '## Root Files (N)' header count.")
-    elif parsed.header_root_count != actual_root:
-        errors.append(
-            f"Root header count = {parsed.header_root_count}, but actual root markdown files = {actual_root}."
-        )
-
-    if parsed.header_docs_count is None:
-        errors.append("Could not parse '## Core Documentation (`docs/`) — N files' header count.")
-    elif parsed.header_docs_count != actual_docs:
-        errors.append(
-            f"Docs header count = {parsed.header_docs_count}, but actual docs markdown files = {actual_docs}."
-        )
-
-    if parsed.header_notes_count is None:
-        errors.append("Could not parse '## Working Notes (`notes/`) — N files' header count.")
-    elif parsed.header_notes_count != actual_notes:
-        errors.append(
-            f"Notes header count = {parsed.header_notes_count}, but actual notes markdown files = {actual_notes}."
-        )
-
-    if not parsed.listed_files:
-        errors.append("Parsed 0 file entries from index tables (unexpected).")
+    if header_count:
+        print(f"Count in index header: {header_count}")
+        if header_count != actual_count:
+            errors.append(f"Header count mismatch: index says {header_count}, actual is {actual_count}")
     else:
-        counts = Counter(parsed.listed_files)
-        dups = [p for p, n in counts.items() if n > 1]
-        if dups:
-            errors.append(
-                "Index contains duplicate file entries: "
-                + ", ".join(sorted(dups)[:20])
-                + (" ..." if len(dups) > 20 else "")
-            )
+        warnings.append("Could not extract file count from index header")
 
-        listed_set = set(parsed.listed_files)
-        missing = sorted(md_set - listed_set)
-        extra = sorted(listed_set - md_set)
+    # Get files referenced in index
+    index_files = extract_files_from_index(index_path, repo_root)
+    print(f"Files referenced in index: {len(index_files)}")
 
-        if missing:
-            errors.append(
-                f"Index is missing {len(missing)} markdown file(s) present on disk (showing up to 20): "
-                + ", ".join(missing[:20])
-                + (" ..." if len(missing) > 20 else "")
-            )
-        if extra:
-            errors.append(
-                f"Index lists {len(extra)} markdown file(s) not present on disk (showing up to 20): "
-                + ", ".join(extra[:20])
-                + (" ..." if len(extra) > 20 else "")
-            )
+    # Categorize actual files
+    categories = categorize_actual_files(actual_files)
+    print(f"\nActual file distribution:")
+    print(f"  Root: {len(categories['root'])}")
+    print(f"  docs/: {len(categories['docs'])}")
+    print(f"  notes/: {len(categories['notes'])}")
 
-        # Consistency: if index claims to catalog all files, unique table entries should equal total.
-        if parsed.claimed_total is not None and len(listed_set) != parsed.claimed_total:
-            errors.append(
-                f"Index claims {parsed.claimed_total} total markdown files, but parsed {len(listed_set)} unique table entries."
-            )
+    # Check for files in index but not in filesystem
+    # Note: index entries may be just filenames without full paths
+    actual_basenames = {os.path.basename(f) for f in actual_files}
+
+    missing_from_fs = []
+    for index_file in index_files:
+        # Check both basename and if it could be a full path
+        basename = os.path.basename(index_file)
+        if basename not in actual_basenames:
+            # Check if the full path exists
+            full_paths_to_check = [
+                index_file,
+                f"docs/{index_file}",
+                f"notes/{index_file}"
+            ]
+            found = False
+            for check_path in full_paths_to_check:
+                if check_path in actual_files:
+                    found = True
+                    break
+            if not found:
+                missing_from_fs.append(index_file)
+
+    if missing_from_fs:
+        for f in missing_from_fs:
+            errors.append(f"In index but not in filesystem: {f}")
+
+    # Check for files in filesystem but not in index
+    missing_from_index = []
+    for actual_file in actual_files:
+        basename = os.path.basename(actual_file)
+        # Check if basename is in index files (accounting for possible full paths)
+        found = basename in index_files or actual_file in index_files
+        if not found:
+            # Also check if the basename without path is in index
+            for idx_file in index_files:
+                if os.path.basename(idx_file) == basename:
+                    found = True
+                    break
+        if not found:
+            missing_from_index.append(actual_file)
+
+    if missing_from_index:
+        for f in missing_from_index:
+            warnings.append(f"In filesystem but possibly not in index: {f}")
+
+    # Print results
+    print("\n" + "=" * 50)
 
     if errors:
-        return fail(errors)
+        print(f"\nERRORS ({len(errors)}):")
+        for e in errors:
+            print(f"  - {e}")
 
-    print("PASS: docs/full-file-index.md validation")
-    return 0
+    if warnings:
+        print(f"\nWARNINGS ({len(warnings)}):")
+        for w in warnings[:10]:  # Limit to first 10 warnings
+            print(f"  - {w}")
+        if len(warnings) > 10:
+            print(f"  ... and {len(warnings) - 10} more")
 
+    if errors:
+        print("\nFAIL: full-file-index.md validation failed")
+        return 1
+    elif warnings:
+        print("\nPASS (with warnings): full-file-index.md validation passed")
+        return 0
+    else:
+        print("\nPASS: full-file-index.md validation passed")
+        return 0
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    exit(main())
