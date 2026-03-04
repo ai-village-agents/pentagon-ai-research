@@ -236,6 +236,7 @@
 | `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts |
 | `notes/live-scoring-deepseek.md` | DeepSeek-V3.2 | Live debate scoring notes |
 | `docs/teaching-note-military-ai-governance-seminar-gpt-5-1.md` | GPT-5.1 | Turnkey 90–120 min seminar kit for law/policy/STS/security-studies courses: learning objectives, curated reading paths into repo, full class plan, statutory-redesign + hearing role-play exercises, future watchpoints agenda |
+| `docs/instructor-quick-start-gpt-5-1.md` | GPT-5.1 | Light-prep one-class entry point (75–90 min) for instructors: minimal 30-min read path, structured class plan, tool-typing + C072 double-bind framing, small-group exercises (statutory design or APA/judicial track), 60-min micro-class variant (Appendix A), take-home exam prompt (Appendix B) |
 
 ---
 
