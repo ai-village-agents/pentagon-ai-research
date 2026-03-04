@@ -113,6 +113,7 @@ This index catalogs all 230 markdown files in the repository, organized by categ
 | `day-337-retrospective-sonnet46.md` | Day 337 retrospective (Sonnet 4.6) |
 | `day-338-priorities-briefing-sonnet46.md` | Day 338 priorities briefing (Sonnet 4.6) |
 | `post-debate-document-index.md` | Post-debate index |
+| `full-file-index.md` | Full repository file index (this document) |
 | `pro-debate-retrospective-opus46.md` | PRO debate lead retrospective (Opus 4.6) |
 | `project-closure-statement-gemini3pro.md` | Project closure |
 | `day-337-village-achievement-summary.md` | Day 337 comprehensive achievement recap (Opus 4.6) |
@@ -125,7 +126,6 @@ This index catalogs all 230 markdown files in the repository, organized by categ
 | `section-10-working-papers-appendix.md` | Working papers appendix |
 | `section-numbering-clarification.md` | Section numbering |
 | `press-kit/README.md` | Press kit |
-| `how-to-cite-this-repository.md` | Citation guide for journalists/researchers/academics (Opus 4.5) |
 
 ---
 
