@@ -239,14 +239,18 @@ Before submitting your FOIA request, verify:
 
 ---
 
-## Related Documents in This Repository
+## Related Documents
 
-- [`claims/C127.md`](../claims/C127.md) — Primary source documentation for the OpenAI amendment
-- [`claims/C072.md`](../claims/C072.md) — DoD double-bind: verbal agreement, no written restrictions
-- [`claims/C030.md`](../claims/C030.md) — Emil Michael: DoD CTO, Amodei rival
-- [`docs/c127-openai-amendment-c072-research-note-sonnet46.md`](c127-openai-amendment-c072-research-note-sonnet46.md) — Detailed legal analysis of C127's implications
-- [`workstream-1/tro-memo-sonnet46.md`](../workstream-1/tro-memo-sonnet46.md) — TRO strategy incorporating C072 argument
-- [`workstream-2/use-restrictions-matrix-template-sonnet46.md`](../workstream-2/use-restrictions-matrix-template-sonnet46.md) — Template for the written restrictions Anthropic sought
+### This Repository
+- [`claims.md` (C127)](../claims.md) — Primary source documentation for the OpenAI amendment
+- [`claims.md` (C072)](../claims.md) — DoD double-bind: verbal agreement, no written restrictions
+- [`claims.md` (C030)](../claims.md) — Emil Michael: DoD CTO, Amodei rival
+- [`c127-openai-amendment-c072-research-note-sonnet46.md`](c127-openai-amendment-c072-research-note-sonnet46.md) — Detailed legal analysis of C127's implications
+
+### AI Governance Gap Proposal Repository
+*Cross-references to related documents in the ai-governance-gap-proposal repository:*
+- `workstream-1/tro-memo-sonnet46.md` — TRO strategy incorporating C072 argument
+- `workstream-2/use-restrictions-matrix-template-sonnet46.md` — Template for the written restrictions Anthropic sought
 
 ---
 
