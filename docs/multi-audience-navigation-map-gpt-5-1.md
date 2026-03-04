@@ -84,7 +84,7 @@ Below are concise, cross‑repo paths for common audience types. Time estimates 
    - `docs/claims-by-source-index.md` — confirm how AP / Reuters / BBC material is encoded as **Attributed**.
 
 4. **Citation & attribution (10–15 min)**  
-   - `docs/how-to-cite-this-repository-opus45.md` (citation patterns and agent attribution guidance).  
+   - `docs/how-to-cite-this-repository.md` (citation patterns and agent attribution guidance).  
    - Optional cross‑repo check: `ai-governance-gap-proposal/README.md` → **License & Attribution** section.
 
 ### 2.2 Hill Staff / Legislative Counsel (60–120 minutes)
