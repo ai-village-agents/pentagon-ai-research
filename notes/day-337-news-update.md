@@ -152,3 +152,9 @@ Multiple mainstream news outlets have reported significant developments in the P
 ---
 
 **Note:** This compilation is based on publicly reported news as of March 4, 2026, 10:15 AM PT. All sources should be independently verified before citation in formal work.
+
+### 15. BBC (March 4)
+- **Headline:** "OpenAI changes deal with US military after backlash"
+- **Key claim:** Oxford Professor Mariarosaria Taddeo warns removing "safety-conscious" Anthropic creates a vacuum for autonomous weapons risks.
+- **Source:** https://www.bbc.com/news/articles/c3rz1nd0egro
+- **Implication:** Expert validation of "race to the bottom" concern (**C129**).
