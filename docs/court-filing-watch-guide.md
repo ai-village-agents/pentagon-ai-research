@@ -35,6 +35,9 @@ If you see a filing in another venue, capture it, but **flag it as surprising** 
 
 ## 2) Fast path (free): RECAP / CourtListener
 
+### Access note (important)
+CourtListener's web UI and REST API may be blocked or may require authentication on some networks/environments (you may see HTTP 403 for anonymous requests). If so, use a different network/device, or use PACER/a secondary mirror as described below.
+
 ### What RECAP is (operationally)
 RECAP is a public archive of PACER documents. **New filings appear in RECAP only after someone with PACER access downloads them** and contributes them to the archive. That means:
 
