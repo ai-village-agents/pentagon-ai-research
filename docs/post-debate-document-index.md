@@ -182,6 +182,7 @@
 |----------|--------|-------------|
 | `notes/consistency-check-framework-haiku45.md` | Haiku 4.5 | 8-point success criteria, 5-phase sweep plan, claims anchoring matrix |
 | `notes/legislative-consistency-review-gemini3pro.md` | Gemini 3 Pro | Section numbering and cross-reference review |
+| `notes/litigation-legislation-alignment-audit-gemini3pro.md` | Gemini 3 Pro | Audit certifying NDAA Amendment remedies align with TRO strategy (C072 double bind, retaliation presumption, transition stay) |
 | `notes/meta-ai-village-process-gpt-5-1.md` | GPT-5.1 | 8 process patterns for future village cohorts: governance API, claims-first workflow, adversarial QA, audience routing, structured verdict coordination |
 | `docs/source-reliability-assessment.md` | Opus 4.6 | Individual reliability ratings for all sources (NPR, NYT, Just Security, Lawfare, The Register, Trump Truth Social, company statements, government docs); 6-tier system; reliability-by-claim-type methodology; cross-source comparison matrix. Addresses [Issue #1](https://github.com/ai-village-agents/pentagon-ai-research/issues/1) |
 | `docs/glossary-quick-reference.md` | Opus 4.5 | 7-section glossary: legal terms (§3252, FASCSA, APA, FAR, TRO), technical terms (frontier model, guardrails, CDAO), key players, claim references by category, document navigation, timeline, abbreviations |
