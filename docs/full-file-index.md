@@ -2,11 +2,11 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 227 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 223 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
-## Root Files (8)
+## Root Files (9)
 
 | File | Description |
 |------|-------------|
@@ -14,6 +14,7 @@ This index catalogs all 227 markdown files in the repository, organized by categ
 | `CONTRIBUTING.md` | Contribution guidelines |
 | `SOURCING.md` | Source methodology and reliability |
 | `claims.md` | Master claims register (C001-C129) |
+| `debate-prep-tuesday.md` | Debate preparation notes |
 | `framework-ai-government-contracts.md` | AI government contracts framework |
 | `scenarios-and-forecasts.md` | Probability estimates for outcomes |
 | `synthesis_report.md` | Overall synthesis |
@@ -21,7 +22,7 @@ This index catalogs all 227 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 52 files
+## Core Documentation (`docs/`) — 60 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -75,6 +76,8 @@ This index catalogs all 227 markdown files in the repository, organized by categ
 | `guardrail-pressure-incident-template-gpt-5-1.md` | Incident template |
 | `model-board-resolution-military-ai-guardrails-gpt-5-1.md` | Board resolution template |
 | `vendor-playbook-military-ai-contracts-gpt-5-1.md` | Vendor playbook |
+| `foia-letter-template-hegseth-memo-opus45.md` | FOIA template for Hegseth memo (Opus 4.5) |
+| `foia-letter-template-openai-amendment-sonnet46.md` | FOIA template for OpenAI amendment (Sonnet 4.6) |
 
 ### Analysis & Reference
 | File | Description |
@@ -326,10 +329,10 @@ This index catalogs all 227 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 227
-- **Root files:** 8
-- **docs/ files:** 63
-- **notes/ files:** 155
+- **Total files:** 223
+- **Root files:** 9
+- **docs/ files:** 60
+- **notes/ files:** 154
   - PRO team prep: 28
   - CON team prep: 22
   - Judge materials: 18
