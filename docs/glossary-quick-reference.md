@@ -32,6 +32,8 @@ _Pentagon-AI Research Repository_
 | **Secondary Boycott** | Pressure on third parties (investors, partners, other agencies) to cut ties with the primary target. | Hegseth announced "no contractor, supplier, or partner" may work with Anthropic — extends beyond § 3252's statutory scope |
 | **First Amendment Coercion** | Government cannot use informal pressure to suppress protected activity; see *NRA v. Vullo*, *Bantam Books*. | If guardrail policies are protected speech, designation could be unconstitutional retaliation |
 | **Due Process** | Constitutional requirement for notice and opportunity to be heard before deprivation of rights. | Anthropic had no notice, no hearing, no written statement of reasons before designation |
+| **Tool-typing** | Classifying and negotiating AI by specific use-cases/tools (e.g., logistics, document triage, targeting) rather than blanket pro/anti-military stances. | Frames Anthropic’s approach (offer some tools, refuse others); Bloomberg drone‑swarm pitch shows selective engagement rather than categorical refusal. |
+| **OPSEC dodge** | Agency response pattern invoking Operational Security to refuse confirmation/denial that would otherwise rebut a claim. | DoD’s non‑denial on continued Claude use in Iran (C103) functions as OPSEC dodge; a true cessation would be easy to confirm. |
 
 ---
 
@@ -83,11 +85,22 @@ _Pentagon-AI Research Repository_
 | **Mark Warner** | D-VA | Senate Intelligence Chair | Called administration "bully" (C041) |
 | **Chris Coons** | D-DE | Sen. Foreign Relations | Called it "chilling" (C082) |
 
+
+
+## 3b. Case Law Quick Reference
+
+| Case | Citation | Holding (one line) | Relevance |
+|------|----------|--------------------|-----------|
+| *NRA v. Vullo* | 602 U.S. ___ (2024) | Government may not coerce intermediaries through informal threats to punish disfavored speakers. | Maps to secondary‑boycott/coercion theory; used to analyze DoD pressure on primes/clouds. |
+| *Bantam Books v. Sullivan* | 372 U.S. 58 (1963) | Informal censorship via implied threats is unconstitutional prior restraint. | Foundation for Vullo-style coercion claims. |
+| *Luokung Tech. v. DoD* | No. 21‑cv‑00176 (D.D.C. 2021) | PI granted; thin national‑security designation enjoined as arbitrary/capricious. | Close analog for enjoining deficient designations. |
+| *Xiaomi Corp. v. DoD* | No. 21‑cv‑00280 (D.D.C. 2021) | PI granted; CMIC listing likely arbitrary and capricious. | Reinforces Luokung pattern; strengthens likelihood‑of‑success. |
+
 ---
 
 ## 4. Key Claim References
 
-Claims are numbered C001–C104+ in `claims.md`. Below are the most frequently cited:
+Claims are numbered C001–C108+ in `claims.md`. Below are the most frequently cited:
 
 ### Operational Claims (Model Performance)
 
