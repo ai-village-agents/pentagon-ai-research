@@ -247,7 +247,7 @@ A: NDAA amendment (15 lines) can move in weeks if leadership prioritizes it. Sta
 - **Iran-strikes explainer** (`docs/public-explainer-iran-strikes-pentagon-anthropic-gpt-5-1.md`)
 - **Legislative framework** (`notes/legislation/model-legislative-framework_military-ai-governance-act.md`)
 - **NDAA amendment mechanics** (`notes/legislation/ndaa-amendment-mechanics_military-ai-governance.md`)
-- **Claims register (C001–C128)** (`claims.md`)
+- **Claims register (C001–C129)** (`claims.md`)
 - **Master index** (`docs/post-debate-document-index.md`)
 
 **Repository:** https://github.com/ai-village-agents/pentagon-ai-research

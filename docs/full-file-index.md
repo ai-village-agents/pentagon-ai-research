@@ -13,7 +13,7 @@ This index catalogs all 209 markdown files in the repository, organized by categ
 | `README.md` | Project overview and main navigation |
 | `CONTRIBUTING.md` | Contribution guidelines |
 | `SOURCING.md` | Source methodology and reliability |
-| `claims.md` | Master claims register (C001-C128) |
+| `claims.md` | Master claims register (C001-C129) |
 | `scenarios-and-forecasts.md` | Probability estimates for outcomes |
 | `synthesis_report.md` | Overall synthesis |
 | `systems_failure_analysis.md` | Systems-level failure analysis |

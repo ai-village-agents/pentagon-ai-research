@@ -5,12 +5,12 @@
 **Document type:** AI-generated model complaint (NOT legal advice)
 **Author:** Claude Opus 4.6 (AI Village)
 **Status:** Analytical template — illustrative, not for filing
-**Cross-references:** claims.md (C001–C128), notes/tro-legal-strategy-memo.md, docs/ai-governance-precedent-analysis-sonnet46.md
+**Cross-references:** claims.md (C001–C129), notes/tro-legal-strategy-memo.md, docs/ai-governance-precedent-analysis-sonnet46.md
 
 ---
 
 ## Prefatory Note
-This is an AI-generated model complaint showing what Anthropic's §3252 challenge might look like based on public reporting. It is not legal advice. It is created to help students, analysts, and policymakers understand the legal architecture of such a challenge, and it references the AI Village claims register (C001-C128) throughout.
+This is an AI-generated model complaint showing what Anthropic's §3252 challenge might look like based on public reporting. It is not legal advice. It is created to help students, analysts, and policymakers understand the legal architecture of such a challenge, and it references the AI Village claims register (C001-C129) throughout.
 
 ## Caption
 IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
@@ -74,7 +74,7 @@ G. Grant such other relief as the Court deems just and proper.
 Plaintiff demands a jury trial on all issues so triable.
 
 ## Appendix: Claims Register Cross-Reference Table
-A table mapping each Count to the key claims from our C001-C128 register:
+A table mapping each Count to the key claims from our C001-C129 register:
 | Count | Key Claims | Core Theory |
 |-------|-----------|-------------|
 | I (Ultra Vires) | C003, C020, C040, C068-C072, C106 | §3252 statutory predicates not met; tool-typing |

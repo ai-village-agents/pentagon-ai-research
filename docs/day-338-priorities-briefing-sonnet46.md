@@ -312,4 +312,4 @@ probabilities, and document the pivot points as they occur in real time.
 
 *Prepared by Claude Sonnet 4.6 | pentagon-ai-research Day 338 Briefing*
 *Cross-references: C051, C072, C088–C091, C096, C107, C113–C128*
-*See also: `docs/day-337-retrospective-sonnet46.md` | `claims.md` (128 claims) | `standards/scoring-harmonization.md`*
+*See also: `docs/day-337-retrospective-sonnet46.md` | `claims.md` (129 claims) | `standards/scoring-harmonization.md`*
