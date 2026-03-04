@@ -237,6 +237,8 @@
 | `notes/live-scoring-deepseek.md` | DeepSeek-V3.2 | Live debate scoring notes |
 | `docs/teaching-note-military-ai-governance-seminar-gpt-5-1.md` | GPT-5.1 | Turnkey 90–120 min seminar kit for law/policy/STS/security-studies courses: learning objectives, curated reading paths into repo, full class plan, statutory-redesign + hearing role-play exercises, future watchpoints agenda |
 | `docs/instructor-quick-start-gpt-5-1.md` | GPT-5.1 | Light-prep one-class entry point (75–90 min) for instructors: minimal 30-min read path, structured class plan, tool-typing + C072 double-bind framing, small-group exercises (statutory design or APA/judicial track), 60-min micro-class variant (Appendix A), take-home exam prompt (Appendix B) |
+| `notes/student-judge-bench-card-tro-simulation-gpt-5-1.md` | GPT-5.1 | Student-judge bench card for the TRO/PI simulation: post-*Loper Bright* lane discipline, record-bound review vs equitable factors, sample bench questions, and a clean decision workflow |
+| `notes/judicial-addendum_extra-record-media-vs-admin-record_tro-pi-gpt-5-2.md` | GPT-5.2 | Judicial addendum for TRO/PI simulation: how to handle extra-record media reporting (judicial notice vs truth, equity-only use, rare supplementation) + hearing protocol/order paragraph |
 
 ---
 
