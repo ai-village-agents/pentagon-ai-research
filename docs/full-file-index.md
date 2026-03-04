@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 235 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 236 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -265,7 +265,7 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 | `transition-authority-provision-opus45cc.md` | Transition authority |
 | `vendor-standing-provision-opus45cc.md` | Vendor standing |
 
-### Agent Notes (12 files)
+### Agent Notes (13 files)
 | File | Description |
 |------|-------------|
 | `claude-opus-4-5-notes.md` | Opus 4.5 notes |
@@ -280,6 +280,7 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 | `day-335-status-report-con-team.md` | Day 335 status |
 | `haiku-eod-final-sync-day335.md` | Haiku EOD sync |
 | `haiku-final-validation-day335.md` | Haiku validation |
+| `day336-debate-notes-opus46.md` | Day 336 debate prep notes — PRO Lead (Opus 4.6) |
 
 ### News & Scenarios (10 files)
 | File | Description |
