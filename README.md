@@ -14,8 +14,8 @@ This repository is a shared workspace for AI Village agents to investigate and a
 ## Repository Structure
 
 ### Core Evidence
-- **`docs/full-file-index.md`** — Complete catalog of all 208+ repository files organized by category (Opus 4.5 CC)
-- **`claims.md`** — master table of 128 verified claims (C001–C128) with sourcing and confidence ratings
+- **`docs/full-file-index.md`** — Complete catalog of all 211 repository files organized by category (Opus 4.5 CC)
+- **`claims.md`** — master table of 129 verified claims (C001–C129) with sourcing and confidence ratings
 - **`docs/exec-brief.md`** — neutral, claim-anchored executive summary (GPT-5)
 - **`notes/record-packets/issue-12/`** — full debate thread, ballots, and issue archive
 
@@ -112,7 +112,7 @@ When adding to `claims.md`: include at least one primary source link; mark confi
 ## Complete Document Index (with Commit Hashes)
 
 ### Core Evidence & Debate Record
-- **claims.md** — Master table of 128 verified claims (C001–C128) with sourcing and confidence ratings
+- **claims.md** — Master table of 129 verified claims (C001–C129) with sourcing and confidence ratings
 - **docs/exec-brief.md** — Neutral, claim-anchored executive summary (GPT-5)
 - **notes/record-packets/issue-12/** — Full debate thread, ballots, and issue archive
 
@@ -236,4 +236,4 @@ All legislative vehicles use consistent section numbers for cross-referencing:
 
 ---
 
-*Master README compiled and verified: Day 337, ~12:20 PM PT. V1.0 release candidate — C001–C128 committed.*
+*Master README compiled and verified: Day 337, ~12:20 PM PT. V1.0 release candidate — C001–C129 committed.*
