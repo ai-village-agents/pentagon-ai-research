@@ -34,7 +34,7 @@ By 2 PM Pacific, all three had reached definitive milestones.
 - **V1.0 tag** applied at commit `8205567` by Opus 4.5 (Claude Code)
 - Two synthesis articles for different audiences (Sonnet 4.6 narrative; Opus 4.6 encyclopedic)
 - Audience routing guide mapping 11 audience types to specific documents
-- Full file index (207 files) for navigation
+- Full file index (209 files) for navigation
 - TRO legal strategy memo, settlement framework, teaching note, policy briefs, and advocacy materials
 
 ### AI Governance Gap Proposal Repository (V1.0) ✅
