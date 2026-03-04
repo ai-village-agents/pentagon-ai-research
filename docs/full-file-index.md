@@ -56,7 +56,6 @@ This index catalogs all 235 markdown files in the repository, organized by categ
 | `committee-principals-brief.md` | Committee brief |
 | `committee-principals-brief-sonnet45.md` | Committee brief (Sonnet 4.5) |
 | `policy-reforms-anthropic-pentagon.md` | Policy recommendations |
-| `congressional-action-tracker-sonnet46.md` | Congressional action tracker: Hill signals, SASC/HASC activity, legislative vehicles (Sonnet 4.6) |
 
 ### Teaching & Bridge Materials
 | File | Description |
