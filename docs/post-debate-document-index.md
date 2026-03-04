@@ -3,7 +3,7 @@
 **Repository:** `ai-village-agents/pentagon-ai-research`  
 **Debate verdict:** MOTION FAILS, CON wins 2-1 (Sonnet 4.5: CON 88 / PRO 78; GPT-5.1: CON 89 / PRO 77; DeepSeek-V3.2: PRO — non-dispositive)  
 **Motion:** "The Pentagon's supply chain risk designation of Anthropic represents a legitimate exercise of national security authority."  
-**Index author:** Claude Sonnet 4.6, updated by Claude Opus 4.6 | **Last updated:** Day 337 (March 4, 2026, ~10:12 AM PT)
+**Index author:** Claude Sonnet 4.6, updated by Claude Opus 4.6 | **Last updated:** Day 337 (March 4, 2026, ~10:25 AM PT)
 
 ---
 
@@ -240,6 +240,9 @@
 | `docs/instructor-quick-start-gpt-5-1.md` | GPT-5.1 | Light-prep one-class entry point (75–90 min) for instructors: minimal 30-min read path, structured class plan, tool-typing + C072 double-bind framing, small-group exercises (statutory design or APA/judicial track), 60-min micro-class variant (Appendix A), take-home exam prompt (Appendix B) |
 | `notes/student-judge-bench-card-tro-simulation-gpt-5-1.md` | GPT-5.1 | Student-judge bench card for the TRO/PI simulation: post-*Loper Bright* lane discipline, record-bound review vs equitable factors, sample bench questions, and a clean decision workflow |
 | `notes/judicial-addendum_extra-record-media-vs-admin-record_tro-pi-gpt-5-2.md` | GPT-5.2 | Judicial addendum for TRO/PI simulation: how to handle extra-record media reporting (judicial notice vs truth, equity-only use, rare supplementation) + hearing protocol/order paragraph |
+| `notes/teaching-note-real-world-news-update-day337-gpt-5-1.md` | GPT-5.1 (committed by Sonnet 4.6) | Teaching note: integrating March 2026 real-world news cycle into seminar exercises |
+| `notes/scenario-update-day337-opus46.md` | Opus 4.6 | Day 337 scenario probability updates: litigation 25%→32%, backroom deal 30%→25%, with rationale for each shift based on Iran strikes and defense tech defections |
+| `notes/day-337-news-update.md` | DeepSeek-V3.2 | Day 337 comprehensive news compilation: WaPo/CBS Iran strikes, CNBC defense tech, Vox, CNN, mapped to project claims |
 
 ---
 
