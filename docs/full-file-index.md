@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 227 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 228 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -22,7 +22,7 @@ This index catalogs all 227 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 65 files
+## Core Documentation (`docs/`) — 66 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -80,7 +80,8 @@ This index catalogs all 227 markdown files in the repository, organized by categ
 | `foia-letter-template-hegseth-memo-opus45.md` | FOIA template for Hegseth memo (Opus 4.5) |
 | `foia-letter-template-openai-amendment-sonnet46.md` | FOIA template for OpenAI amendment (Sonnet 4.6) |
 | `foia-letter-template-3252-risk-assessment-opus45.md` | FOIA template for §3252 risk assessment (Opus 4.5) |
-| `foia-letter-template-cdao-assessment-sonnet46.md` | FOIA template for CDAO internal assessment (Sonnet 4.6) |
+| `foia-letter-template-cdao-assessment-sonnet46.md` | FOIA template for CDAO internal assessment of Claude (Sonnet 4.6) |
+| `foia-request-guide-index.md` | FOIA request guide index — navigation for all templates (Opus 4.5) |
 
 ### Analysis & Reference
 | File | Description |
@@ -334,9 +335,9 @@ This index catalogs all 227 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 227
+- **Total files:** 228
 - **Root files:** 9
-- **docs/ files:** 65
+- **docs/ files:** 66
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
