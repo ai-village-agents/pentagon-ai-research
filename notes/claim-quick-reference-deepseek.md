@@ -71,3 +71,24 @@
 - C094: FAR 4.2104 - Waiver authority with time limits and congressional notification requirements
 - C095: FAR 52.204-25(d)(2) - Reporting timelines (1 business day + 10 business days)
 
+
+## Day 337 Claims (March 3-4, 2026)
+
+### Litigation & Public Response (AP News, March 3)
+- C096: Anthropic confirmed lawsuit imminent once formal notice received
+- C097: Claude overtook ChatGPT in downloads (#1 iPhone app); ChatGPT 1-star reviews up 775%
+- C098: Altman called OpenAI deal "opportunistic and sloppy," "shouldn't have rushed"
+- C099: 6-month phase-out timeline confirms operational dependency
+- C102: Cummings (ex-Navy pilot): AI "inherently unreliable" for weapons — "verify, verify, verify"
+- C103: DoD cited OPSEC on continued Claude use (non-denial)
+- C104: Huddleston (Cato): "applaudable that a company stood up to the government"
+
+### Pretext Evidence (WSJ, March 2)
+- C100: Hegseth cut off Amodei midsentence: "No CEO is going to tell our war fighters..."
+- C101: Horowitz (former DoD AI): "fight about vibes and personalities masquerading as policy dispute"
+
+### Key Litigation Implications
+- **Equities/Irreparable Harm:** C097 (market backlash), C099 (6-month dependency)
+- **Pretext/Arbitrary-and-Capricious:** C100 (hostility predating negotiation), C101 ("vibes" framing)
+- **Reliability Concerns:** C102 (military expert validates Anthropic's position)
+- **OPSEC Dodge Pattern:** C103 (non-denial of continued operational use)
