@@ -24,6 +24,7 @@ By early March 2026, public reporting begins to **mirror and stress-test** the i
     - Broader "AI industry's civil war."
   - **Legal analysis** (e.g., Just Security, Lawfare) explicitly assessing whether a §3252-style designation would "survive first contact with the legal system."
   - **Policy/oversight angles** (e.g., FCC chair criticism, experts warning of overreach).
+  - **Investigative/exclusive reporting** — especially a March 4, 2026 Reuters piece on the **industry coalition response**, competitor lobbying, and investor pressure, which this project encodes as claims **C113–C122** in `claims.md` (Attributed, not independently verified here).
 - These stories **validate and complicate** several of our core teaching themes:
   - **Tool-typing:** external commentators now grapple with whether a sabotage-style power is being used to manage an AI governance dispute.
   - **C072 double bind:** coverage of vendors "dropping Claude" and political pressure on guardrails echoes the risk of punishing principled vendors.
@@ -117,6 +118,23 @@ If coverage supports the idea that **governments continue using a tool they have
     - Tailored or time-limited relief?
 
 This dovetails directly with the **student-judge TRO/PI bench card** and the **take-home exam** on statutory fit and post-*Loper Bright* admin law.
+
+### 3.4 Industry coalition and the capitulation dilemma (Reuters, C113–C122)
+
+The Reuters March 4, 2026 exclusive (encoded in this teaching simulation as **C113–C122** in `claims.md`) adds a **governance and incentives layer** to the case:
+
+- **Industry coalition:** According to Reuters, the Information Technology Industry Council (ITI) — with members like Nvidia, Amazon, Apple, and OpenAI — raised concerns about using a **supply‑chain risk designation** to fight what looks like a procurement/guardrails dispute.
+- **Competitor defense of a rival:** A senior OpenAI security policy lead is reported as **working to get Anthropic’s designation reversed**, not because the two companies suddenly align on everything, but because the precedent is dangerous for the whole sector.
+- **Investor and partner mobilization:** Reporting describes Anthropic leadership engaging major investors and partners (e.g., Amazon’s Andy Jassy, venture funds like Lightspeed and Iconiq) to push back on the designation and explore off‑ramps.
+- **The capitulation trap:** Some investors allegedly fault Dario Amodei’s style, yet also concede that **full capitulation on guardrails would shred internal morale and new user trust**, especially after a visible surge in consumer adoption.
+- **Secondary shifts and customer flight risk:** The story also gestures at agencies (e.g., State) **shifting from Anthropic to OpenAI** after a political directive to dump Anthropic within six months, reinforcing the secondary‑boycott / dependency themes in the case.
+
+**Teaching prompts:**
+
+- How does an **industry coalition** change the risk calculus for both the Pentagon and Anthropic compared with a purely bilateral fight?
+- Does competitor support for Anthropic strengthen arguments about **mis‑typed tools** and C072‑style retaliation ("if this sticks, we’re all at risk")?
+- How would you brief a board or GC on the **capitulation dilemma** — i.e., short‑term de‑risking via quiet deal vs. long‑term damage to safety culture, employee trust, and regulatory credibility?
+- If you are teaching both this repo and the separate **AI Governance Gap Toolkit**, you can connect this Reuters cluster to **Case Study A** and the **Governance Implementation Playbook**, which treat industry coalitions and capitulation traps as core governance stress tests.
 
 ---
 
