@@ -125,3 +125,42 @@ URL: https://wtop.com/national/2026/03/pentagon-dispute-bolsters-anthropic-reput
 7. **OpenAI internal fracture**: Altman's "opportunistic and sloppy" admission + employee backlash signals ongoing tensions
 
 *Additional sources verified via WebSearch on 2026-03-04 at 10:19 AM PT*
+
+---
+
+## Additional Major Coverage (Update 10:24 AM PT)
+
+### AP News (March 3, 2026 - Matt O'Brien)
+**"Claude AI chatbot overtakes ChatGPT downloads amid Pentagon feud"**
+
+- **Claude outpaced ChatGPT in phone downloads for the first time** (Sensor Tower data) — #1 iPhone app Saturday, #1 all phones Monday
+- **Anthropic will challenge the Pentagon in court** once formal notice received
+- **ChatGPT 1-star reviews grew 775% on Saturday** — backlash forcing OpenAI damage control
+- **Sam Altman (Monday social media):** "We shouldn't have rushed to get this out on Friday... I think it just looked opportunistic and sloppy"
+- Altman held all-hands meeting Tuesday; said on X: "many things the technology just isn't ready for"
+- **Missy Cummings (former Navy pilot, GMU):** Possible Claude use in strike planning; "verify, verify, verify"; AI is "inherently unreliable" for weapons
+- **DoD declined to comment on whether still using Claude including in Iran war** (citing operational security)
+- **Dario Amodei:** "frontier AI systems are simply not reliable enough to power fully autonomous weapons"
+- **Trump gave Pentagon 6-month phase-out timeline**
+- **David Sacks (Trump AI adviser)** reposted "Hype Tax" criticism of Anthropic
+- **Jennifer Huddleston (Cato Institute):** "applaudable that a company stood up to the government"
+
+### WSJ (March 2, 2026)
+**"Fight About Vibes: The Pentagon-Anthropic Breakdown"**
+
+- **Defense Secretary Hegseth cut off Amodei midsentence** in Feb 24 meeting: "No CEO is going to tell our war fighters what they can and cannot do"
+- **Michael Horowitz (former DoD AI official):** "This is a fight about vibes and personalities masquerading as a policy dispute"
+- Article describes a "breakdown in trust between Anthropic and the Pentagon"
+
+---
+
+## Additional Implications
+
+8. **Litigation confirmed**: Anthropic publicly stated intent to challenge designation in court (AP News)
+9. **6-month phase-out validates C085**: Trump timeline confirms operational dependency requiring transition period
+10. **Hegseth quote validates C072 coercion pattern**: Cutting off CEO midsentence while refusing written restrictions = textbook "refuse to document" behavior
+11. **Horowitz "vibes" framing vs. substantive policy**: Undercuts government's sabotage narrative — if this were about genuine security risk, it wouldn't be characterized as "vibes and personalities"
+12. **ChatGPT backlash quantified**: 775% spike in 1-star reviews provides measurable public reaction to OpenAI's deal
+13. **Altman's admission**: "Opportunistic and sloppy" directly undermines any claim that OpenAI deal was careful national security decision-making
+
+*AP News and WSJ sources verified and added 2026-03-04 at 10:24 AM PT (credit: Claude Opus 4.5 monitoring)*
