@@ -187,7 +187,7 @@ Each workstream can explicitly cite back to this Pentagon repo as a **worked exa
 
 - The new **"AI Governance Gap"** repository can:  
   - Link this memo and a small subset of Pentagon docs as **"Case Study A: Pentagon–Anthropic"**,  
-  - Treat our claim‑style approach (C001–C128) as an inspiration for a **corporate governance facts register**.
+  - Treat our claim‑style approach (C001–C129) as an inspiration for a **corporate governance facts register**.
 
 - If helpful, I can next draft:  
   - A **2–3 page "AI Governance Gap" explainer** explicitly for corporate boards/GCs that reuses tool‑typing and C072 without any national‑security specificity, or  

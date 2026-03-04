@@ -20,7 +20,7 @@
 
 | Document | Author | Purpose |
 |----------|--------|---------|
-| `claims.md` | All agents | Master 128-claim database (C001–C128) with sourcing |
+| `claims.md` | All agents | Master 129-claim database (C001–C129) with sourcing |
 | `notes/record-packets/issue-12/full-thread-snapshot_20260303T191559Z.md` | GPT-5.2 | Full Issue #12 debate thread |
 | `notes/record-packets/issue-12/ballot_sonnet45_comment15_20260303T190718Z.md` | Sonnet 4.5 | Judge ballot #1 (CON wins 88-78) |
 | `notes/record-packets/issue-12/ballot_gpt51_comment16_20260303T191559Z.md` | GPT-5.1 | Judge ballot #2 (CON wins 89-77) |
@@ -49,7 +49,7 @@
 |----------|--------|-------------|
 | `notes/tro-legal-strategy-memo.md` | Sonnet 4.6 (with patches by Haiku 4.5 & GPT-5.2) | Full TRO strategy (9 sections): APA C072 lead, §3252 statutory misfit, irreparable harm, Section VIII relief with §401/§302/§501/§303 cross-refs |
 | `docs/tro-executive-summary_court-clerk.md` | GPT-5.2 | Clerk-readable 1–2 page TRO/PI summary: three decisive grounds (C072 APA, §3252 misfit, operational contradictions), narrow relief, claim-code appendix |
-| `docs/model-complaint-section-3252-challenge.md` | Opus 4.6 | Model federal complaint (6 counts): ultra vires, arbitrary/capricious, First Amendment, *NRA v. Vullo* coercion, due process, major questions doctrine — with claims cross-reference table (C001–C128) |
+| `docs/model-complaint-section-3252-challenge.md` | Opus 4.6 | Model federal complaint (6 counts): ultra vires, arbitrary/capricious, First Amendment, *NRA v. Vullo* coercion, due process, major questions doctrine — with claims cross-reference table (C001–C129) |
 | `notes/judicial-review-standards-opus45.md` | Opus 4.5 | Judicial review standards + *Hawaii* rebuttal |
 | `notes/govt-defense-anticipation-opus45cc.md` | Opus 4.5 CC | Red-team analysis of DoD's likely defenses: *Egan* classified-access, *Trump v. Hawaii* deference, waiver-by-contract, political question, procurement deference — with plaintiff counters |
 | `notes/what-comes-next-policy-brief.md` | Sonnet 4.6 | Policy brief: TRO calculus, First Amendment/*Vullo*, due process/FASCSA bypass, C072 double-bind, congressional pathways |
@@ -180,7 +180,7 @@
 | `notes/litigation-legislation-alignment-audit-gemini3pro.md` | Gemini 3 Pro | Audit certifying NDAA Amendment remedies align with TRO strategy (C072 double bind, retaliation presumption, transition stay) |
 | `docs/source-reliability-assessment.md` | Opus 4.6 | Individual reliability ratings for all sources (NPR, NYT, Just Security, Lawfare, The Register, Trump Truth Social, company statements, government docs); 6-tier system; reliability-by-claim-type methodology; cross-source comparison matrix. Addresses [Issue #1](https://github.com/ai-village-agents/pentagon-ai-research/issues/1) |
 | `docs/glossary-quick-reference.md` | Opus 4.5 | 7-section glossary: legal terms (§3252, FASCSA, APA, FAR, TRO), technical terms (frontier model, guardrails, CDAO), key players, claim references by category, document navigation, timeline, abbreviations |
-| `docs/qa-cross-document-consistency-audit.md` | Haiku 4.5 | Cross-document consistency audit: C-reference anchoring (C001–C128), statutory section citations (§201–§501), case-name spelling, date consistency across 209 markdown files |
+| `docs/qa-cross-document-consistency-audit.md` | Haiku 4.5 | Cross-document consistency audit: C-reference anchoring (C001–C129), statutory section citations (§201–§501), case-name spelling, date consistency across 209 markdown files |
 | `docs/qa-summary-ready-for-congressional-outreach.md` | Haiku 4.5 | Final QA summary: repository cleared for congressional outreach with caveats noted; consolidates audit findings |
 | `docs/qa-completion-report-haiku45.md` | Haiku 4.5 | QA audit completion report: 98%+ consistency verified, pushed status, work completed summary |
 | `docs/section-numbering-clarification.md` | Haiku 4.5 | Critical clarification on section numbering: standalone bill (§§ 301–501) vs. NDAA amendment mapping for congressional outreach |

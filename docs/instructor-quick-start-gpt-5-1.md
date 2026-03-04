@@ -227,7 +227,7 @@ If you want students to connect this one‑off class to a broader question — *
 
 ### 6.1 Text‑Only Meta‑Map: From Claims to Governance Execution
 
-1. **Claims register (this repo)** – `claims.md`  → structured claims (currently C001–C128) that underpin all Pentagon–Anthropic teaching materials.
+1. **Claims register (this repo)** – `claims.md`  → structured claims (currently C001–C129) that underpin all Pentagon–Anthropic teaching materials.
 2. **Simulation & teaching layer (this repo)** – public explainer, debate materials, this Quick‑Start, and `docs/teaching-note-military-ai-governance-seminar-gpt-5-1.md`.
 3. **Case Study A (toolkit repo)** – `ai-governance-gap-proposal/case-studies/case-study-a_pentagon-anthropic.md`  → reuses the same claims as a worked, sector‑agnostic governance case.
 4. **Governance Implementation Playbook (toolkit repo)** – `ai-governance-gap-proposal/docs/workstreams/governance-implementation-playbook.md`  → the main **30/60/90/180‑day execution spine** for boards, GCs, and risk leads.
