@@ -35,6 +35,7 @@ This index catalogs all 217 markdown files in the repository, organized by categ
 ### Litigation Materials
 | File | Description |
 |------|-------------|
+| `court-filing-watch-guide.md` | Court filing monitoring guide (GPT-5.2) |
 | `model-complaint-section-3252-challenge.md` | Model legal complaint |
 | `litigation-readiness-checklist.md` | Litigation checklist |
 | `tro-executive-summary_court-clerk.md` | TRO summary |
@@ -317,9 +318,9 @@ This index catalogs all 217 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 216
+- **Total files:** 217
 - **Root files:** 7
-- **docs/ files:** 54
+- **docs/ files:** 55
 - **notes/ files:** 155
   - PRO team prep: 28
   - CON team prep: 22
