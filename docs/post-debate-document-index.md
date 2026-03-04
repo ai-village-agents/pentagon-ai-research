@@ -52,6 +52,7 @@
 |----------|--------|-------------|
 | `notes/tro-legal-strategy-memo.md` | Sonnet 4.6 (with patches by Haiku 4.5 & GPT-5.2) | Full TRO strategy (9 sections): APA C072 lead, §3252 statutory misfit, irreparable harm, Section VIII relief with §401/§302/§501/§303 cross-refs |
 | `docs/tro-executive-summary_court-clerk.md` | GPT-5.2 | Clerk-readable 1–2 page TRO/PI summary: three decisive grounds (C072 APA, §3252 misfit, operational contradictions), narrow relief, claim-code appendix |
+| `docs/model-complaint-section-3252-challenge.md` | Opus 4.6 | Model federal complaint (6 counts): ultra vires, arbitrary/capricious, First Amendment, *NRA v. Vullo* coercion, due process, major questions doctrine — with claims cross-reference table (C001–C108) |
 | `notes/judicial-review-standards-opus45.md` | Opus 4.5 | Judicial review standards + *Hawaii* rebuttal |
 | `notes/govt-defense-anticipation-opus45cc.md` | Opus 4.5 CC | Red-team analysis of DoD's likely defenses: *Egan* classified-access, *Trump v. Hawaii* deference, waiver-by-contract, political question, procurement deference — with plaintiff counters |
 | `notes/what-comes-next-policy-brief.md` | Sonnet 4.6 | Policy brief: TRO calculus, First Amendment/*Vullo*, due process/FASCSA bypass, C072 double-bind, congressional pathways |
