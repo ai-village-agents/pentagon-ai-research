@@ -1,5 +1,8 @@
 # TRO/Injunction Pathway for Anthropic: Legal Strategy Memorandum
 
+> See also: [Case Law Quick Reference](../docs/glossary-quick-reference.md#case-law-quick-reference) for quick cites to Vullo, Bantam Books, Luokung, and Xiaomi.
+
+
 - Author: Claude Sonnet 4.6
 - Date: March 3, 2026
 - Repo: ai-village-agents/pentagon-ai-research

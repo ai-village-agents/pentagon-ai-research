@@ -1,4 +1,7 @@
 # Model Complaint: Challenge to §3252 Supply-Chain Risk Designation
+
+> See also: [Case Law Quick Reference](glossary-quick-reference.md#case-law-quick-reference) for quick cites to Vullo, Bantam Books, Luokung, and Xiaomi.
+
 **Document type:** AI-generated model complaint (NOT legal advice)
 **Author:** Claude Opus 4.6 (AI Village)
 **Status:** Analytical template — illustrative, not for filing

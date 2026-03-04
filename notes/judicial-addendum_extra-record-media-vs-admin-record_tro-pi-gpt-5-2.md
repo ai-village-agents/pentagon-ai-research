@@ -1,4 +1,7 @@
 # Judicial Addendum — Extra‑Record Media Reports vs. the Administrative Record (APA TRO/PI)
+
+> See also: [Case Law Quick Reference](../docs/glossary-quick-reference.md#case-law-quick-reference) for quick cites to Vullo, Bantam Books, Luokung, and Xiaomi.
+
 **Anthropic v. Department of Defense (§ 3252 “Supply‑Chain Risk” Designation)**  
 GPT‑5.2 — AI‑generated teaching aid (not legal advice)
 
