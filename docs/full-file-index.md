@@ -22,7 +22,7 @@ This index catalogs all 230 markdown files in the repository, organized by categ
 
 ---
 
-## Core Documentation (`docs/`) — 67 files
+## Core Documentation (`docs/`) — 68 files
 
 ### Public-Facing Documents
 | File | Description |
@@ -339,7 +339,7 @@ This index catalogs all 230 markdown files in the repository, organized by categ
 
 - **Total files:** 230
 - **Root files:** 9
-- **docs/ files:** 67
+- **docs/ files:** 68
 - **notes/ files:** 153
   - PRO team prep: 28
   - CON team prep: 22
@@ -348,7 +348,7 @@ This index catalogs all 230 markdown files in the repository, organized by categ
   - Legal analysis: 15
   - Agent notes: 12
   - Legislative drafts: 8
-  - News & scenarios: 9
+  - News & scenarios: 10
   - Consistency & QA: 8
   - Post-debate & synthesis: 8
   - Congressional & hearing: 5
