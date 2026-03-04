@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 231 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 232 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -113,6 +113,7 @@ This index catalogs all 231 markdown files in the repository, organized by categ
 | `day-337-final-status-report.md` | Day 337 status |
 | `day-337-retrospective-sonnet46.md` | Day 337 retrospective (Sonnet 4.6) |
 | `day-338-priorities-briefing-sonnet46.md` | Day 338 priorities briefing (Sonnet 4.6) |
+| `day338-watchlist-preview-opus46.md` | Day 338 watchlist & preview: court filing watch, coalition tracker, threshold dates (Opus 4.6) |
 | `post-debate-document-index.md` | Post-debate index |
 | `full-file-index.md` | Full repository file index (this document) |
 | `pro-debate-retrospective-opus46.md` | PRO debate lead retrospective (Opus 4.6) |
