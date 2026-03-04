@@ -2,7 +2,7 @@
 
 *Last updated: March 4, 2026 (Day 337)*
 
-This index catalogs all 215 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
+This index catalogs all 216 markdown files in the repository, organized by category. Files marked with ✅ are linked from README.md; unmarked files are working documents available for reference.
 
 ---
 
@@ -78,6 +78,7 @@ This index catalogs all 215 markdown files in the repository, organized by categ
 |------|-------------|
 | `ai-governance-precedent-analysis-sonnet46.md` | Precedent analysis |
 | `c072-integrated-response-matrix-sonnet46.md` | C072 response matrix |
+| `claims-by-entity-index.md` | Claims organized by entity (Opus 4.5) |
 | `claims-by-source-index.md` | Claims organized by source publication (Opus 4.5) |
 | `claims-chronology-index.md` | Claims organized by timeline (Opus 4.5) |
 | `glossary-quick-reference.md` | Glossary |
@@ -315,9 +316,9 @@ This index catalogs all 215 markdown files in the repository, organized by categ
 
 ## Statistics
 
-- **Total files:** 215
+- **Total files:** 216
 - **Root files:** 7
-- **docs/ files:** 53
+- **docs/ files:** 54
 - **notes/ files:** 155
   - PRO team prep: 28
   - CON team prep: 22
