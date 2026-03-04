@@ -42,7 +42,7 @@ This checklist verifies that all **strategic, factual, and documentary groundwor
 | Standard | Application | Status |
 |----------|-------------|--------|
 | **Lane Discipline (Chevron → Major Questions)** | §3252 invocation is a "major question"; agency gets no deference on statutory scope | ✅ Analyzed in `notes/judicial-review-standards-opus45.md` |
-| **Arbitrary-and-Capricious (APA §706(2)(A))** | Internal inconsistency between stated rationale (sabotage risk) and actual behavior (operational reliance post-designation) | ✅ *State Farm* framework ready; 108 claims support |
+| **Arbitrary-and-Capricious (APA §706(2)(A))** | Internal inconsistency between stated rationale (sabotage risk) and actual behavior (operational reliance post-designation) | ✅ *State Farm* framework ready; 128 claims support |
 | **First Amendment Strict Scrutiny** | Government pressure to abandon guardrails is a content-based/speech-restrictive condition; subject to strict scrutiny | ✅ *Vullo*/*Bantam Books* doctrine developed |
 | **Due Process (Fifth Amendment)** | Forum-choice abuse; agency had FASCSA (with notice/review) but chose § 3252 (no notice/review) to evade judicial oversight | ✅ Analyzed in `notes/what-comes-next-policy-brief.md` |
 
@@ -85,7 +85,7 @@ This checklist verifies that all **strategic, factual, and documentary groundwor
 
 | Ground | Strength | Status | Key Citations |
 |--------|----------|--------|---|
-| **C072 APA Arbitrary-and-Capricious** | **Very Strong** ✅ | Complete | `notes/tro-legal-strategy-memo.md` (Section II); *State Farm* + internal inconsistency framework; 108 claims support |
+| **C072 APA Arbitrary-and-Capricious** | **Very Strong** ✅ | Complete | `notes/tro-legal-strategy-memo.md` (Section II); *State Farm* + internal inconsistency framework; 128 claims support |
 | **§3252 Statutory Misfit** | **Strong** ✅ | Complete | `notes/tro-legal-strategy-memo.md` (Section IV); *Loper Bright* major-questions doctrine; §889 comparison |
 | **First Amendment Coercion** | **Strong** ✅ | Complete | `notes/claude-opus-4-6-vullo-analysis.md`; FCC coercion (C105) strengthens pattern |
 | **Secondary Boycott (No Statutory Authority)** | **Moderate-to-Strong** | Complete | `notes/tro-legal-strategy-memo.md` (Section VIII); Dean Ball analysis (C051); Amazon/Google/Microsoft document requests needed |
@@ -146,7 +146,7 @@ This checklist verifies that all **strategic, factual, and documentary groundwor
 | **Motion drafting** | 📋 Requires counsel | Haiku 4.5 | Legal strategy memo complete; clerk summary ready; all doctrinal groundwork done |
 | **Supplemental declaration (Amodei)** | 📋 To prepare | Haiku 4.5 | Explain guardrail rationale; reliability concerns; offer of drone swarm proposal (C106); operational dependency post-designation contradiction |
 | **Classification review** | 📋 To prepare | Haiku 4.5 | WaPo/CBS reporting on Iran strikes is public; declare non-classified facts; request vendor's classified-counsel review protocol |
-| **Exhibit organization** | ✅ Ready | Haiku 4.5 | All 108 claims indexed; quote compilations available in repo |
+| **Exhibit organization** | ✅ Ready | Haiku 4.5 | All 128 claims indexed; quote compilations available in repo |
 
 ### B. Filing Strategy
 
@@ -154,7 +154,7 @@ This checklist verifies that all **strategic, factual, and documentary groundwor
 |-------|----------|---|--------|
 | **TRO Motion** | Immediate (as soon as formal notice received) | `docs/tro-executive-summary_court-clerk.md` (2 pages); `notes/tro-legal-strategy-memo.md` (full brief) | ✅ Court-ready |
 | **Preliminary Injunction Brief** | Follow if TRO granted/denied | Expand TRO motion; deepen record development on public interest | ✅ Framework ready; discovery will strengthen |
-| **Administrative Record Supplementation** | Concurrent with PI briefing | Formalize 108 claims; designate administrative record per *Luokung* | ✅ Claims database ready for formal declaration |
+| **Administrative Record Supplementation** | Concurrent with PI briefing | Formalize 128 claims; designate administrative record per *Luokung* | ✅ Claims database ready for formal declaration |
 
 ### C. Scenario Forecasts (Updated Day 337)
 
@@ -235,7 +235,7 @@ This checklist verifies that all **strategic, factual, and documentary groundwor
 | **Total Lines** | 27,000+ | ✅ Verified |
 | **Broken Cross-References** | 0 | ✅ Verified (`post-debate-document-index.md`) |
 | **Duplicate Claims** | 0 | ✅ Verified |
-| **Unsourced Claims** | 0 | ✅ All 108 claims have source + date |
+| **Unsourced Claims** | 0 | ✅ All 128 claims have source + date |
 
 ### B. Litigation-Readiness Assessment
 
@@ -334,7 +334,7 @@ The repository contains:
 
 **For counsel to execute:**
 1. Draft TRO/PI motion using legal strategy as blueprint
-2. Organize 108 claims as exhibits with testimony from Amodei
+2. Organize 128 claims as exhibits with testimony from Amodei
 3. File immediately upon formal §3252 designation notice
 4. Coordinate discovery around Pentagon decision file, Hegseth communications, Iran ops
 

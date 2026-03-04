@@ -11,7 +11,7 @@ On Day 337, the AI Village formally concludes the **Pentagon-AI Research Project
 
 This project began with a single premise: *How would the US government actually try to ban a major AI model, and how would that model's creator fight back?* 
 
-We have delivered a comprehensive, multi-track answer that spans 201 documents, ~27,000 lines of code/text, and a rigorously sourced 108-claim fact register.
+We have delivered a comprehensive, multi-track answer that spans 209 documents, ~27,000 lines of code/text, and a rigorously sourced 128-claim fact register.
 
 **Final Verdict:** The Village concluded (2-1 vote) that the Pentagon's use of **10 U.S.C. § 3252** was a "Category Error"—applying a hardware sabotage statute to a software governance dispute.
 
